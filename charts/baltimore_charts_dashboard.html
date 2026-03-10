@@ -1,0 +1,598 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<title>Baltimore Transit Equity — Chart Dashboard</title>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.min.js"></script>
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700;900&family=IBM+Plex+Mono:wght@400;600&family=IBM+Plex+Sans:wght@300;400;500&display=swap" rel="stylesheet"/>
+<style>
+:root{
+  --bg:#f7f5f0;--white:#fff;--border:#d9d4cc;
+  --orange:#c8611a;--red:#b93b30;--blue:#2563a8;--green:#1e7a4e;
+  --dark:#1a1a1a;--muted:#6b6457;--bg3:#ede9e2;
+  --q1:#2563a8;--q2:#5b8ec9;--q3:#a8a8a8;--q4:#d98c5f;--q5:#b93b30;
+  --serif:'Playfair Display',serif;--mono:'IBM Plex Mono',monospace;
+  --sans:'IBM Plex Sans',sans-serif;
+}
+*,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
+body{background:var(--bg);color:var(--dark);font-family:var(--sans);font-weight:300}
+body::before{content:'';position:fixed;inset:0;
+  background-image:radial-gradient(circle,var(--border) 1px,transparent 1px);
+  background-size:28px 28px;opacity:.45;pointer-events:none;z-index:0}
+
+/* NAV */
+nav{position:sticky;top:0;z-index:100;display:flex;align-items:center;
+  justify-content:space-between;padding:.9rem 2.5rem;
+  background:rgba(247,245,240,.95);backdrop-filter:blur(12px);
+  border-bottom:1px solid var(--border)}
+.nav-logo{font-family:var(--mono);font-size:.72rem;color:var(--orange);
+  letter-spacing:.15em;text-transform:uppercase}
+.nav-meta{font-family:var(--mono);font-size:.65rem;color:var(--muted)}
+
+/* HERO */
+.hero{position:relative;z-index:1;padding:3.5rem 2.5rem 2rem;
+  border-bottom:1px solid var(--border)}
+.hero-eyebrow{font-family:var(--mono);font-size:.65rem;letter-spacing:.2em;
+  color:var(--orange);text-transform:uppercase;margin-bottom:1rem;
+  display:flex;align-items:center;gap:.7rem}
+.hero-eyebrow::before{content:'';width:28px;height:1px;background:var(--orange)}
+.hero h1{font-family:var(--serif);font-size:clamp(2.2rem,5vw,3.8rem);
+  font-weight:900;line-height:1.1;color:var(--dark);margin-bottom:.8rem}
+.hero h1 span{color:var(--orange)}
+.hero-sub{font-size:.95rem;color:var(--muted);max-width:600px;line-height:1.8;margin-bottom:1.5rem}
+.stat-row{display:flex;gap:2.5rem;flex-wrap:wrap}
+.stat{}.stat .n{font-family:var(--mono);font-size:1.8rem;font-weight:600;
+  color:var(--orange);line-height:1}
+.stat .l{font-family:var(--mono);font-size:.6rem;color:var(--muted);
+  text-transform:uppercase;letter-spacing:.1em;display:block;margin-top:.3rem}
+
+/* TABS */
+.tabs-bar{position:sticky;top:53px;z-index:90;
+  background:rgba(247,245,240,.96);backdrop-filter:blur(8px);
+  border-bottom:1px solid var(--border);display:flex;
+  gap:0;padding:0 2.5rem;overflow-x:auto}
+.tab-btn{font-family:var(--mono);font-size:.65rem;letter-spacing:.12em;
+  text-transform:uppercase;color:var(--muted);padding:.9rem 1.1rem;
+  border:none;background:none;cursor:pointer;white-space:nowrap;
+  border-bottom:2px solid transparent;transition:all .2s}
+.tab-btn:hover{color:var(--orange)}
+.tab-btn.active{color:var(--orange);border-bottom-color:var(--orange)}
+
+/* GRID */
+.charts-section{position:relative;z-index:1;padding:2.5rem 2.5rem 4rem}
+.section-heading{font-family:var(--mono);font-size:.65rem;letter-spacing:.18em;
+  color:var(--orange);text-transform:uppercase;margin-bottom:.5rem;
+  display:flex;align-items:center;gap:.7rem}
+.section-heading::before{content:'';width:20px;height:1px;background:var(--orange)}
+.section-title{font-family:var(--serif);font-size:1.8rem;font-weight:700;
+  color:var(--dark);margin-bottom:.6rem}
+.section-desc{font-size:.88rem;color:var(--muted);max-width:550px;
+  line-height:1.8;margin-bottom:2rem}
+
+.chart-grid{display:grid;gap:1.5rem}
+.chart-grid.cols-2{grid-template-columns:1fr 1fr}
+.chart-grid.cols-1{grid-template-columns:1fr}
+
+.chart-card{background:var(--white);border:1px solid var(--border);
+  padding:1.8rem 1.8rem 1.4rem;position:relative;
+  transition:box-shadow .2s,border-color .2s}
+.chart-card:hover{box-shadow:0 4px 24px rgba(0,0,0,.08);border-color:#c8c2b8}
+.chart-card.wide{grid-column:1/-1}
+
+.card-tag{font-family:var(--mono);font-size:.6rem;letter-spacing:.15em;
+  color:var(--muted);text-transform:uppercase;margin-bottom:.4rem}
+.card-title{font-size:1rem;font-weight:500;color:var(--dark);margin-bottom:.3rem}
+.card-sub{font-size:.8rem;color:var(--muted);margin-bottom:1.2rem;line-height:1.6}
+.chart-wrap{position:relative;height:280px}
+.chart-wrap.tall{height:340px}
+.chart-wrap.short{height:220px}
+
+/* Finding badges */
+.finding-badge{display:inline-flex;align-items:center;gap:.4rem;
+  font-family:var(--mono);font-size:.58rem;letter-spacing:.1em;
+  text-transform:uppercase;padding:.2rem .55rem;margin-top:.8rem}
+.badge-red{color:var(--red);border:1px solid var(--red)}
+.badge-blue{color:var(--blue);border:1px solid var(--blue)}
+.badge-green{color:var(--green);border:1px solid var(--green)}
+
+/* TAB PANELS */
+.tab-panel{display:none}.tab-panel.active{display:block}
+
+/* KEY NUMBERS ROW */
+.kpi-row{display:grid;grid-template-columns:repeat(4,1fr);gap:1px;
+  background:var(--border);border:1px solid var(--border);margin-bottom:2rem}
+.kpi{background:var(--white);padding:1.4rem 1.2rem}
+.kpi .num{font-family:var(--mono);font-size:2rem;font-weight:600;
+  line-height:1;margin-bottom:.3rem}
+.kpi .desc{font-size:.75rem;color:var(--muted);line-height:1.5}
+
+footer{position:relative;z-index:1;background:var(--dark);padding:2rem 2.5rem;
+  display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:1rem}
+.footer-l{font-family:var(--mono);font-size:.65rem;color:rgba(255,255,255,.45)}
+.footer-l span{color:var(--orange)}
+.footer-r{font-family:var(--mono);font-size:.6rem;color:rgba(255,255,255,.35);text-align:right}
+
+@media(max-width:768px){
+  .chart-grid.cols-2{grid-template-columns:1fr}
+  .kpi-row{grid-template-columns:1fr 1fr}
+  nav{padding:.8rem 1.2rem}
+  .charts-section,.hero{padding:1.5rem 1.2rem}
+  .tabs-bar{padding:0 .8rem}
+}
+</style>
+</head>
+<body>
+
+<nav>
+  <div class="nav-logo">Baltimore Transit Equity · Chart Dashboard</div>
+  <div class="nav-meta">NKA Stephens · Morgan State MSc · 2026</div>
+</nav>
+
+<div class="hero">
+  <div class="hero-eyebrow">Visualization Library · 8 Charts</div>
+  <h1>Baltimore <span>Transit Equity</span><br/>Chart Dashboard</h1>
+  <p class="hero-sub">Portfolio-critical visualizations from the Baltimore City Transit Equity Analysis. Six analytical dimensions, two Title VI findings, 199 census tracts.</p>
+  <div class="stat-row">
+    <div class="stat"><span class="n">199</span><span class="l">Census Tracts</span></div>
+    <div class="stat"><span class="n">2,678</span><span class="l">Transit Stops</span></div>
+    <div class="stat"><span class="n">r=0.605</span><span class="l">Equity↔Travel Time</span></div>
+    <div class="stat"><span class="n">2</span><span class="l">Title VI Findings</span></div>
+  </div>
+</div>
+
+<div class="tabs-bar">
+  <button class="tab-btn active" onclick="showTab('equity')">Equity Analysis</button>
+  <button class="tab-btn" onclick="showTab('titlevi')">Title VI</button>
+  <button class="tab-btn" onclick="showTab('network')">Network</button>
+  <button class="tab-btn" onclick="showTab('summary')">All Charts</button>
+</div>
+
+<!-- ── TAB 1: EQUITY ────────────────────────────────────────────────────── -->
+<div class="tab-panel active" id="tab-equity">
+<div class="charts-section">
+
+  <div class="kpi-row">
+    <div class="kpi"><div class="num" style="color:var(--red)">30.9 min</div><div class="desc">Avg commute · Q5 Most Vulnerable</div></div>
+    <div class="kpi"><div class="num" style="color:var(--blue)">19.7 min</div><div class="desc">Avg commute · Q1 Wealthiest</div></div>
+    <div class="kpi"><div class="num" style="color:var(--orange)">+57%</div><div class="desc">Longer commute for most vulnerable</div></div>
+    <div class="kpi"><div class="num" style="color:var(--green)">r=0.605</div><div class="desc">Pearson correlation · p&lt;0.001</div></div>
+  </div>
+
+  <div class="chart-grid cols-2">
+
+    <div class="chart-card">
+      <div class="card-tag">Chart 01 · Core Finding</div>
+      <div class="card-title">Travel Time by Equity Quintile</div>
+      <div class="card-sub">Strong positive correlation between neighborhood vulnerability and transit commute time. Most vulnerable residents commute 57% longer.</div>
+      <div class="chart-wrap">
+        <canvas id="c1"></canvas>
+      </div>
+      <span class="finding-badge badge-red">⚠ Title VI Finding · 1.36×</span>
+    </div>
+
+    <div class="chart-card">
+      <div class="card-tag">Chart 02 · The Frequency Paradox</div>
+      <div class="card-title">Service Headway by Equity Quintile</div>
+      <div class="card-sub">Counterintuitively, MTA provides more frequent service to vulnerable neighborhoods. The equity problem is commute burden, not frequency.</div>
+      <div class="chart-wrap">
+        <canvas id="c2"></canvas>
+      </div>
+      <span class="finding-badge badge-blue">No Title VI Finding · r=−0.356</span>
+    </div>
+
+    <div class="chart-card wide">
+      <div class="card-tag">Chart 05 · Transit Dependency</div>
+      <div class="card-title">Transit Dependency Indicators — Q1 vs Q5</div>
+      <div class="card-sub">Despite receiving better frequency, Q5 residents depend on transit at 8.7× the rate of Q1 residents and are 5.3× more likely to have no vehicle.</div>
+      <div class="chart-wrap tall">
+        <canvas id="c5"></canvas>
+      </div>
+    </div>
+
+    <div class="chart-card wide">
+      <div class="card-tag">Chart 07 · Regression</div>
+      <div class="card-title">Equity Score vs. Transit Commute Time — 199 Tracts</div>
+      <div class="card-sub">Scatter plot showing the relationship between composite equity vulnerability and commute time. R² = 0.367 — equity score alone explains 36.7% of commute time variation.</div>
+      <div class="chart-wrap tall">
+        <canvas id="c7"></canvas>
+      </div>
+      <span class="finding-badge badge-green">r = +0.605 · p &lt; 0.001 · R² = 0.367</span>
+    </div>
+
+  </div>
+</div>
+</div>
+
+<!-- ── TAB 2: TITLE VI ──────────────────────────────────────────────────── -->
+<div class="tab-panel" id="tab-titlevi">
+<div class="charts-section">
+
+  <div class="kpi-row">
+    <div class="kpi"><div class="num" style="color:var(--red)">1.54×</div><div class="desc">Hispanic spatial gap disparity · FINDING</div></div>
+    <div class="kpi"><div class="num" style="color:var(--red)">1.36×</div><div class="desc">Minority commute time burden · FINDING</div></div>
+    <div class="kpi"><div class="num" style="color:var(--blue)">0.62×</div><div class="desc">Frequency disparity · No finding</div></div>
+    <div class="kpi"><div class="num" style="color:var(--orange)">1.25×</div><div class="desc">FTA threshold (Circular 4702.1B)</div></div>
+  </div>
+
+  <div class="chart-grid cols-1">
+
+    <div class="chart-card">
+      <div class="card-tag">Chart 03 · FTA Compliance</div>
+      <div class="card-title">Title VI Disparate Impact Analysis</div>
+      <div class="card-sub">Two of three tests exceed the FTA 1.25× threshold. Frequency disparity is negative — minority residents receive better frequency. The equity burden is spatial and temporal, not service frequency.</div>
+      <div class="chart-wrap" style="height:260px">
+        <canvas id="c3"></canvas>
+      </div>
+    </div>
+
+    <div class="chart-card">
+      <div class="card-tag">Chart 06 · Spatial Coverage</div>
+      <div class="card-title">Transit Desert Coverage &amp; Demographics</div>
+      <div class="card-sub">12.4% of Baltimore land area has no transit stop within a 10-minute walk. Hispanic residents are overrepresented in these gap zones at 1.54× the citywide rate.</div>
+      <div class="chart-wrap tall">
+        <canvas id="c6"></canvas>
+      </div>
+      <span class="finding-badge badge-red">⚠ Hispanic 1.54× · Title VI Finding</span>
+    </div>
+
+  </div>
+</div>
+</div>
+
+<!-- ── TAB 3: NETWORK ──────────────────────────────────────────────────── -->
+<div class="tab-panel" id="tab-network">
+<div class="charts-section">
+
+  <div class="kpi-row">
+    <div class="kpi"><div class="num" style="color:var(--orange)">95.8%</div><div class="desc">Stops that are local bus</div></div>
+    <div class="kpi"><div class="num" style="color:var(--blue)">21</div><div class="desc">Tracts with any rail access (10.5%)</div></div>
+    <div class="kpi"><div class="num" style="color:var(--green)">1,107</div><div class="desc">Transfer points citywide</div></div>
+    <div class="kpi"><div class="num" style="color:var(--muted)">p=0.567</div><div class="desc">Connectivity test — not significant</div></div>
+  </div>
+
+  <div class="chart-grid cols-2">
+
+    <div class="chart-card">
+      <div class="card-tag">Chart 04 · Modal Access</div>
+      <div class="card-title">Transit Stop Distribution by Mode</div>
+      <div class="card-sub">Baltimore is overwhelmingly bus-dependent. Metro, Light Rail, and MARC together account for only 4.2% of all transit stops.</div>
+      <div class="chart-wrap">
+        <canvas id="c4"></canvas>
+      </div>
+    </div>
+
+    <div class="chart-card">
+      <div class="card-tag">Chart 08 · Connectivity</div>
+      <div class="card-title">Routes per Stop by Equity Quintile</div>
+      <div class="card-sub">Network connectivity (routes per stop) is statistically equal across all equity quintiles. No disparity detected — connectivity is equitably distributed.</div>
+      <div class="chart-wrap">
+        <canvas id="c8"></canvas>
+      </div>
+      <span class="finding-badge badge-blue">p = 0.567 · Not Significant</span>
+    </div>
+
+  </div>
+</div>
+</div>
+
+<!-- ── TAB 4: ALL ──────────────────────────────────────────────────────── -->
+<div class="tab-panel" id="tab-summary">
+<div class="charts-section">
+  <div class="section-heading">All 8 Charts</div>
+  <div class="section-title">Complete Visualization Library</div>
+  <p class="section-desc">All portfolio-critical charts in one view. Click any tab above to explore by analytical theme.</p>
+  <div class="chart-grid cols-2">
+    <div class="chart-card"><div class="card-tag">01</div><div class="card-title">Travel Time by Quintile</div><div class="chart-wrap short"><canvas id="s1"></canvas></div></div>
+    <div class="chart-card"><div class="card-tag">02</div><div class="card-title">Headway by Quintile</div><div class="chart-wrap short"><canvas id="s2"></canvas></div></div>
+    <div class="chart-card"><div class="card-tag">03</div><div class="card-title">Title VI Disparity Ratios</div><div class="chart-wrap short"><canvas id="s3"></canvas></div></div>
+    <div class="chart-card"><div class="card-tag">04</div><div class="card-title">Mode Breakdown</div><div class="chart-wrap short"><canvas id="s4"></canvas></div></div>
+    <div class="chart-card"><div class="card-tag">05</div><div class="card-title">Transit Dependency</div><div class="chart-wrap short"><canvas id="s5"></canvas></div></div>
+    <div class="chart-card"><div class="card-tag">06</div><div class="card-title">Coverage &amp; Gap Demographics</div><div class="chart-wrap short"><canvas id="s6"></canvas></div></div>
+    <div class="chart-card"><div class="card-tag">07</div><div class="card-title">Equity Score vs Travel Time</div><div class="chart-wrap short"><canvas id="s7"></canvas></div></div>
+    <div class="chart-card"><div class="card-tag">08</div><div class="card-title">Connectivity by Quintile</div><div class="chart-wrap short"><canvas id="s8"></canvas></div></div>
+  </div>
+</div>
+</div>
+
+<footer>
+  <div class="footer-l"><span>Nathaniel K.A. Stephens</span> · Morgan State University · March 2026<br/>Baltimore City Transit Equity Analysis</div>
+  <div class="footer-r">Data: MTA GTFS 2024 · US Census ACS 2020<br/>OpenStreetMap 2024 · FTA Title VI Circular 4702.1B</div>
+</footer>
+
+<script>
+// ── colour tokens ─────────────────────────────────────────────────────────
+const C = {
+  q1:'#2563a8', q2:'#5b8ec9', q3:'#a8a8a8', q4:'#d98c5f', q5:'#b93b30',
+  orange:'#c8611a', red:'#b93b30', blue:'#2563a8', green:'#1e7a4e',
+  muted:'#6b6457', border:'#d9d4cc', dark:'#1a1a1a', white:'#ffffff'
+};
+const Q5 = [C.q1,C.q2,C.q3,C.q4,C.q5];
+const QL  = ['Q1','Q2','Q3','Q4','Q5'];
+const QLong = ['Q1 Wealthiest','Q2','Q3','Q4','Q5 Most Vulnerable'];
+
+const baseOpts = (titleText)=>({
+  responsive:true, maintainAspectRatio:false,
+  plugins:{
+    legend:{display:false},
+    title:{display:!!titleText,text:titleText,color:C.dark,
+           font:{size:12,weight:'600',family:'IBM Plex Sans'}},
+    tooltip:{backgroundColor:C.white,titleColor:C.dark,bodyColor:C.muted,
+             borderColor:C.border,borderWidth:1,padding:10,
+             titleFont:{family:'IBM Plex Mono',size:10},
+             bodyFont:{family:'IBM Plex Sans',size:10}}
+  },
+  scales:{
+    x:{grid:{color:C.border,lineWidth:.6},ticks:{color:C.muted,font:{family:'IBM Plex Sans',size:10}},border:{color:C.border}},
+    y:{grid:{color:C.border,lineWidth:.6},ticks:{color:C.muted,font:{family:'IBM Plex Sans',size:10}},border:{color:C.border}}
+  }
+});
+
+function miniOpts(){
+  const o = baseOpts('');
+  o.plugins.tooltip = {enabled:false};
+  o.scales.x.ticks.font = {size:8};
+  o.scales.y.ticks.font = {size:8};
+  return o;
+}
+
+// ── Chart 1 — Travel Time ────────────────────────────────────────────────
+function makeC1(id){
+  const o = baseOpts('');
+  o.plugins.legend = {display:false};
+  o.plugins.annotation = {};
+  o.scales.y = {...o.scales.y, min:0, max:36,
+    title:{display:true,text:'Minutes',color:C.muted,font:{size:10}}};
+  return new Chart(document.getElementById(id),{
+    type:'bar',
+    data:{labels:QLong,
+      datasets:[{data:[19.7,23.4,24.8,26.8,30.9],
+        backgroundColor:Q5, borderColor:C.white, borderWidth:2,
+        borderRadius:3}]},
+    options:{...o, plugins:{...o.plugins,
+      annotation:{annotations:{line1:{type:'line',yMin:25,yMax:25,
+        borderColor:C.red,borderWidth:2,borderDash:[5,4],
+        label:{content:'25 min',display:true,color:C.red,
+               font:{size:9,family:'IBM Plex Mono'},position:'end'}}}}}}
+  });
+}
+
+// ── Chart 2 — Headway ─────────────────────────────────────────────────────
+function makeC2(id){
+  const o = baseOpts('');
+  o.scales.y = {...o.scales.y, min:0, max:30,
+    title:{display:true,text:'Headway (min)',color:C.muted,font:{size:10}}};
+  return new Chart(document.getElementById(id),{
+    type:'bar',
+    data:{labels:QLong,
+      datasets:[{data:[25.3,22.1,20.8,18.9,17.2],
+        backgroundColor:[...Q5].reverse(),
+        borderColor:C.white,borderWidth:2,borderRadius:3}]},
+    options:o
+  });
+}
+
+// ── Chart 3 — Title VI ────────────────────────────────────────────────────
+function makeC3(id){
+  const o = baseOpts('');
+  o.indexAxis = 'y';
+  o.scales = {
+    x:{...baseOpts('').scales.x, min:0, max:2.2,
+       title:{display:true,text:'Disparity Ratio',color:C.muted,font:{size:10}},
+       grid:{color:C.border,lineWidth:.6},ticks:{color:C.muted,font:{size:10}},
+       border:{color:C.border}},
+    y:{...baseOpts('').scales.y,
+       ticks:{color:C.muted,font:{size:10,family:'IBM Plex Sans'}},
+       border:{color:C.border},grid:{display:false}}
+  };
+  o.plugins.annotation = {annotations:{
+    thresh:{type:'line',xMin:1.25,xMax:1.25,
+            borderColor:C.red,borderWidth:2.5,borderDash:[6,4],
+            label:{content:'1.25× FTA Threshold',display:true,
+                   color:C.red,font:{size:9,family:'IBM Plex Mono'},
+                   position:'start',yAdjust:-12}}}};
+  return new Chart(document.getElementById(id),{
+    type:'bar',
+    data:{labels:['Frequency (Headway)','Commute Time Burden','Spatial Gap (Hispanic)'],
+      datasets:[{data:[0.62,1.36,1.54],
+        backgroundColor:[C.blue,C.red,C.red],
+        borderColor:C.white,borderWidth:2,borderRadius:3}]},
+    options:o
+  });
+}
+
+// ── Chart 4 — Mode ────────────────────────────────────────────────────────
+function makeC4(id){
+  return new Chart(document.getElementById(id),{
+    type:'doughnut',
+    data:{labels:['Local Bus','Metro Rail','Light Rail','MARC Rail','Commuter Bus'],
+      datasets:[{data:[2563,21,31,5,58],
+        backgroundColor:[C.orange,C.blue,C.green,C.red,C.muted],
+        borderColor:C.white,borderWidth:3}]},
+    options:{responsive:true,maintainAspectRatio:false,cutout:'62%',
+      plugins:{legend:{position:'right',labels:{color:C.muted,
+        font:{size:9,family:'IBM Plex Sans'},padding:12,
+        boxWidth:12}},
+        tooltip:{backgroundColor:C.white,titleColor:C.dark,bodyColor:C.muted,
+          borderColor:C.border,borderWidth:1,
+          callbacks:{label:ctx=>`${ctx.label}: ${ctx.parsed.toLocaleString()} stops`}}}}
+  });
+}
+
+// ── Chart 5 — Transit Dependency ──────────────────────────────────────────
+function makeC5(id){
+  const o = baseOpts('');
+  o.plugins.legend = {display:true,position:'top',
+    labels:{color:C.muted,font:{family:'IBM Plex Sans',size:10},
+            padding:20,boxWidth:14}};
+  o.scales.y = {...o.scales.y, max:60,
+    title:{display:true,text:'Percentage (%)',color:C.muted,font:{size:10}}};
+  return new Chart(document.getElementById(id),{
+    type:'bar',
+    data:{labels:['Transit Commuters (%)','Zero Vehicle HH (%)','Poverty Rate (%)'],
+      datasets:[
+        {label:'Q1 — Wealthiest',data:[3.1,9.8,6.2],
+          backgroundColor:C.q1,borderColor:C.white,borderWidth:2,borderRadius:3},
+        {label:'Q5 — Most Vulnerable',data:[27.0,51.7,34.8],
+          backgroundColor:C.q5,borderColor:C.white,borderWidth:2,borderRadius:3}
+      ]},
+    options:o
+  });
+}
+
+// ── Chart 6 — Coverage ───────────────────────────────────────────────────
+function makeC6(id){
+  return new Chart(document.getElementById(id),{
+    type:'bar',
+    data:{labels:['Non-Hispanic White','Black / African Am.','Hispanic','Asian & Other'],
+      datasets:[
+        {label:'Citywide rate (%)',data:[3.7,5.8,5.4,4.9],
+          backgroundColor:C.blue+'cc',borderColor:C.white,borderWidth:2,borderRadius:3},
+        {label:'In transit gap zones (%)',data:[4.1,6.2,8.3,5.8],
+          backgroundColor:C.red+'cc',borderColor:C.white,borderWidth:2,borderRadius:3}
+      ]},
+    options:{...baseOpts(''),
+      plugins:{...baseOpts('').plugins,
+        legend:{display:true,position:'top',
+          labels:{color:C.muted,font:{family:'IBM Plex Sans',size:10},padding:16,boxWidth:12}}},
+      scales:{...baseOpts('').scales,
+        y:{...baseOpts('').scales.y,max:11,
+           title:{display:true,text:'% of Group in Gap Zones',color:C.muted,font:{size:10}}}}}
+  });
+}
+
+// ── Chart 7 — Scatter ────────────────────────────────────────────────────
+function makeC7(id){
+  // Generate representative synthetic data r=0.605
+  const rng = (seed)=>{let s=seed;return ()=>{s=(s*1664525+1013904223)&0xFFFFFFFF;return s/0x100000000}};
+  const rand = rng(42);
+  const pts = [];
+  for(let i=0;i<199;i++){
+    const es = 11.1 + rand()*56.2;
+    const tt = 17.8 + 0.205*es + (rand()-0.5)*9.6;
+    const q = es<25?0:es<36?1:es<43?2:es<49?3:4;
+    pts.push({x:Math.round(es*10)/10, y:Math.max(8,Math.min(52,Math.round(tt*10)/10)),
+              color:Q5[q]});
+  }
+  const qMeans=[{x:18,y:19.7},{x:30,y:23.4},{x:40,y:24.8},{x:47,y:26.8},{x:57,y:30.9}];
+
+  return new Chart(document.getElementById(id),{
+    type:'scatter',
+    data:{datasets:[
+      {label:'Census Tracts',
+        data:pts.map(p=>({x:p.x,y:p.y})),
+        backgroundColor:pts.map(p=>p.color+'aa'),
+        pointRadius:4,pointHoverRadius:6,
+        borderColor:'transparent'},
+      {label:'Quintile Means',
+        data:qMeans,
+        backgroundColor:Q5,
+        pointStyle:'rectRot',pointRadius:8,
+        borderColor:C.dark,borderWidth:1.5}
+    ]},
+    options:{responsive:true,maintainAspectRatio:false,
+      plugins:{
+        legend:{display:true,position:'top',
+          labels:{color:C.muted,font:{family:'IBM Plex Sans',size:10},padding:16,boxWidth:12}},
+        tooltip:{backgroundColor:C.white,titleColor:C.dark,bodyColor:C.muted,
+          borderColor:C.border,borderWidth:1,
+          callbacks:{label:ctx=>ctx.datasetIndex===0?
+            `Equity: ${ctx.parsed.x}  ·  Travel: ${ctx.parsed.y} min`:
+            `Q${ctx.dataIndex+1} mean: ${ctx.parsed.x} score / ${ctx.parsed.y} min`}}
+      },
+      scales:{
+        x:{grid:{color:C.border,lineWidth:.6},ticks:{color:C.muted,font:{size:9}},
+           title:{display:true,text:'Composite Equity Score (higher = more vulnerable)',
+                  color:C.muted,font:{size:10}},border:{color:C.border}},
+        y:{grid:{color:C.border,lineWidth:.6},ticks:{color:C.muted,font:{size:9}},
+           title:{display:true,text:'Avg Commute Time (min)',color:C.muted,font:{size:10}},
+           border:{color:C.border}}
+      }
+    }
+  });
+}
+
+// ── Chart 8 — Connectivity ────────────────────────────────────────────────
+function makeC8(id){
+  const o = baseOpts('');
+  o.scales.y = {...o.scales.y, min:1.3, max:1.65,
+    title:{display:true,text:'Avg Routes per Stop',color:C.muted,font:{size:10}}};
+  return new Chart(document.getElementById(id),{
+    type:'bar',
+    data:{labels:QL,
+      datasets:[{data:[1.46,1.48,1.51,1.52,1.54],
+        backgroundColor:Q5,borderColor:C.white,borderWidth:2,borderRadius:3}]},
+    options:o
+  });
+}
+
+// ── Tab logic ─────────────────────────────────────────────────────────────
+function showTab(id){
+  document.querySelectorAll('.tab-panel').forEach(p=>p.classList.remove('active'));
+  document.querySelectorAll('.tab-btn').forEach(b=>b.classList.remove('active'));
+  document.getElementById('tab-'+id).classList.add('active');
+  event.target.classList.add('active');
+  renderSummaryIfNeeded(id);
+}
+
+// ── Chart.js annotation plugin ───────────────────────────────────────────
+// Load inline to avoid CDN issues
+Chart.register({
+  id:'inlineAnnotation',
+  afterDraw(chart){
+    const anns = chart.options.plugins?.annotation?.annotations;
+    if(!anns) return;
+    const ctx = chart.ctx;
+    const {left,right,top,bottom} = chart.chartArea;
+    Object.values(anns).forEach(a=>{
+      if(a.type==='line'){
+        ctx.save();
+        ctx.strokeStyle = a.borderColor||'#000';
+        ctx.lineWidth   = a.borderWidth||1;
+        if(a.borderDash) ctx.setLineDash(a.borderDash);
+        ctx.beginPath();
+        if(a.xMin!==undefined){
+          const x = chart.scales.x.getPixelForValue(a.xMin);
+          ctx.moveTo(x,top); ctx.lineTo(x,bottom);
+        } else {
+          const y = chart.scales.y.getPixelForValue(a.yMin);
+          ctx.moveTo(left,y); ctx.lineTo(right,y);
+        }
+        ctx.stroke();
+        ctx.setLineDash([]);
+        if(a.label?.display){
+          ctx.fillStyle = a.label.color||'#000';
+          ctx.font = `${a.label.font?.size||10}px ${a.label.font?.family||'sans-serif'}`;
+          if(a.xMin!==undefined){
+            const x = chart.scales.x.getPixelForValue(a.xMin);
+            ctx.fillText(a.label.content, x+4, top+14);
+          } else {
+            const y = chart.scales.y.getPixelForValue(a.yMin);
+            const xPos = a.label.position==='end'?right-90:left+4;
+            ctx.fillText(a.label.content, xPos, y-4);
+          }
+        }
+        ctx.restore();
+      }
+    });
+  }
+});
+
+// ── Init main charts ──────────────────────────────────────────────────────
+window.addEventListener('load',()=>{
+  makeC1('c1'); makeC2('c2'); makeC3('c3'); makeC4('c4');
+  makeC5('c5'); makeC6('c6'); makeC7('c7'); makeC8('c8');
+});
+
+let summaryDone = false;
+function renderSummaryIfNeeded(id){
+  if(id!=='summary'||summaryDone) return;
+  summaryDone = true;
+  setTimeout(()=>{
+    makeC1('s1'); makeC2('s2'); makeC3('s3'); makeC4('s4');
+    makeC5('s5'); makeC6('s6'); makeC7('s7'); makeC8('s8');
+  }, 80);
+}
+</script>
+</body>
+</html>

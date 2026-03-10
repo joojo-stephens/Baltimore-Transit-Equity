@@ -1,0 +1,41 @@
+# ArcGIS Pro project files (too large for GitHub)
+*.gdb/
+*.aprx
+*.atbx
+*.lyrx
+
+# GTFS raw data (large files — document source in README)
+data/gtfs/
+
+# Census raw downloads (large — cleaned versions only)
+data/census/*.csv
+!data/census/cleaned/Baltimore_Census_Master.csv
+
+# ArcGIS lock files
+*.lock
+schema.ini
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+venv/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary ArcGIS files
+scratch/
+temp/
+*.gdb.lock
+
+# Large raster outputs
+*.tif
+*.tiff
+*.img
+
+# Exported PDFs (add manually when ready)
+# *.pdf

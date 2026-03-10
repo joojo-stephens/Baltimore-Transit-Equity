@@ -1,0 +1,2679 @@
+stop_id_raw,stop_name,mode,Headway_Min,Freq_Class
+12613,CLINTON ST & DANVILLE AVE mid nb,localbus,9.2,High Frequency
+12376,CLINTON ST & CARDIFF AVE nb,localbus,19.0,Moderate Frequency
+2420,EAST AVE & BOSTON ST nb,localbus,38.8,Infrequent
+2422,EAST AVE & O'DONNELL ST nb,localbus,38.9,Infrequent
+14158,S EAST AVE & HUDSON ST nb fs,localbus,38.9,Infrequent
+2425,EAST AVE & EASTERN AVE nb,localbus,38.9,Infrequent
+2427,EAST AVE & GOUGH ST nb,localbus,38.9,Infrequent
+10439,EAST ST & LOMBARD ST nb,localbus,38.9,Infrequent
+12405,BALTIMORE ST & ELLWOOD ST wb,localbus,38.9,Infrequent
+8601,BALTIMORE ST & LINWOOD AVE wb,localbus,38.9,Infrequent
+2444,LINWOOD AVE & PULASKI HWY nb,localbus,38.9,Infrequent
+2445,LINWOOD AVE & JEFFERSON ST nb,localbus,38.9,Infrequent
+13589,MCELDERRY ST & GLOVER ST wb,localbus,38.9,Infrequent
+2450,MILTON AVE & MONUMENT ST nb,localbus,38.9,Infrequent
+8355,MADISON ST & PATTERSON PARK AVE wb,localbus,7.6,High Frequency
+967,MADISON ST & CHESTER ST wb,localbus,7.8,High Frequency
+8566,MADISON ST & WASHINGTON ST wb,localbus,7.7,High Frequency
+10573,WASHINGTON ST & ASHLAND AVE nb,localbus,18.9,Moderate Frequency
+2472,WASHINGTON ST & EAGER ST nb,localbus,18.9,Moderate Frequency
+2473,WASHINGTON ST & CHASE ST nb,localbus,18.9,Moderate Frequency
+2474,WASHINGTON ST & PRESTON ST nb,localbus,18.9,Moderate Frequency
+2475,WASHINGTON ST & GAY ST nb,localbus,18.9,Moderate Frequency
+2476,WASHINGTON ST & FEDERAL ST nb,localbus,18.9,Moderate Frequency
+2478,WASHINGTON ST & LAFAYETTE AVE nb,localbus,18.9,Moderate Frequency
+2440,NORTH AVE & WOLFE ST wb,localbus,9.9,High Frequency
+2481,NORTH AVE & BROADWAY fs wb,localbus,9.9,High Frequency
+3409,HARFORD RD & BROADWAY nb,localbus,11.7,Moderate Frequency
+13839,25TH ST & HARFORD RD wb fs,localbus,38.9,Infrequent
+13840,25TH ST & AISQUITH ST wb ns,localbus,38.9,Infrequent
+13841,25TH ST & KIRK AVE wb ns,localbus,38.9,Infrequent
+13843,25TH ST & HOMEWOOD AVE opp wb,localbus,38.9,Infrequent
+13844,25TH ST & GREENMOUNT AVE wb fs,localbus,38.9,Infrequent
+13846,25TH ST & CHARLES ST wb fs,localbus,38.9,Infrequent
+13847,25TH ST & MARYLAND AVE wb fs,localbus,38.9,Infrequent
+5013,REMINGTON AVE & 27TH ST fs nb,localbus,19.9,Moderate Frequency
+10508,REMINGTON AVE & 29TH ST nb,localbus,19.9,Moderate Frequency
+10510,REMINGTON AVE & 31ST ST fs nb,localbus,19.9,Moderate Frequency
+10511,REMINGTON AVE & WYMAN PARK DR nb,localbus,19.9,Moderate Frequency
+10512,33RD ST & KESWICK RD wb,localbus,19.6,Moderate Frequency
+10513,33RD ST & CHESTNUT AVE wb,localbus,19.6,Moderate Frequency
+5019,CHESTNUT AVE & 34TH ST nb,localbus,19.6,Moderate Frequency
+5021,36TH ST & CHESTNUT AVE fs wb,localbus,19.6,Moderate Frequency
+5022,36TH ST & ROLAND AVE wb,localbus,19.6,Moderate Frequency
+4880,ROLAND AVE & 37TH ST nb,localbus,40.2,Infrequent
+5024,ROLAND AVE & 38TH ST nb,localbus,40.2,Infrequent
+5025,ROLAND AVE & ST MARY'S TOWERS nb,localbus,40.2,Infrequent
+4166,41ST ST & HICKORY AVE wb,localbus,10.3,Moderate Frequency
+4168,41ST ST & FALLS RD wb,localbus,10.3,Moderate Frequency
+321,41ST ST & BUENA VISTA AVE wb,localbus,10.7,Moderate Frequency
+4171,41ST ST & GIRARD AVE wb,localbus,10.9,Moderate Frequency
+10249,DRUID PARK DR & CLIPPER RD eb,localbus,40.4,Infrequent
+8984,CLIPPER RD & UNION AVE,localbus,20.0,Moderate Frequency
+4874,36TH ST & POOLE ST,localbus,63.3,Infrequent
+10494,UNION AVE & ASH ST fs eb,localbus,40.0,Infrequent
+10496,BUENA VISTA AVE & 41ST ST nb,localbus,40.0,Infrequent
+10754,41ST ST & BUENA VISTA AVE eb,localbus,11.0,Moderate Frequency
+4308,41ST ST & FALLS RD eb,localbus,10.9,Moderate Frequency
+4309,41ST ST & HICKORY AVE eb,localbus,10.5,Moderate Frequency
+4310,41ST ST & ROLAND AVE eb,localbus,10.5,Moderate Frequency
+13848,ROLAND AVE & 38TH ST sb ns,localbus,40.0,Infrequent
+4881,36TH ST & ROLAND AVE eb,localbus,19.4,Moderate Frequency
+4882,36TH ST & CHESTNUT AVE eb,localbus,19.4,Moderate Frequency
+4884,CHESTNUT AVE & 34TH ST sb,localbus,19.4,Moderate Frequency
+4885,33RD ST & CHESTNUT AVE fs eb,localbus,19.4,Moderate Frequency
+4886,33RD ST & BEECH AVE eb,localbus,19.4,Moderate Frequency
+4887,REMINGTON AVE & WYMAN PARK DR sb,localbus,19.4,Moderate Frequency
+4888,REMINGTON AVE & 31ST ST sb,localbus,19.4,Moderate Frequency
+4890,REMINGTON AVE & 28TH ST sb mid,localbus,19.4,Moderate Frequency
+4893,HOWARD ST & 26TH ST fs,localbus,19.4,Moderate Frequency
+4894,HOWARD ST & 25TH ST sb,localbus,19.4,Moderate Frequency
+13850,25TH ST & CHARLES ST eb fs,localbus,38.6,Infrequent
+13851,25TH ST & ST PAUL ST eb ns,localbus,38.6,Infrequent
+13852,25TH ST & GREENMOUNT AVE eb fs,localbus,32.2,Infrequent
+13853,25TH ST & HOMEWOOD AVE eb ns,localbus,38.6,Infrequent
+13854,25TH ST & KIRK AVE eb ns,localbus,38.6,Infrequent
+13855,25TH ST & ROBB ST eb ns,localbus,38.6,Infrequent
+10251,HARFORD RD & CLIFTVIEW AVE sb,localbus,11.6,Moderate Frequency
+3628,HARFORD RD & BONAPARTE AVE sb,localbus,11.6,Moderate Frequency
+8624,NORTH AVE & HARFORD RD fs eb,localbus,9.7,High Frequency
+2647,NORTH AVE & BROADWAY fs eb,localbus,9.4,High Frequency
+2649,NORTH AVE & WOLFE ST eb,localbus,9.3,High Frequency
+12303,WOLFE ST & LAFAYETTE AVE sb,localbus,18.3,Moderate Frequency
+2653,WOLFE ST & FEDERAL ST sb,localbus,18.3,Moderate Frequency
+2655,WOLFE ST & GAY ST fs sb,localbus,17.8,Moderate Frequency
+2656,WOLFE ST & BIDDLE ST sb,localbus,18.3,Moderate Frequency
+2658,WOLFE ST & EAGER ST sb,localbus,18.3,Moderate Frequency
+2659,WOLFE ST & ASHLAND AVE sb,localbus,18.4,Moderate Frequency
+14142,WOLFE ST & MADISON ST sb fs Bay 1,localbus,18.1,Moderate Frequency
+831,MONUMENT ST & WASHINGTON ST fs eb,localbus,7.6,High Frequency
+832,MONUMENT ST & CHESTER ST eb,localbus,7.6,High Frequency
+9571,MONUMENT ST & PATTERSON PARK AVE,localbus,13.1,Moderate Frequency
+6768,MONUMENT ST & MILTONAVE eb,localbus,12.9,Moderate Frequency
+2693,MCELDERRY ST & MILTON AVE fs eb,localbus,38.8,Infrequent
+2695,MCELDERRY ST & LAKEWOOD AVE eb,localbus,38.8,Infrequent
+2697,LINWOOD AVE & JEFFERSON ST sb,localbus,38.8,Infrequent
+10579,LINWOOD AVE & FAYETTE ST sb,localbus,38.8,Infrequent
+14194,BALTIMORE ST & LINWOOD AVE,localbus,38.8,Infrequent
+8924,BALTIMORE ST & ELLWOOD AVE eb,localbus,38.8,Infrequent
+2706,EAST AVE & GOUGH ST sb,localbus,38.8,Infrequent
+2708,EAST AVE & EASTERN AVE sb,localbus,38.8,Infrequent
+14157,S EAST AVE & HUDSON ST sb fs,localbus,38.8,Infrequent
+2714,EAST AVE & O'DONNELL ST sb,localbus,38.8,Infrequent
+2715,TOONE ST & EAST AVE fs eb,localbus,38.8,Infrequent
+2718,CLINTON ST & BOSTON ST sb,localbus,38.8,Infrequent
+12513,HIGHLAND AVE & CARDIFF ST sb,localbus,18.2,Moderate Frequency
+12292,EASTBOURNE AVE & CLINTON ST wb,localbus,38.9,Infrequent
+4098,CASSELL DR & TRIAD TECH CENTER - BAYVIEW MEDICAL CENTER,localbus,7.7,High Frequency
+4099,EASTERN AVE & RAPPOLLA ST opp wb,localbus,7.7,High Frequency
+2030,EASTERN AVE & PONCA ST wb,localbus,7.5,High Frequency
+2033,EASTERN AVE & MACON ST wb,localbus,7.6,High Frequency
+2034,EASTERN AVE & GRUNDY ST fs wb,localbus,7.5,High Frequency
+2036,EASTERN AVE & CONKLING ST wb,localbus,7.6,High Frequency
+4115,HIGHLAND AVE & GOUGH ST nb,localbus,7.7,High Frequency
+4116,HIGHLAND AVE & PRATT ST nb,localbus,7.7,High Frequency
+4118,Highland Ave & Baltimore St,localbus,4.6,High Frequency
+4119,HIGHLAND AVE & FAYETTE ST nb,localbus,10.5,Moderate Frequency
+4120,HIGHLAND AVE & PULASKI HWY fs nb,localbus,10.7,Moderate Frequency
+4123,HIGHLAND AVE & MONUMENT ST nb,localbus,10.7,Moderate Frequency
+10736,MADISON AVE & EDISON HWY wb,localbus,7.4,High Frequency
+4125,EDISON HWY & BIDDLE ST nb,localbus,10.6,Moderate Frequency
+879,EDISON HWY & PRESTON ST fs nb,localbus,7.1,High Frequency
+880,EDISON HWY & DUNCANWOOD LN nb,localbus,6.6,High Frequency
+10738,EDISON HWY & NORTH AVE nb,localbus,7.4,High Frequency
+4129,EDISON HWY & SINCLAIR LN fs nb,localbus,13.4,Moderate Frequency
+10740,EDISON HWY & ELMLEY AVE nb,localbus,12.0,Moderate Frequency
+4131,EDISON HWY & CLIFTMONT AVE nb,localbus,11.9,Moderate Frequency
+12691,ERDMAN AVE & ANNETTA AVE wb opp,localbus,8.6,High Frequency
+4134,ERDMAN AVE & BELAIR RD wb,localbus,10.8,Moderate Frequency
+10919,ERDMAN AVE & CROSSLAND AVE wb,localbus,13.9,Moderate Frequency
+3618,HARFORD RD & 32ND ST sb,localbus,7.3,High Frequency
+3621,HARFORD RD & HILLEN RD sb,localbus,7.7,High Frequency
+3623,HARFORD RD & THE ALAMEDA sb,localbus,7.8,High Frequency
+4142,THE ALAMEDA & KENNEDY AVE fs nb,localbus,14.1,Moderate Frequency
+4144,THE ALAMEDA & 32ND ST fs nb,localbus,6.1,High Frequency
+4148,33RD ST & LOCH RAVEN BLVD wb,localbus,9.6,High Frequency
+474,33RD ST & EDNOR RD fs wb,localbus,9.5,High Frequency
+475,33RD ST & ELLERSLIE AVE wb,localbus,9.6,High Frequency
+476,33RD ST & FRISBY ST fs wb,localbus,9.5,High Frequency
+478,33RD ST & GREENMOUNT AVE fs wb,localbus,9.6,High Frequency
+4153,UNIVERSITY PWKY& GUILFORD AVE wb,localbus,13.9,Moderate Frequency
+4154,UNIVERSITY PKWY & CALVERT ST fs wb,localbus,14.1,Moderate Frequency
+10745,UNIVERSITY PWKY & CHARLES ST wb,localbus,13.7,Moderate Frequency
+10746,UNIVERSITY PKWY& CANTERBURY RD wb,localbus,11.7,Moderate Frequency
+4159,UNIVERSITY PKWY & 39TH ST wb,localbus,11.5,Moderate Frequency
+4164,40TH ST & THE ROTUNDA opp wb,localbus,11.5,Moderate Frequency
+14146,40TH ST & ELM AVE wb ns,localbus,11.7,Moderate Frequency
+4165,40TH ST & ROLAND AVE wb,localbus,11.5,Moderate Frequency
+324,DRUID PARK DR & KEYSTONE AVE wb,localbus,14.6,Moderate Frequency
+326,DRUID PARK DR & GREENSPRING AVE wb,localbus,14.4,Moderate Frequency
+327,DRUID PARK & PARK HGHTS wb,localbus,14.4,Moderate Frequency
+4299,DRUID PARK DR & REISTERSTOWN RD fs wb,localbus,10.5,Moderate Frequency
+4177,LIBERTY HEIGHTS AVE & DRUID PARK DR fs sb,localbus,7.5,High Frequency
+5176,LIBERTY HEIGHTS AVE & BURLEITH AVE sb,localbus,7.5,High Frequency
+6393,Liberty Heights Ave & Mondawmin Mall,localbus,3.3,High Frequency
+13521,MONDAWMIN METRO STATION BAY 1,localbus,7.7,High Frequency
+559,DUE MERGENTHALER HIGH SCHOOL fs,localbus,3.3,High Frequency
+560,35TH ST & HILLEN RD,localbus,6.2,High Frequency
+10880,COLD SPRING METRO BUS LOOP,localbus,3.5,High Frequency
+4619,[Due] Kane St & Patterson High School,localbus,1.4,High Frequency
+4620,Kane St & Patterson High School,localbus,1.7,High Frequency
+257,POLY WESTERN HIGH SCHOOL,localbus,2.2,High Frequency
+4873,DUE 36TH & POOLE,localbus,63.3,Infrequent
+2506,NORTH AVE & PENNSYLVANIA AVE wb,localbus,5.5,High Frequency
+6318,[Due] Fait Ave & John Ruhrah Middle School,localbus,36.7,Infrequent
+6306,Fait Ave & John Ruhrah Middle School,localbus,20.5,Low Frequency
+531,CHARLES ST & PENN STATION nb,localbus,6.2,High Frequency
+5245,LIBERTY HEIGHTS AVE & TIOGA PKWY,localbus,7.9,High Frequency
+7277,LIBERTY HEIGHTS AVE & BURLEITH AVE fs nb,localbus,7.8,High Frequency
+4295,LIBERTY HEIGHTS AVE & DRUID PARK DR nb,localbus,7.8,High Frequency
+4297,DRUID PARK DR & PUBLIC WORKS eb,localbus,14.1,Moderate Frequency
+4300,DRUID PARK DR & REISTERSTOWN RD eb,localbus,14.0,Moderate Frequency
+10751,DRUID PARK DR & REISTERSTOWN RD fs eb,localbus,14.1,Moderate Frequency
+10752,DRUID PARK DR & GREENSPRING eb,localbus,14.5,Moderate Frequency
+4303,DRUID PARK DR & PARKDALE AVE,localbus,14.3,Moderate Frequency
+4304,41ST ST & HOOPER AVE opp eb,localbus,14.3,Moderate Frequency
+14053,40TH ST & ELM AVE eb ns,localbus,11.8,Moderate Frequency
+4311,40TH ST & ROTUNDA MALL DR eb,localbus,11.7,Moderate Frequency
+4316,UNIVERSITY PKWY & SAN MARTIN DR sb,localbus,11.7,Moderate Frequency
+4317,UNIVERSITY PKWY & CANTERBURY RD opp sb,localbus,11.7,Moderate Frequency
+6678,UNIVERSITY PKWY & CHARLES ST sb,localbus,11.8,Moderate Frequency
+3656,UNIVERSITY PKWY & SAINT PAUL ST sb,localbus,8.8,High Frequency
+4321,UNIVERSITY PKWY & GUILFORD AVE eb,localbus,13.8,Moderate Frequency
+4322,UNIVERSITY PKWY & 33RD ST eb,localbus,13.8,Moderate Frequency
+548,33RD ST & OLD YORK RD fs eb,localbus,9.4,High Frequency
+550,33RD ST & FRISBY ST eb,localbus,9.4,High Frequency
+551,33RD ST & ELLERSLIE AVE fs eb,localbus,9.5,High Frequency
+554,33RD ST & EDNOR RD eb,localbus,9.5,High Frequency
+555,33RD ST & LOCH RAVEN BLVD fs eb,localbus,9.5,High Frequency
+4327,THE ALAMEDA & 32ND ST sb,localbus,6.2,High Frequency
+4329,THE ALAMEDA & KENNEDY AVE fs sb,localbus,13.6,Moderate Frequency
+4330,HARFORD RD & THE ALAMEDA fs nb,localbus,8.2,High Frequency
+3418,HARFORD RD & HILLEN RD opp nb,localbus,8.1,High Frequency
+4332,HARFORD RD & 32ND ST opp fs nb,localbus,7.6,High Frequency
+4138,ERDMAN AVE & CROSSLAND AVE eb,localbus,13.5,Moderate Frequency
+4333,ERDMAN AVE & CLARENCE AVE eb,localbus,13.6,Moderate Frequency
+4334,ERDMAN AVE & BELAIR RD fs eb,localbus,12.9,Moderate Frequency
+13718,ERDMAN AVE & EDISON HWY eb,localbus,13.0,Moderate Frequency
+4336,EDISON HWY & CLIFTMONT AVE sb,localbus,12.7,Moderate Frequency
+4337,EDISON HWY & ELMLEY AVE sb,localbus,12.9,Moderate Frequency
+10739,EDISON HWY & ELMORA AVE nb,localbus,12.9,Moderate Frequency
+948,EDISON HWY & OLIVER ST sb,localbus,6.5,High Frequency
+976,EDISON HWY & PRESTON ST sb,localbus,6.5,High Frequency
+4343,EDISON HWY & BIDDLE ST sb,localbus,10.0,High Frequency
+4344,EDISON HWY & MADISON ST sb,localbus,10.0,High Frequency
+11138,MONUMENT ST & BOULDIN ST eb,localbus,6.9,High Frequency
+4347,HIGHLAND AVE & McELDERRY ST sb,localbus,10.0,High Frequency
+4349,HIGHLAND AVE & FAYETTE ST sb,localbus,10.0,High Frequency
+4350,HIGHLAND AVE & BALTIMORE ST sb,localbus,4.8,High Frequency
+4351,HIGHLAND AVE & PRATT ST sb,localbus,8.0,High Frequency
+4352,HIGHLAND AVE & GOUGH ST sb,localbus,7.7,High Frequency
+1906,EASTERN AVE & CONKLING ST eb fs,localbus,7.8,High Frequency
+1909,EASTERN AVE & HAVEN ST eb,localbus,7.5,High Frequency
+4368,EASTERN AVE & NEWKIRK ST eb,localbus,7.3,High Frequency
+1913,EASTERN AVE & PONCA ST eb,localbus,7.3,High Frequency
+1914,EASTERN AVE & RAPPOLLA ST eb,localbus,7.6,High Frequency
+10764,Bayview Blvd & Mason Lord Dr,localbus,4.7,High Frequency
+10542,Bayview Blvd & Hopkins Bayview Dr,localbus,5.0,High Frequency
+12175,ALPHA COMMONS DR & ALPHA CENTER,localbus,14.3,Moderate Frequency
+313,DUE POLY WESTERN HIGH,localbus,2.5,High Frequency
+14203,DUE HARFORD & INSTITUTE,localbus,5.0,High Frequency
+13522,Mondawmin Metro Station (Bus Bay 2),localbus,9.8,High Frequency
+6395,PULASKI ST & BRYANT AVE mb sb,localbus,17.9,Moderate Frequency
+6396,PULASKI ST & WINDSOR AVE sb,localbus,17.9,Moderate Frequency
+6397,WINDSOR AVE & BENTALOU ST wb,localbus,17.9,Moderate Frequency
+6400,BENTALOU ST & NORTH AVE sb,localbus,17.9,Moderate Frequency
+6402,BENTALOU ST & PRESBURY ST sb,localbus,17.9,Moderate Frequency
+6409,BENTALOU ST & PRESSTMAN ST sb,localbus,17.9,Moderate Frequency
+10808,BENTALOU ST & PRESSTMAN ST nb,localbus,9.0,High Frequency
+6406,BENTALOU ST & WINCHESTER ST sb,localbus,17.7,Moderate Frequency
+6408,BENTALOU ST & MOSHER ST sb,localbus,17.4,Moderate Frequency
+6412,BENTALOU ST & LAFAYETTE AVE sb,localbus,17.4,Moderate Frequency
+6414,BENTALOU ST & ARUNAH AVE fs sb,localbus,17.9,Moderate Frequency
+3011,EDMONDSON AVE & PULASKI ST eb,localbus,9.0,High Frequency
+14152,SMALLWOOD ST & W MULBERRY ST sb ns,localbus,9.0,High Frequency
+6418,PULASKI ST & SARATOGA ST sb,localbus,18.2,Moderate Frequency
+6420,PULASKI ST & FAYETTE ST fs sb,localbus,17.9,Moderate Frequency
+9004,PULASKI ST & BALTIMORE ST sb,localbus,17.9,Moderate Frequency
+6423,PULASKI ST & HOLLINS ST fs sb,localbus,17.9,Moderate Frequency
+6425,PULASKI ST & FREDERICK AVE sb,localbus,17.4,Moderate Frequency
+6426,PULASKI ST & PRATT ST sb,localbus,17.4,Moderate Frequency
+6427,PULASKI ST & MCHENRY ST fs sb,localbus,17.4,Moderate Frequency
+6429,PULASKI ST & CHRISTIAN ST sb,localbus,17.4,Moderate Frequency
+5563,WILKENS AVE & PAYSON ST eb,localbus,10.5,Moderate Frequency
+6433,MONROE ST & MONTGOMERY PARK fs sb,localbus,17.4,Moderate Frequency
+10888,MONROE ST & WASHINGTON BLVD sb,localbus,17.4,Moderate Frequency
+6438,MONROE ST & CARROLL ST opp sb,localbus,17.4,Moderate Frequency
+13702,WICOMICO ST & MONROE ST nb,localbus,17.7,Moderate Frequency
+13767,WICOMICO ST & BUSH ST nb,localbus,17.7,Moderate Frequency
+13699,BUSH ST & RUSSELL ST eb,localbus,17.7,Moderate Frequency
+5203,ANNAPOLIS RD & KENT ST fs sb,localbus,12.5,Moderate Frequency
+4918,WATERVIEW AVE & SIDNEY AVE fs wb,localbus,12.3,Moderate Frequency
+4920,CHERRY HILL RD & LIGHT RAIL sb,localbus,12.3,Moderate Frequency
+4922,1401 CHERRY HILL RD ns,localbus,12.6,Moderate Frequency
+5206,CHERRY HILL RD & CHERRYDALE APARTMENTS opp eb,localbus,12.6,Moderate Frequency
+5207,GILES RD & CHERRY HILL RD fs sb,localbus,12.6,Moderate Frequency
+4923,SHELLBANKS RD & GILES RD fs sb,localbus,12.6,Moderate Frequency
+4924,WOODVIEW RD & SHELLBANKS RD fs eb,localbus,12.6,Moderate Frequency
+5208,ROUND RD & WOODVIEW RD mid sb,localbus,12.6,Moderate Frequency
+4926,ROUND RD & BRIDGEVIEW RD sb,localbus,12.6,Moderate Frequency
+4927,BETHUNE RD & ROUND RD fs eb,localbus,12.4,Moderate Frequency
+4929,BUNCHE RD & ROUNDVIEW RD nb,localbus,12.4,Moderate Frequency
+4930,ROUNDVIEW RD & CHERRYLAND RD nb,localbus,12.4,Moderate Frequency
+4932,CHERRYLAND RD & BRIDGEVIEW RD wb,localbus,12.4,Moderate Frequency
+5209,CHERRY HILL RD & TERRA FIRMA RD eb,localbus,12.6,Moderate Frequency
+5351,CHERRY HILL RD & SEABURY RD fs wb,localbus,12.6,Moderate Frequency
+4936,CHERRY HILL RD & ROUNDVIEW RD eb,localbus,12.3,Moderate Frequency
+10520,CHERRY HILL RD & SEAMON AVE eb,localbus,12.4,Moderate Frequency
+2734,POTEE ST & CHERRY HILL RD fs sb,localbus,7.3,High Frequency
+2735,POTEE ST & REEDBIRD AVE sb,localbus,7.7,High Frequency
+6929,SOUTH BALTIMORE PARK & RIDE,localbus,5.3,High Frequency
+13750,DUE BRADDISH AVE & MOSHER ST,localbus,5.0,High Frequency
+13751,BRADDISH AVE & MOSHER ST nb,localbus,5.0,High Frequency
+6386,DUE BARD HIGH SCHOOL,localbus,16.2,Moderate Frequency
+6387,DUKELAND AVE & CONNEXIONS ACADEMY AND BARD HIGH SCHOOLnb,localbus,19.5,Moderate Frequency
+10830,601 PATAPSCO AVE eb,localbus,17.7,Moderate Frequency
+5359,HANOVER & PATAPSCO (AT ALLEY),localbus,7.4,High Frequency
+2922,HANOVER ST & REEDBIRD AVE fs nb,localbus,17.7,Moderate Frequency
+4937,CHERRY HILL RD & SEAMON AVE fs wb,localbus,12.1,Moderate Frequency
+5364,CHERRY HILL RD & ROUNDVIEW RD wb,localbus,12.4,Moderate Frequency
+4935,CHERRY HILL RD & SEABURY RD opp eb,localbus,12.1,Moderate Frequency
+4934,CHERRY HILL RD & TERRA FIRMA RD,localbus,12.1,Moderate Frequency
+4979,CHERRYLAND RD & BRIDGEVIEW RD sb,localbus,12.1,Moderate Frequency
+4980,CHERRYLAND RD & ROUNDVIEW RD sb,localbus,12.1,Moderate Frequency
+4981,BUNCHE RD & ROUNDVIEW RD fs wb,localbus,12.1,Moderate Frequency
+5223,BETHUNE RD & ROUND RD wb,localbus,12.1,Moderate Frequency
+5224,ROUND RD & BRIDGEVIEW RD nb,localbus,12.1,Moderate Frequency
+5225,ROUND RD & BOOKER DR fs,localbus,12.1,Moderate Frequency
+5226,WOODVIEW RD & SHELLBANKS RD wb,localbus,12.1,Moderate Frequency
+4986,SHELLBANKS RD & GILES RD nb,localbus,12.3,Moderate Frequency
+4987,GILES RD & CHERRY HILL RD nb,localbus,12.1,Moderate Frequency
+5227,CHERRY HILL RD & CHERRYDALE APARTMENTS,localbus,12.1,Moderate Frequency
+12676,1400 CHERRY HILL RD,localbus,12.1,Moderate Frequency
+9001,CHERRY HILL RD & CHERRY HILL STATION opp nb,localbus,12.1,Moderate Frequency
+4991,WATERVIEW AVE & SIDNEY AVE opp nb,localbus,12.1,Moderate Frequency
+4993,ANNAPOLIS RD & KENT ST nb,localbus,12.5,Moderate Frequency
+4996,RUSSELL ST & BUSH ST nb,localbus,13.3,Moderate Frequency
+10897,HAINES ST & WARNER ST eb,localbus,13.3,Moderate Frequency
+13768,WICOMICO ST & BUSH ST sb,localbus,17.7,Moderate Frequency
+6452,MONROE ST & WICOMICO ST fs nb,localbus,17.7,Moderate Frequency
+6455,MONROE ST & CARROLL ST nb,localbus,17.5,Moderate Frequency
+6456,MONROE ST & WASHINGTON BLVD fs nb,localbus,17.5,Moderate Frequency
+6458,MONROE ST & CARROLL PARK nb,localbus,17.7,Moderate Frequency
+6459,EAGLE ST & PAYSON ST wb,localbus,17.7,Moderate Frequency
+6461,PULASKI ST & WILKENS AVE fs nb,localbus,17.7,Moderate Frequency
+6463,PULASKI ST & MCHENRY ST nb,localbus,17.7,Moderate Frequency
+6464,PULASKI ST & PRATT ST nb,localbus,17.5,Moderate Frequency
+6465,PULASKI ST & FREDERICK AVE nb,localbus,17.7,Moderate Frequency
+6466,PULASKI ST & HOLLINS ST nb,localbus,17.5,Moderate Frequency
+6422,PULASKI ST & BALTIMORE ST,localbus,17.5,Moderate Frequency
+6469,PULASKI ST & FAYETTE ST mb nb,localbus,17.5,Moderate Frequency
+6472,PULASKI ST & SARATOGA ST nb,localbus,17.3,Moderate Frequency
+4676,PULASKI ST & MULBERRY ST nb,localbus,17.3,Moderate Frequency
+3235,EDMONDSON AVE & PULASKI ST fs wb,localbus,8.2,High Frequency
+6476,EDMONDSON AVE & BENTALOU ST wb,localbus,8.3,High Frequency
+8959,BENTALOU ST & LAFAYETTE AVE nb,localbus,17.3,Moderate Frequency
+4277,BENTALOU ST & MOSHER ST nb,localbus,17.3,Moderate Frequency
+4279,BENTALOU ST & WINCHESTER ST nb,localbus,17.3,Moderate Frequency
+6481,BENTALOU ST & PRESBURY ST nb,localbus,17.0,Moderate Frequency
+6484,BENTALOU ST & NORTH AVE nb,localbus,17.0,Moderate Frequency
+6486,BENTALOU ST & WINDSOR AVE nb,localbus,17.0,Moderate Frequency
+6488,PULASKI ST & WINDSOR AVE fs nb,localbus,17.0,Moderate Frequency
+6489,PULASKI ST & WHITTIER AVE nb,localbus,9.2,High Frequency
+160,Gwynns Falls Pkwy & Pulaski St,localbus,4.6,High Frequency
+161,Gwynns Falls Pkwy & Warwick Ave,localbus,4.7,High Frequency
+163,Tioga Pkwy & Forest Park Ave,localbus,5.1,High Frequency
+901,MORAVIA LOOP wb,localbus,10.8,Moderate Frequency
+10667,MORAVIA RD & SINCLAIR LN fs wb,localbus,14.1,Moderate Frequency
+8940,MORAVIA RD & GUNTHER AVE fs wb,localbus,14.4,Moderate Frequency
+5631,MORAVIA RD & SIPPLE AVE wb,localbus,14.1,Moderate Frequency
+5632,MORAVIA RD & SAINT THOMAS AVE wb,localbus,14.4,Moderate Frequency
+5633,MORAVIA RD & MANNASOTA AVE wb,localbus,14.6,Moderate Frequency
+5634,MORAVIA RD & BELAIR RD fs wb,localbus,21.7,Low Frequency
+12549,MORAVIA RD & SCHLEY AVE fs wb,localbus,21.7,Low Frequency
+5635,MORAVIA RD & HARCOURT RD wb,localbus,21.7,Low Frequency
+3603,HARFORD RD & GRINDON AVE sb,localbus,9.7,High Frequency
+3606,HARFORD RD & MONTEBELLO TERR sb,localbus,9.0,High Frequency
+3607,HARFORD RD & ARGONNE DR sb,localbus,8.9,High Frequency
+5640,ARGONNE DR & MD REHABILITATION wb,localbus,21.7,Low Frequency
+12658,ARGONNE DR & MCCALLUM DRwb,localbus,21.7,Low Frequency
+12700,1800 ARGONNE DR wb,localbus,21.7,Low Frequency
+9588,ARGONNE DR & HILLEN RD wb,localbus,21.7,Low Frequency
+5642,HILLEN RD & COLD SPRING LN nb,localbus,21.7,Low Frequency
+8340,COLD SPRING LN & LOCH RAVEN BLVD fs wb,localbus,21.3,Low Frequency
+5649,COLD SPRING LN & THE LEAGUE wb,localbus,21.7,Low Frequency
+5650,COLD SPRING LN & THE ALAMEDA wb,localbus,21.7,Low Frequency
+5651,COLD SPRING LN & ST GEORGES AVE wb,localbus,21.7,Low Frequency
+5653,COLD SPRING LN & ALHAMBRA AVE fs wb,localbus,21.2,Low Frequency
+5654,COLD SPRING LN & YORK RD wb,localbus,20.8,Low Frequency
+5655,COLD SPRING LN & MILBROOK RD wb,localbus,21.2,Low Frequency
+10352,COLD SPRING LN & CHARLES ST wb,localbus,21.2,Low Frequency
+5657,COLD SPRING LN & WILMSLOW RD wb,localbus,21.2,Low Frequency
+8945,COLD SPRING LN & ROLAND AVE fs wb,localbus,21.2,Low Frequency
+5030,COLD SPRING LN & FALLS RD wb,localbus,20.8,Low Frequency
+5660,COLD SPRING LN & GRANDVIEW AVE fs wb,localbus,21.2,Low Frequency
+5661,COLD SPRING LN & COLD SPRING LIGHT RAIL STATION mid wb,localbus,21.2,Low Frequency
+12659,COLD SPRING LN & TAMARIND RD wb,localbus,21.2,Low Frequency
+9280,COLD SPRING LN & GREENSPRING AVE fs wb,localbus,21.6,Low Frequency
+5663,COLD SPRING LN & OAKFORD AVE fs wb,localbus,21.6,Low Frequency
+5664,COLD SPRING LN & PALL MALL RD fs wb,localbus,21.6,Low Frequency
+9279,COLD SPRING LN & PARK HEIGHTS AVE fs wb,localbus,21.6,Low Frequency
+5666,COLD SPRING LN & REISTERSTOWN RD wb,localbus,21.6,Low Frequency
+5667,COLD SPRING LN & DAYTONA AVE wb,localbus,21.6,Low Frequency
+10668,COLD SPRING LN & METRO ENT opp wb,localbus,21.2,Low Frequency
+5669,DOLFIELD AVE & COLD SPRING LN fs nb,localbus,14.3,Moderate Frequency
+5670,DOLFIELD AVE & FERNHILL AVE nb,localbus,14.3,Moderate Frequency
+5671,DOLFIELD AVE & LEWIN AVE nb,localbus,14.3,Moderate Frequency
+6509,DOLFIELD AVE & WHITE OAK AVE mid nb,localbus,14.3,Moderate Frequency
+6510,DOLFIELD AVE & GARRISON BLVD wb,localbus,14.5,Moderate Frequency
+6511,GROVELAND AVE & GARRISON BLVD mid wb,localbus,14.3,Moderate Frequency
+14094,ROGERS AVE METRO STATION BAY 2,localbus,11.5,Moderate Frequency
+11406,DUE MORAVIA RD & TRUESDALE RD nb,localbus,5.0,High Frequency
+11407,MORAVIA RD & TRUESDALE RD nb,localbus,5.0,High Frequency
+5580,DOLFIELD AVE & GARRISON BLVD eb,localbus,14.2,Moderate Frequency
+5581,DOLFIELD AVE & WHITE OAK AVE eb,localbus,14.2,Moderate Frequency
+5582,DOLFIELD AVE & AYRDALE AVE eb,localbus,13.7,Moderate Frequency
+5583,DOLFIELD AVE & FERNHILL AVE eb,localbus,14.1,Moderate Frequency
+6370,DOLFIELD AVE & COLD SPRING LN sb,localbus,14.1,Moderate Frequency
+10879,COLD SPRING & COLD SPRING METRO STATION eb,localbus,21.5,Low Frequency
+5587,COLD SPRING LN & DAYTON AVE fs eb,localbus,21.5,Low Frequency
+10685,COLD SPRING LN & REISTERSTOWN RD eb,localbus,21.5,Low Frequency
+9281,COLD SPRING LN & PARK HEIGHTS AVE eb,localbus,21.5,Low Frequency
+5590,COLD SPRING LN & PALL MALL RD eb,localbus,21.5,Low Frequency
+5591,COLD SPRING LN & OAKFORD AVE eb,localbus,21.5,Low Frequency
+9282,COLD SPRING LN & GREENSPRING AVE eb,localbus,21.5,Low Frequency
+5593,COLD SPRING LN & TAMARIND RD opp eb,localbus,20.7,Low Frequency
+10665,COLD SPRING LN & LIGHT RAIL eb,localbus,20.7,Low Frequency
+10342,COLD SPRING LN & GRANDVIEW AVE eb,localbus,22.3,Low Frequency
+5596,COLD SPRING LN & FALLS RD fs eb,localbus,22.3,Low Frequency
+5597,COLD SPRING LN & EVANS CHAPEL RD eb,localbus,21.5,Low Frequency
+4866,COLD SPRING LN & ROLAND AVE fs eb,localbus,21.5,Low Frequency
+12656,COLD SPRING LN& ATWICK RD eb,localbus,21.5,Low Frequency
+8946,COLD SPRING LN & CHARLES ST eb,localbus,21.5,Low Frequency
+5604,COLD SPRING LN & MILLBROOK RD eb,localbus,21.0,Low Frequency
+5605,COLD SPRING LN & YORK RD eb fs,localbus,21.0,Low Frequency
+5606,COLD SPRING LN & ALHAMBRA AVE eb,localbus,21.0,Low Frequency
+5607,COLD SPRING LN & MIDWOOD AVE fs eb,localbus,21.0,Low Frequency
+5608,COLD SPRING LN & THE ALAMEDA fs eb,localbus,21.0,Low Frequency
+5609,COLD SPRING LN & THE LEAGUE,localbus,21.0,Low Frequency
+5611,COLD SPRING LN & LOCH RAVEN BLVD eb,localbus,21.0,Low Frequency
+10913,HILLEN RD & COLDSPRING LN fs sb,localbus,12.0,Moderate Frequency
+5615,ARGONNE DR & HILLEN RD fs eb,localbus,21.0,Low Frequency
+12699,1800 ARGONNE DR eb,localbus,21.0,Low Frequency
+10347,ARGONNE DR & MCCALLUM DR eb,localbus,21.0,Low Frequency
+10223,ARGONNE DR & WORK FORCE TECH CENTER eb,localbus,21.0,Low Frequency
+3429,HARFORD RD & PARKSIDE DR fs nb,localbus,9.2,High Frequency
+3431,HARFORD RD & MONTEBELLO TER fs nb,localbus,9.0,High Frequency
+3436,HARFORD RD & MORAVIA RD nb,localbus,8.9,High Frequency
+5620,MORAVIA RD & HARCOURT RD fs eb,localbus,21.0,Low Frequency
+12550,MORAVIA RD & SCHLEY AVE opp eb,localbus,21.0,Low Frequency
+10237,MORAVIA RD & BELAIR RD eb,localbus,21.0,Low Frequency
+5622,MORAVIA RD & MANNASOTA AVE eb,localbus,14.9,Moderate Frequency
+5623,MORAVIA RD & ST THOMAS AVE opp eb,localbus,14.5,Moderate Frequency
+5624,MORAVIA RD & SIPPLE AVE fs eb,localbus,14.7,Moderate Frequency
+8939,MORAVIA RD & GUNTHER AVE fs eb,localbus,14.9,Moderate Frequency
+5626,MORAVIA RD & SINCLAIR LNeb,localbus,14.7,Moderate Frequency
+897,BOWLEYS LN & CLAYBURY AVE op sb,localbus,21.4,Low Frequency
+899,BOWLEYS LN & LORELLY AVE op sb,localbus,21.4,Low Frequency
+5628,MORAVIA RD & MORAVIA PARK DR fs,localbus,21.4,Low Frequency
+13523,MONDAWMIN METRO STATION BAY 3,localbus,13.9,Moderate Frequency
+10325,WARWICK AVE & GWYNNS FALLS PKWY fs,localbus,16.8,Moderate Frequency
+4181,WARWICK AVE & WINDSOR AVE opp sb,localbus,16.8,Moderate Frequency
+12713,NORTH AVE & THOMAS AVE fs wb,localbus,7.5,High Frequency
+2521,NORTH AVE & ASHBURTON ST wb,localbus,7.4,High Frequency
+2522,NORTH AVE & POPLAR GROVE ST wb,localbus,7.3,High Frequency
+2524,NORTH AVE & ROSEDALE ST wb,localbus,7.3,High Frequency
+2995,BLOOMINGDALE RD & ROSEDALE ST sb,localbus,10.1,Moderate Frequency
+2997,BLOOMINGDALE RD & BRIGHTON ST sb,localbus,10.0,High Frequency
+2999,BLOOMINGDALE RD & BELMONT AVE sb,localbus,10.0,High Frequency
+3001,POPLAR GROVE ST & RIGGS AVE sb,localbus,9.8,High Frequency
+3002,POPLAR GROVE ST & LAFAYETTE AVE sb,localbus,9.9,High Frequency
+3004,POPLAR GROVE ST & FRANKLINTOWN RD sb,localbus,9.9,High Frequency
+14259,EDMONDSON AVE & POPLAR GROVE WB NS,localbus,26.6,Low Frequency
+3927,EDMONDSON AVE & LONGWOOD ST wb,localbus,8.2,High Frequency
+4201,HILTON ST & MONASTERY ST sb,localbus,26.0,Low Frequency
+4202,HILTON ST & MORLEY ST sb,localbus,26.0,Low Frequency
+8982,HILTON ST & BALTIMORE ST sb,localbus,26.6,Low Frequency
+4205,HILTON ST & MASSACHUSETTS AVE sb,localbus,26.6,Low Frequency
+8972,HILTON ST & FREDERICK AVE sb,localbus,26.6,Low Frequency
+4207,CATON AVE & KINGSLEY ST fs sb,localbus,27.2,Low Frequency
+4209,CATON AVE & WILKENS AVE sb,localbus,27.2,Low Frequency
+4210,CATON AVE & WILKENS AVE fs sb,localbus,27.2,Low Frequency
+4211,CATON AVE & BENSON AVE sb,localbus,27.2,Low Frequency
+4212,3320 BENSON AVE & CATHOLIC CHARITIES wb,localbus,27.2,Low Frequency
+10332,3431 BENSON AVE opp wb,localbus,27.2,Low Frequency
+4218,JOH AVE & VERO RD fs eb,localbus,27.2,Low Frequency
+4219,1400 JOH AVE eb,localbus,27.2,Low Frequency
+4220,JOH AVE & BLOOMFIELD AVE fs eb,localbus,27.2,Low Frequency
+4226,PATAPSCO AVE & NIEMAN AVE fs eb,localbus,27.2,Low Frequency
+4228,PATAPSCO AVE & ELIZABETH AVE eb,localbus,27.2,Low Frequency
+4229,PATAPSCO AVE & HOLLINS FERRY RD eb,localbus,27.2,Low Frequency
+10829,PATAPSCO AVE & MALVIEW AVE opp eb,localbus,27.2,Low Frequency
+7040,PATAPSCO AVE & ANNAPOLIS RD fs eb,localbus,16.5,Moderate Frequency
+4231,PATAPSCO AVE & MAGNOLIA AVE fs eb,localbus,6.4,High Frequency
+5377,PATAPSCO AVE & MARMENCO CT fs eb,localbus,6.4,High Frequency
+2740,PATAPSCO AVE & POTEE ST mb eb,localbus,10.7,Moderate Frequency
+6837,PATAPSCO AVE & 2ND ST eb,localbus,7.1,High Frequency
+6838,PATAPSCO AVE & 4TH ST eb,localbus,7.0,High Frequency
+6839,PATAPSCO AVE & 6TH ST eb,localbus,7.0,High Frequency
+6840,PATAPSCO AVE & BROOKLYN AVE eb,localbus,8.2,High Frequency
+6841,PATAPSCO AVE & 9TH ST eb,localbus,7.0,High Frequency
+6843,PATAPSCO AVE btwn ST VICTOR ST & 10TH ST eb,localbus,7.1,High Frequency
+6846,10TH ST & STOLL ST sb,localbus,9.7,High Frequency
+6848,10TH ST & RENICK CT opp sb,localbus,9.7,High Frequency
+6849,BROOKLYN HOMES PM LAYOVER sb,localbus,10.7,Moderate Frequency
+6851,BROOKLYN HOMES AM LAYOVER nb,localbus,9.4,High Frequency
+708,PARK HEIGHTS AVE & FALLSTAFF RD sb,localbus,4.0,High Frequency
+6920,6TH ST & DUANE AVE fs sb,localbus,28.2,Low Frequency
+6922,10TH ST & RENICK CT nb,localbus,9.9,High Frequency
+6923,10TH ST & STOLL ST opp nb,localbus,10.0,High Frequency
+6926,10TH ST & PATAPSCO AVE nb,localbus,9.9,High Frequency
+4245,PATAPSCO AVE & 9TH ST wb,localbus,7.0,High Frequency
+4239,PATAPSCO AVE & BROOKLYN AVE wb,localbus,10.9,Moderate Frequency
+4238,PATAPSCO AVE & 6TH ST wb,localbus,7.0,High Frequency
+4237,PATAPSCO AVE & 4TH ST wb,localbus,7.1,High Frequency
+4247,PATAPSCO AVE & HANOVER ST wb,localbus,7.0,High Frequency
+7041,PATAPSCO AVE & MARMENCO CT opp wb,localbus,6.3,High Frequency
+5379,PATAPSCO AVE & MAGNOLIA AVE fs wb,localbus,6.3,High Frequency
+4230,PATAPSCO AVE & ANNAPOLIS RD fs wb,localbus,27.5,Low Frequency
+4250,PATAPSCO AVE & MALLVIEW RD wb,localbus,27.5,Low Frequency
+4251,PATAPSCO AVE & HOLLINS FERRY RD wb,localbus,27.5,Low Frequency
+12391,PATAPSCO AVE & JANICE AVE wb,localbus,27.5,Low Frequency
+10832,PATAPSCO AVE & NIEMAN AVE fs wb,localbus,27.5,Low Frequency
+4256,CATON AVE & JAMES ST nb,localbus,27.5,Low Frequency
+4258,JOH AVE & BLOOMFIELD AVE fs wb,localbus,27.5,Low Frequency
+4259,JOH AVE & KOPPERS ST fs wb,localbus,27.6,Low Frequency
+4260,VERO RD & JOH AVE fs wb,localbus,28.2,Low Frequency
+4262,BENSON AVE & GRANTLEY ST opp eb,localbus,27.5,Low Frequency
+4263,BENSON AVE & SAINT AGNES HEALTH CARE mb eb,localbus,27.5,Low Frequency
+4264,CATON AVE & BENSON AVE fs nb,localbus,27.5,Low Frequency
+4266,CATON AVE & WILKENS AVE nb,localbus,27.6,Low Frequency
+4267,CATON AVE & WILKENS AVE fs nb,localbus,27.5,Low Frequency
+4269,CATON AVE & KINGSLEY ST fs nb,localbus,27.5,Low Frequency
+8977,HILTON ST & FREDERICK AVE nb,localbus,26.9,Low Frequency
+10833,HILTON ST & MASSACHUSETTS ST nb,localbus,26.9,Low Frequency
+8978,HILTON ST & BALTIMORE ST nb,localbus,26.9,Low Frequency
+242,HILTON ST & MONASTERY ST nb,localbus,26.9,Low Frequency
+3245,POPLAR GROVE ST & RAYNER AVE nb,localbus,9.9,High Frequency
+3246,POPLAR GROVE ST & LAFAYETTE AVE nb,localbus,9.9,High Frequency
+3248,POPLAR GROVE ST & RIGGS AVE nb,localbus,9.9,High Frequency
+10837,BLOOMINGDALE RD & BELMONT AVE nb,localbus,10.2,Moderate Frequency
+3253,BLOOMINGDALE RD & BAKER ST nb,localbus,9.8,High Frequency
+3254,BLOOMINGDALE RD & ROSEDALE ST nb,localbus,9.9,High Frequency
+2606,NORTH AVE & LONGWOOD ST eb,localbus,8.1,High Frequency
+2609,NORTH AVE & DUKELAND ST eb,localbus,7.8,High Frequency
+12169,NORTH AVE & THOMAS AVE eb,localbus,16.2,Moderate Frequency
+4288,WARWICK AVE & WINDSOR AVE nb,localbus,16.5,Moderate Frequency
+4290,Gwynns Falls Pkwy & Tioga Pkwy,localbus,26.8,Low Frequency
+1099,PARK HEIGHTS AVE & FALLSTAFF RD nb,localbus,9.5,High Frequency
+14180,62ND ST & PULASKI,localbus,9.0,High Frequency
+12422,PULASKI HWY & 62ND ST wb,localbus,10.2,Moderate Frequency
+12097,MORAVIA PARK DR & PROCTMAN AVE nb,localbus,17.7,Moderate Frequency
+12098,MORAVIA PARK DR & SUPPLY AVE nb,localbus,17.9,Moderate Frequency
+12099,FRANKFORD AVE & MORAVIA PARK DR fs nb,localbus,17.9,Moderate Frequency
+5930,FRANKFORD AVE & RELCREST RD nb,localbus,11.8,Moderate Frequency
+5931,FRANKFORD AVE & FORCE RD fs nb,localbus,11.8,Moderate Frequency
+5933,FRANKFORD AVE & SINCLAIR LN,localbus,17.7,Moderate Frequency
+5934,FRANKFORD AVE & DAKOTA AVE nb,localbus,17.7,Moderate Frequency
+5935,FRANKFORD AVE & OMAHA AVE nb,localbus,17.7,Moderate Frequency
+5938,FRANKFORD AVE & RADECKE AVE nb,localbus,17.7,Moderate Frequency
+11379,FRANKFORD AVE & CEDELLA AVE wb,localbus,17.7,Moderate Frequency
+5941,FRANKFORD AVE & GERLAND AVE wb,localbus,17.4,Moderate Frequency
+5944,FRANKFORD AVE & PLAINFIELD AVE wb,localbus,17.4,Moderate Frequency
+5946,FRANKFORD AVE & GREENHILL AVE wb,localbus,17.5,Moderate Frequency
+5948,FRANKFORD AVE & BELAIR RD wb,localbus,17.5,Moderate Frequency
+5949,FRANKFORD AVE & CORSE AVE fs wb,localbus,17.2,Moderate Frequency
+5950,ECHODALE AVE & PEMBROOK AVE wb,localbus,17.2,Moderate Frequency
+5951,ECHODALE AVE & WALTHER AVE wb,localbus,17.2,Moderate Frequency
+5954,ECHODALE AVE & TWIN OAK AVE wb,localbus,17.2,Moderate Frequency
+5955,ECHODALE AVE & HARFORD RD fs wb,localbus,17.2,Moderate Frequency
+5957,ECHODALE AVE & ELSRODE AVE wb,localbus,17.2,Moderate Frequency
+5958,ECHODALE AVE & TRAMORE RD fs wb,localbus,17.2,Moderate Frequency
+5960,ECHODALE AVE & HERRING RUN DR wb,localbus,17.2,Moderate Frequency
+5961,ECHODALE AVE & PERRING PKWY wb,localbus,17.2,Moderate Frequency
+5963,BELVEDERE AVE & WILLOWTON AVE wb,localbus,17.2,Moderate Frequency
+5964,BELVEDERE AVE & BEECHDALE AVE wb,localbus,16.9,Moderate Frequency
+5965,BELVEDERE AVE & HILLEN RD fs wb,localbus,16.9,Moderate Frequency
+5966,BELVEDERE AVE & FENWICK AVE wb,localbus,16.9,Moderate Frequency
+5968,BELVEDERE AVE & LOCH RAVEN BLVD fs wb,localbus,17.2,Moderate Frequency
+5969,BELVEDERE AVE & WOODMOUNT AVE opp w,localbus,16.9,Moderate Frequency
+5972,BELVEDERE AVE & THE ALAMEDA wb,localbus,16.9,Moderate Frequency
+5973,BELVEDERE AVE & CHINQUAPIN PKWY wb,localbus,16.9,Moderate Frequency
+5975,BELVEDERE AVE & NORTHWOOD DR wb,localbus,16.9,Moderate Frequency
+5976,BELVEDERE AVE & BRADHURST RD wb,localbus,16.9,Moderate Frequency
+5977,BELVEDERE AVE & GILPIN RD wb,localbus,17.2,Moderate Frequency
+5980,BELVEDERE AVE & CLEARSPRING RD wb,localbus,16.9,Moderate Frequency
+1540,NORTHERN PKWY & YORK RD ns wb,localbus,12.4,Moderate Frequency
+5982,NORTHERN PKWY & YORK RD fs wb,localbus,12.5,Moderate Frequency
+2120,NORTHERN PKWY & SPRINGLAKE WY wb,localbus,9.7,High Frequency
+5983,NORTHERN PKWY & ST ALBANS WAY wb,localbus,9.9,High Frequency
+5985,NORTHERN PKWY & CHARLES ST wb,localbus,12.3,Moderate Frequency
+5988,NORTHERN PKWY & ROLAND AVE wb,localbus,12.4,Moderate Frequency
+5990,NORTHERN PKWY & FALLS RD wb,localbus,18.0,Moderate Frequency
+13688,NORTHERN PKWY & ROGERS AVE wb,localbus,18.0,Moderate Frequency
+5996,BELVEDERE AVE & LANIER AVE opp wb,localbus,18.0,Moderate Frequency
+14067,BELVEDERE AVE & PREAKNESS WAY wb ns,localbus,8.7,High Frequency
+5998,PREAKNESS WY between NORTHERN PKY & BELVEDERE AVE nb,localbus,12.8,Moderate Frequency
+13689,NORTHERN PKWY & STUART AVE wb,localbus,18.0,Moderate Frequency
+6047,NORTHERN PKWY & KEY AVE wb,localbus,17.9,Moderate Frequency
+6049,NORTHERN PKWY & HIGHGATE DR wb,localbus,18.0,Moderate Frequency
+6052,NORTHERN PKWY & PARK HEIGHTS wb,localbus,18.0,Moderate Frequency
+6054,NORTHERN PKWY & NARCISSUS AVE wb,localbus,12.7,Moderate Frequency
+6055,NORTHERN PKWY & GIST AVE wb,localbus,12.0,Moderate Frequency
+1209,REISTERSTOWN RD & NORTHERN PKWY fs sb,localbus,8.4,High Frequency
+6057,REISTERSTOWN RD & ROGERS AVE sb,localbus,8.4,High Frequency
+14095,ROGERS AVE METRO STATION BAY 3,localbus,9.4,High Frequency
+6283,CARTER AVE & BAYONNE AVE,localbus,4.5,High Frequency
+6718,ROLAND AVE & DEEPDENE RD nb,localbus,6.0,High Frequency
+6285,DUE PIONEER (LEWIS),localbus,40.0,Infrequent
+6282,PIONEER & FLEETWOOD (LEWIS),localbus,22.2,Low Frequency
+5073,WABASH AVE & ROGERS AVE,localbus,7.8,High Frequency
+6106,ROGERS METRO STATION ENTRANCE nb,localbus,9.8,High Frequency
+6107,NORTHERN PKWY & PRICE AVE fs eb,localbus,12.1,Moderate Frequency
+6109,NORTHERN PKWY & NARCISSUS AVE eb,localbus,18.0,Moderate Frequency
+6110,NORTHERN PKWY & PARK HEIGHTS eb,localbus,18.0,Moderate Frequency
+6112,NORTHERN PKWY & HIGHGATE DR eb,localbus,18.0,Moderate Frequency
+6113,NORTHERN & WINNER eb,localbus,18.0,Moderate Frequency
+5059,PREAKNESS WAY & BUS SHELTER mb sb,localbus,12.3,Moderate Frequency
+6148,BELVEDERE AVE & SUNSET RD eb,localbus,8.3,High Frequency
+14104,SINAI HOSPITAL LOOP BAY 1,localbus,10.5,Moderate Frequency
+6151,NORTHERN PKWY & FALLS RD eb,localbus,12.6,Moderate Frequency
+1545,NORTHERN PKWY & ROLAND AVE fs eb,localbus,12.2,Moderate Frequency
+6155,NORTHERN PKWY & CHARLES ST eb,localbus,12.6,Moderate Frequency
+3442,NORTHERN PKWY & YORK RD eb,localbus,12.0,Moderate Frequency
+6157,NORTHERN PKWY & CLEARSPRING RD eb,localbus,12.1,Moderate Frequency
+6158,BELVEDERE AVE & CLEARSPRING RD fs eb,localbus,17.0,Moderate Frequency
+6160,BELVEDERE AVE & GILPIN RD eb,localbus,17.0,Moderate Frequency
+6161,BELVEDERE AVE & BRADHURST RD eb,localbus,17.0,Moderate Frequency
+6163,BELVEDERE AVE & CHINQUAPIN PKWY eb,localbus,17.0,Moderate Frequency
+6165,BELVEDERE AVE & THE ALAMEDA eb,localbus,17.0,Moderate Frequency
+6167,BELVEDERE AVE & WOODMONT AVE eb,localbus,17.0,Moderate Frequency
+6169,BELVEDERE AVE & LOCH RAVEN BLVD fs eb,localbus,17.0,Moderate Frequency
+6170,BELVEDERE AVE & GOOD SAMARITAN HOSPITAL fs eb,localbus,17.0,Moderate Frequency
+6172,BELVEDERE AVE & HILLEN RD eb,localbus,16.9,Moderate Frequency
+6173,BELVEDERE AVE & HILLEN RD fs eb,localbus,17.0,Moderate Frequency
+12110,BELVEDERE AVE & WILLOWTON RD eb,localbus,16.9,Moderate Frequency
+12111,BELVEDERE AVE & PERRING PKWY eb,localbus,17.0,Moderate Frequency
+6176,ECHODALE AVE & HERRING RUN DR eb,localbus,17.2,Moderate Frequency
+6179,ECHODALE AVE & CATALPHA RD fs eb,localbus,17.2,Moderate Frequency
+6181,ECHODALE AVE & LATONA RD eb,localbus,17.2,Moderate Frequency
+6183,ECHODALE AVE & HARFORD RD eb,localbus,17.2,Moderate Frequency
+6184,ECHODALE AVE & TWIN OAK AVE opp eb,localbus,17.7,Moderate Frequency
+6187,ECHODALE AVE & WALTHER AVE eb,localbus,17.4,Moderate Frequency
+6188,ECHODALE AVE & CROSSWOOD AVE eb,localbus,17.4,Moderate Frequency
+6189,ECHODALE AVE & PEMBROOK AVE eb,localbus,17.2,Moderate Frequency
+6190,ECHODALE AVE & REMMELL AVE eb,localbus,17.4,Moderate Frequency
+6191,FRANKFORD AVE & CORSE AVE eb,localbus,17.0,Moderate Frequency
+6193,FRANKFORD AVE & BELAIR RD fs eb,localbus,17.2,Moderate Frequency
+6195,FRANKFORD AVE & GREENHILL AVE eb,localbus,17.2,Moderate Frequency
+6197,FRANKFORD AVE & PLAINFIELD AVE eb,localbus,17.0,Moderate Frequency
+6199,FRANKFORD AVE & BARBARA AVE eb,localbus,17.2,Moderate Frequency
+5940,FRANKFORD AVE & CEDELLA AVE eb,localbus,17.0,Moderate Frequency
+6201,FRANKFORD AVE & SIPPLE AVE eb,localbus,17.0,Moderate Frequency
+6202,FRANKFORD AVE & PHILIPPI AVE fs eb,localbus,17.0,Moderate Frequency
+6204,FRANKFORD & OMAHA AVE eb,localbus,17.0,Moderate Frequency
+6206,FRANKFORD AVE & SINCLAIR LN sb,localbus,17.0,Moderate Frequency
+6207,FRANKFORD AVE & SCHAUB AVE sb,localbus,17.2,Moderate Frequency
+6209,FRANKFORD AVE & FORCE RD sb,localbus,17.2,Moderate Frequency
+6211,FRANKFORD AVE & RELCREST RD sb,localbus,17.2,Moderate Frequency
+6215,MORAVIA PARK DR & SUPPLY AVE eb,localbus,17.2,Moderate Frequency
+6216,MORAVIA PARK DR & PROCTMAN AVE eb,localbus,17.2,Moderate Frequency
+11149,PULASKI HWY & 62ND ST opp eb,localbus,9.3,High Frequency
+14184,62ND ST & 1601 BLDG,localbus,17.2,Moderate Frequency
+1550,NORTHERN PKWY & SPRINGLAKE WY fs eb,localbus,37.4,Infrequent
+1398,REISTERSTOWN RD & NORTHERN PKWY nb,localbus,11.1,Moderate Frequency
+1,Cylburn Ave & Greenspring Ave,localbus,9.4,High Frequency
+3,Lanier Ave & Sinai Hospital,localbus,15.0,Moderate Frequency
+4,LANIER AVE & BELVEDERE AVE,localbus,9.0,High Frequency
+11372,BELVEDERE AVE & PEMBRIDGE AVE wb,localbus,25.8,Low Frequency
+5062,BELVEDERE & PALMER AVE MB wb,localbus,25.8,Low Frequency
+5063,BELVEDERE AVE & PARK HEIGHTS AVE wb,localbus,25.8,Low Frequency
+5065,BELVEDERE AVE & ELMER AVE wb,localbus,25.8,Low Frequency
+7148,BELVEDERE AVE & CUTHBERT AVE fs wb,localbus,25.8,Low Frequency
+5068,BELVEDERE AVE & CORDELIA AVEwb,localbus,25.8,Low Frequency
+5070,BELVEDERE AVE & REISTERSTOWN RD fs wb,localbus,25.8,Low Frequency
+14096,ROGERS AVE METRO STATION,localbus,12.6,Moderate Frequency
+6059,ROGERS AVE & KENNISON AVE fs wb,localbus,25.8,Low Frequency
+13690,ROGERS AVE & ROGERS POST APARTMENTS sb,localbus,25.8,Low Frequency
+6062,ROGERS AVE & BELLE AVE wb,localbus,25.8,Low Frequency
+6063,ROGERS AVE & HADDON AVE wb,localbus,25.8,Low Frequency
+6068,ROGERS AVE & FERNPARK AVE sb,localbus,25.8,Low Frequency
+6070,ROGERS AVE & GWYNN OAK AVE sb,localbus,34.0,Infrequent
+6073,GWYNN OAK AVE & SILVERHILL AVE fs wb,localbus,25.8,Low Frequency
+6065,ROGERS AVE & LIBERTY HEIGHTS AVE sb,localbus,31.5,Infrequent
+6094,GWYNN OAK AVE & SILVER HILL AVE eb,localbus,24.1,Low Frequency
+12105,ROGERS AVE & BOSWORTH AVE nb,localbus,24.1,Low Frequency
+6096,ROGERS AVE & FERNPARK AVEfs nb,localbus,24.1,Low Frequency
+6099,ROGERS AVE & LIBERTY HEIGHTS AVE nb,localbus,24.1,Low Frequency
+6101,ROGERS AVE & HADDON AVE nb,localbus,24.1,Low Frequency
+12106,ROGERS AVE & BELLE AVE nb,localbus,24.1,Low Frequency
+12107,ROGERS AVE & MERCERON AVE nb,localbus,24.0,Low Frequency
+6103,ROGERS AVE & ELDERON AVE nb,localbus,24.0,Low Frequency
+6104,ROGERS AVE & KENNISON AVE nb,localbus,24.0,Low Frequency
+4828,BELVEDERE AVE & REISTERSTOWN RD eb,localbus,24.0,Low Frequency
+4830,BELVEDERE AVE & NELSON AVE fs eb,localbus,24.0,Low Frequency
+4831,BELVEDERE AVE & LITCHFIELD AVE eb,localbus,24.0,Low Frequency
+4833,BELVEDERE AVE & ELMER AVE eb,localbus,24.1,Low Frequency
+4834,BELVEDERE AVE & DENMORE AVE eb,localbus,24.1,Low Frequency
+4835,BELVEDERE AVE & PARK HEIGHTS AVE fs wb,localbus,24.1,Low Frequency
+4836,BELVEDERE AVE & PALMER AVE fs eb,localbus,24.1,Low Frequency
+4838,BELVEDERE AVE & PEMBRIDGE AVE fs,localbus,24.1,Low Frequency
+12649,BELVEDERE AVE & PREAKNESS WAY wb,localbus,24.1,Low Frequency
+4840,BELVEDERE AVE & PREAKNESS WY eb,localbus,24.1,Low Frequency
+3295,ANNAPOLIS RD & PATAPSCO AVE fs sb,localbus,8.0,High Frequency
+5789,NORTHERN PKWY & SPRUCE ST fs wb,localbus,18.9,Moderate Frequency
+5790,NORTHERN PKWY & CEDONIA AVE wb,localbus,19.2,Moderate Frequency
+5792,NORTHERN PKWY & EVERALL AVE fs wb,localbus,18.9,Moderate Frequency
+3579,NORTHERN PKWY & HILLTOP AVE wb,localbus,19.2,Moderate Frequency
+3581,NORTHERN PKWY & MOYER AVE wb,localbus,18.9,Moderate Frequency
+5794,NORTHERN PKWY & GLEN OAK AVE opp wb,localbus,18.9,Moderate Frequency
+5796,NORTHERN PKWY & HARFORD RD fs wb,localbus,11.6,Moderate Frequency
+3473,NORTHERN PKWY & MARIETTA AVE wb,localbus,12.4,Moderate Frequency
+10777,NORTHERN PKWY & LAURELTON AVE fs wb,localbus,12.0,Moderate Frequency
+5911,NORTHERN PKWY & MCCLEAN BLVD wb,localbus,12.3,Moderate Frequency
+444,NORTHERN PKWY & PIONEER wb,localbus,38.6,Infrequent
+446,NORTHERN PKWY & FENWICK AVE wb,localbus,38.5,Infrequent
+447,NORTHERN PKWY & LOCH RAVEN BLVD wb,localbus,38.6,Infrequent
+5913,NORTHERN PKWY & EDLYNNE RD wb,localbus,38.5,Infrequent
+5914,NORTHERN PKWY & DUNROMING RD fs,localbus,38.6,Infrequent
+5915,NORTHERN PKWY & CHINQUAPIN PKWY,localbus,38.5,Infrequent
+5917,NORTHERN PKWY & DARTMOUTH GLEN WY,localbus,38.6,Infrequent
+5046,FALLS RD & NORTHERN PKWY fs nb,localbus,20.1,Low Frequency
+5047,FALLS RD & MATTFELDT AVE opp nb,localbus,20.5,Low Frequency
+5048,KELLY AVE & FALLS RD fs wb,localbus,12.8,Moderate Frequency
+5049,KELLY AVE & SULGRAVE AVE wb,localbus,10.0,High Frequency
+4854,KELLY AVE & SOUTH RD eb,localbus,13.4,Moderate Frequency
+4855,KELLY AVE & FALLS RD eb,localbus,20.9,Low Frequency
+4856,FALLS RD & MATTFELDT AVE fs sb,localbus,20.5,Low Frequency
+13582,NORTHERN PKWY & LENTON AVE fs eb,localbus,38.7,Infrequent
+5802,NORTHERN PKWY & CHINQUAPIN PKWY eb,localbus,38.7,Infrequent
+5803,NORTHERN PKWY & DUNROMING RD eb,localbus,38.7,Infrequent
+5804,NORTHERN PKWY & THE ALAMEDA eb,localbus,38.7,Infrequent
+8700,NORTHERN PKWY & LOCH RAVEN BLVD fs nb,localbus,38.7,Infrequent
+584,NORTHERN PKWY & WAVERLY WY eb,localbus,38.7,Infrequent
+585,NORTHERN PKWY & PIONEER DR eb fs,localbus,38.7,Infrequent
+3570,NORTHERN PKWY & MCCLEAN BLVD fs eb,localbus,11.5,Moderate Frequency
+10380,NORTHERN PKWY & LAURELTON AVE eb,localbus,11.8,Moderate Frequency
+10802,NORTHERN PKWY & MARIETTA AVE eb,localbus,11.7,Moderate Frequency
+3574,NORTHERN PKWY & HAMPNETT AVE eb,localbus,11.5,Moderate Frequency
+6294,NORTHERN PKWY & HARFORD RD fs eb,localbus,18.6,Moderate Frequency
+6608,NORTHERN PKWY & GLENOAK AVE eb,localbus,18.3,Moderate Frequency
+3460,NORTHERN PKWY & MOYER AVE eb,localbus,18.6,Moderate Frequency
+3461,NORTHERN PKWY & ALTA AVE fs eb,localbus,18.6,Moderate Frequency
+3462,NORTHERN PKWY & HILLTOP AVE fs eb,localbus,38.8,Infrequent
+6609,NORTHERN PKWY & WALTHER BLVD eb,localbus,18.6,Moderate Frequency
+6611,FLEETWOOD AVE & CEDONIA AVE eb,localbus,18.6,Moderate Frequency
+12395,PARK HEIGHTS AVE & BANCROFT RD opp sb,localbus,16.4,Moderate Frequency
+713,PARK HEIGHTS AVE & FORDS LN sb,localbus,15.9,Moderate Frequency
+714,PARK HEIGHTS AVE & STRATHMORE AVE sb,localbus,16.0,Moderate Frequency
+715,PARK HEIGHTS AVE & PINKNEY RD sb,localbus,15.9,Moderate Frequency
+717,PARK HEIGHTS AVE & MENLO DR sb,localbus,15.9,Moderate Frequency
+7325,PARK HEIGHTS AVE & JEWISHCOMMUNITY CENTER mid sb,localbus,11.7,Moderate Frequency
+7366,BELVIEU AVE & GRANADA AVE wb,localbus,31.9,Infrequent
+7368,BELVIEU AVE & HILLSDALE RD wb,localbus,31.9,Infrequent
+7370,GWYNN OAK AVE & PENHURST AVE fs sb,localbus,31.9,Infrequent
+7371,GWYNN OAK AVE & FERNHILL AVE mb sb,localbus,31.9,Infrequent
+5163,LIBERTY HEIGHTS AVE & GWYNN OAK AVE fs,localbus,10.4,Moderate Frequency
+5164,LIBERTY HEIGHTS AVE & HILLSDALE RD fs sb,localbus,10.4,Moderate Frequency
+5165,LIBERTY HEIGHTS AVE & ELDORADO AVE fs sb,localbus,10.5,Moderate Frequency
+5166,LIBERTY HEIGHTS AVE & GRANADA AVE sb,localbus,10.5,Moderate Frequency
+5167,LIBERTY HEIGHTS AVE & OAKFIELD AVE sb,localbus,10.5,Moderate Frequency
+14175,FOREST PARK AVE & CHELSEA TER wb,localbus,31.9,Infrequent
+2547,FOREST PARK AVE & LOUDON AVE wb,localbus,18.1,Moderate Frequency
+2549,FOREST PARK AVE & FOREST GLEN RD wb,localbus,18.2,Moderate Frequency
+2550,FOREST PARK AVE & HILLSDALE RD wb,localbus,18.1,Moderate Frequency
+12030,FOREST PARK AVE & GATEHOUSE DR wb,localbus,18.2,Moderate Frequency
+12031,FOREST PARK AVE & PICKWICK RD wb,localbus,18.1,Moderate Frequency
+12032,FOREST PARK AVE & HILLHOUSE RD wb,localbus,18.2,Moderate Frequency
+14041,FOREST PARK AV & WINDSOR MILL RD sb fs,localbus,31.9,Infrequent
+3267,FOREST PARK AVE & OVERCREST AVE sb,localbus,31.9,Infrequent
+3269,FOREST PARK AVE & PLEASANT ST sb,localbus,31.9,Infrequent
+3692,COOKS & BRIARCLIFT eb,localbus,10.9,Moderate Frequency
+3695,EDMONDSON AVE & UPLANDS PKWY eb,localbus,7.3,High Frequency
+10905,EDMONDSON AVE & SWANN AVE fs eb,localbus,6.0,High Frequency
+4412,EDMONDSON AVE & WALNUT AVE opp mb eb,localbus,28.9,Low Frequency
+8585,EDMONDSON AVE & AUGUSTA AVE eb,localbus,10.7,Moderate Frequency
+4421,EDMONDSON AVE & NORMANDY AVE eb,localbus,10.6,Moderate Frequency
+4423,EDMONDSON AVE & ALLENDALE ST eb,localbus,8.2,High Frequency
+4425,EDMONDSON AVE & EDGEWOOD ST eb,localbus,10.5,Moderate Frequency
+4426,EDMONDSON AVE & HILTON ST eb,localbus,10.6,Moderate Frequency
+343,FREDERICK AVE & HILTON ST fs wb,localbus,14.3,Moderate Frequency
+346,FREDERICK AVE & MORLEY ST wb,localbus,14.3,Moderate Frequency
+349,FREDERICK AVE & LOUDON AVE wb,localbus,14.3,Moderate Frequency
+350,FREDERICK AVE & AUGUSTA AVE wb,localbus,14.3,Moderate Frequency
+351,YALE AVE & MOUNT SAINT JOSEPH HIGH SCHOOL mid sb,localbus,14.3,Moderate Frequency
+12544,YALE AVE & PARKTON ST sb,localbus,14.3,Moderate Frequency
+352,YALE AVE & ELDONE RD sb,localbus,14.3,Moderate Frequency
+354,CEDAR GARDEN RD & BETHNAL RD wb,localbus,14.3,Moderate Frequency
+355,CEDAR GARDEN RD & THORNFIELD RD wb,localbus,14.3,Moderate Frequency
+356,THORNFIELD AVE & BEECHFIELD AVE wb,localbus,14.3,Moderate Frequency
+12848,BEECHFIELD AVE & THORNFIELD AVE,localbus,14.3,Moderate Frequency
+358,BEECHFIELD AVE & STAFFORD RD nb,localbus,14.3,Moderate Frequency
+360,FREDERICK AVE & TREMONT RD wb,localbus,14.3,Moderate Frequency
+361,FREDERICK AVE & LONG ISLAND AVE opp wb,localbus,14.3,Moderate Frequency
+363,FREDERICK AVE & ATHOLWOOD LN opp wb,localbus,14.3,Moderate Frequency
+12241,FREDERICK RD & BOSWELL RD wb,localbus,14.3,Moderate Frequency
+366,FREDERICK RD & NORTH BEND RD fs wb,localbus,14.3,Moderate Frequency
+367,FREDERICK RD & MALLOW HILL RD wb,localbus,14.3,Moderate Frequency
+11686,FALLS RD & APPLEBY AVE sb,localbus,33.0,Infrequent
+11625,FALLS RD & SMITH AVE sb,localbus,33.0,Infrequent
+7870,FALLSTAFF & CLARKS fs eb,localbus,24.7,Low Frequency
+13586,FALLSTAFF RD & APOLLO DR eb,localbus,23.6,Low Frequency
+7872,FALLSTAFF & WILLOWGLEN eb,localbus,24.2,Low Frequency
+7873,GREENSPRING & WILLOW GLEN fs sb,localbus,32.9,Infrequent
+7874,GREENSPRING & CHESWOLDE RD sb,localbus,32.9,Infrequent
+12743,GREENSPRING AVE & TANEY RD eb,localbus,27.9,Low Frequency
+12761,GREENSPRING AVE & WETHERBURN RD sb,localbus,32.9,Infrequent
+13619,GREENSPRING AVE & RELLIM RD eb,localbus,32.9,Infrequent
+7877,CROSS COUNTRY BLVD & GREENSPRING AVE fs wb,localbus,32.9,Infrequent
+6005,CROSS COUNTRY BLVD & STUART AVE opp sb,localbus,33.0,Infrequent
+7879,GLEN AVE & MERVILLE AVE opp sb,localbus,32.9,Infrequent
+10566,GLEN AVE & KEY AVE wb,localbus,27.9,Low Frequency
+7881,GLEN AVE & BLAND AVE wb,localbus,27.9,Low Frequency
+7882,GLEN AVE & HIGHGATE DR fs wb,localbus,27.9,Low Frequency
+7883,GLEN AVE & DOVERDALE DR wb,localbus,27.9,Low Frequency
+7884,GLEN AVE & CLOVER RD wb,localbus,27.9,Low Frequency
+7886,GLEN AVE & PARK HEIGHTS AVE wb,localbus,27.9,Low Frequency
+6058,ROGERS AVE METRO STATION wb,localbus,32.9,Infrequent
+7372,GWYNN OAK AVE & BELLE AVE sb,localbus,32.9,Infrequent
+207,Frederick Ave & Overbrook Rd,localbus,14.3,Moderate Frequency
+209,FREDERICK AVE & STONECROFT RD opp eb,localbus,14.3,Moderate Frequency
+12514,FREDERICK AVE & NORTH BEND RD,localbus,14.3,Moderate Frequency
+10312,FREDERICK AVE & CHAPELGATE LN eb,localbus,14.3,Moderate Frequency
+216,FREDERICK AVE & LONG ISLAND AVE eb,localbus,14.4,Moderate Frequency
+217,FREDERICK AVE & WICKHAM RD eb,localbus,14.4,Moderate Frequency
+219,BEECHFIELD AVE & FREDERICK RD fs sb,localbus,14.3,Moderate Frequency
+12215,412 COLLEEN RD,localbus,14.3,Moderate Frequency
+12217,BEECHFIELD AVE & THORNFIELD AVE sb,localbus,14.3,Moderate Frequency
+223,CEDAR GARDEN RD & LUCIA AVE eb,localbus,14.3,Moderate Frequency
+225,CEDAR GARDEN RD & YALE AVE eb,localbus,14.3,Moderate Frequency
+353,YALE AVE & ELDONE RD nb,localbus,14.3,Moderate Frequency
+226,YALE AVE & PARKTON ST nb,localbus,14.3,Moderate Frequency
+12218,YALE AVE & WALRAD ST nb,localbus,14.3,Moderate Frequency
+229,FREDERICK AVE & AUGUSTA AVE eb,localbus,14.3,Moderate Frequency
+230,FREDERICK AVE & LOUDON AVE fs eb,localbus,14.3,Moderate Frequency
+231,FREDERICK AVE & LOUDON CEMETERY eb,localbus,14.3,Moderate Frequency
+232,FREDERICK AVE & MORLEY ST opp eb,localbus,14.3,Moderate Frequency
+4687,EDMONDSON AVE & HILTON ST fs wb,localbus,10.4,Moderate Frequency
+340,EDMONDSON AVE & EDGEWOOD ST wb,localbus,10.4,Moderate Frequency
+4689,EDMONDSON AVE & ALLENDALE ST wb,localbus,8.1,High Frequency
+4691,EDMONDSON AVE & LYNDHURST ST fs wb,localbus,10.4,Moderate Frequency
+4692,EDMONDSON AVE & WILDWOOD PKWY wb,localbus,10.6,Moderate Frequency
+4695,EDMONDSON AVE & AUGUSTA AVE fs wb,localbus,6.7,High Frequency
+3704,EDMONDSON AVE & WOODRIDGE RD fs wb,localbus,7.3,High Frequency
+4708,EDMONDSON AVE & SWANN AVE wb,localbus,5.9,High Frequency
+8391,EDMONDSON AVE & SWANN AVE fs wb,localbus,7.3,High Frequency
+4710,EDMONDSON AVE & WINANS WY wb,localbus,7.3,High Frequency
+3951,COOKS LN & BRIARCLIFT RD fs nb,localbus,10.9,Moderate Frequency
+10634,1207 COOKS LN,localbus,10.9,Moderate Frequency
+11997,FOREST PARK AVE & HILLHOUSE RD nb,localbus,18.7,Moderate Frequency
+11996,FOREST PARK AVE & PURNELL DR eb,localbus,18.7,Moderate Frequency
+11998,FOREST PARK AVE & GATEHOUSE DR eb,localbus,18.4,Moderate Frequency
+14057,FOREST PARK AVE & HILLSDALE RD eb mid,localbus,18.7,Moderate Frequency
+2587,FOREST PARK AVE & FOREST GLEN RD nb,localbus,18.7,Moderate Frequency
+2589,FOREST PARK AVE & LOUDON AVE eb,localbus,18.6,Moderate Frequency
+2590,FOREST PARK AVE & GRANADA AVE eb,localbus,18.6,Moderate Frequency
+5254,LIBERTY HEIGHTS AVE & CARSDALE AVE wb,localbus,10.2,Moderate Frequency
+5255,LIBERTY HEIGHTS AVE & GRANADA AVE wb,localbus,10.2,Moderate Frequency
+5258,LIBERTY HEIGHTS AVE & ELDORADO AVE nb,localbus,10.4,Moderate Frequency
+7281,LIBERTY HEIGHTS AVE & HILLSDALE RD nb,localbus,10.2,Moderate Frequency
+5260,LIBERTY HEIGHTS AVE & GWYNN OAK AVE nb,localbus,10.4,Moderate Frequency
+7385,GWYNN OAK AVE & BELLE AVE nb,localbus,32.2,Infrequent
+7386,GWYNN OAK AVE & RIDGEWOOD AVE fs nb,localbus,32.2,Infrequent
+7388,GWYNN OAK AVE & PENHURST AVE fs nb,localbus,32.2,Infrequent
+7389,BELVIEU AVE & HILLSDALE RD eb,localbus,32.2,Infrequent
+7391,BELVIEU AVE & GRANADA AVE eb,localbus,31.8,Infrequent
+12595,BELVEDERE AVE & ELDERON AVE nb,localbus,17.7,Moderate Frequency
+1088,PARK HEIGHTS AVE & NORTHERN PKWY nb,localbus,11.6,Moderate Frequency
+1090,PARK HEIGHTS AVE & TRAINOR AVE nb,localbus,11.5,Moderate Frequency
+8581,PARK HEIGHTS AVE & GLEN AVE nb,localbus,11.6,Moderate Frequency
+1092,PARK HEIGHTS AVE & MENLO DR nb,localbus,16.4,Moderate Frequency
+1094,PARK HEIGHTS AVE & PINKNEY RD nb,localbus,16.4,Moderate Frequency
+1095,PARK HEIGHTS AVE & STRATHMORE AVE nb,localbus,16.4,Moderate Frequency
+1096,PARK HEIGHTS AVE & FORDS LN opp nb,localbus,16.4,Moderate Frequency
+12394,PARK HEIGHTS AVE & BANCROFT RD nb,localbus,16.2,Moderate Frequency
+12597,FOREST PARK AVE & CARMINE AVE fs nb,localbus,33.2,Infrequent
+7901,GLEN AVE & CLOVER RD fs eb,localbus,27.7,Low Frequency
+7902,GLEN AVE & DOVERDALE RD opp eb,localbus,27.7,Low Frequency
+7903,GLEN AVE & HIGHGATE DR eb,localbus,27.7,Low Frequency
+7904,GLEN AVE & BLAND AVE opp eb,localbus,27.7,Low Frequency
+10587,GLEN AVE & KEY AVE eb,localbus,27.7,Low Frequency
+7906,GLEN AVE & MERVILLE AVE eb,localbus,32.9,Infrequent
+7907,CROSS COUNTRY BLVD & STUART AVE,localbus,32.9,Infrequent
+7908,GREENSPRING & PIMLICO RD nb,localbus,32.9,Infrequent
+11651,GREENSPRING & STEELE RD nb,localbus,32.9,Infrequent
+12742,GREENSPRING AVE & TANEY RD wb,localbus,29.2,Low Frequency
+7909,GREENSPRING AVE & SHELLEYDALE DR nb,localbus,27.7,Low Frequency
+7911,FALLSTAFF RD & GAGE CT sb,localbus,32.9,Infrequent
+11654,FALLSTAFF RD & DORAL DR wb,localbus,32.9,Infrequent
+11655,FALLSTAFF RD & APOLLO DR wb,localbus,32.9,Infrequent
+7913,FALLSTAFF & CLARKS LN wb,localbus,32.9,Infrequent
+11664,SMITH AVE & KENWAY AVE sb,localbus,32.9,Infrequent
+11666,FALLS RD & BELLEMORE RD nb,localbus,32.9,Infrequent
+11667,FALLS RD & APPLEBY AVE nb,localbus,32.9,Infrequent
+3476,MCCLEAN BLVD & PERRING MANOR RD nb,localbus,16.3,Moderate Frequency
+3568,MCCLEAN BLVD & PERRING MANOR RD opp sb,localbus,16.1,Moderate Frequency
+3569,MCCLEAN & PENTLAND DR sb,localbus,16.6,Moderate Frequency
+4864,FALLS RD & WESTERN HIGH SCHOOL AND POLYTECHNIC INSTITUTE sb,localbus,36.4,Infrequent
+16,GREENSPRING AVE & COLD SPRING Ln,localbus,29.6,Low Frequency
+18,Greenspring Ave & Oswego Ave,localbus,29.6,Low Frequency
+19,Greenspring Ave & Shirley Ave,localbus,29.6,Low Frequency
+12179,GREENSPRING AVE & FOXWELL APARTMENTS sb,localbus,29.6,Low Frequency
+21,Greenspring Ave & Druid Park Dr,localbus,29.6,Low Frequency
+332,LIBERTY HEIGHTS AVE & ROSEDALE RD nb,localbus,14.1,Moderate Frequency
+5248,LIBERTY HEIGHTS AVE & HILTON RD wb,localbus,14.1,Moderate Frequency
+5249,LIBERTY HEIGHTS AVE & DENISON ST fs wb,localbus,14.1,Moderate Frequency
+5251,LIBERTY HEIGHTS AVE & COPELY RD nb,localbus,14.1,Moderate Frequency
+2591,GRANADA AVE & NORFOLK AVE sb,localbus,40.1,Infrequent
+2592,GRANADA AVE & FAIRVIEW AVE sb,localbus,40.1,Infrequent
+11999,LAWINA RD & WAKEFIELD RD fs sb,localbus,40.1,Infrequent
+12001,WESTCHESTER RD & LAWINA RD fs wb,localbus,40.1,Infrequent
+2596,WESTCHESTER RD & CLIFTON RD sb,localbus,40.1,Infrequent
+2599,CLIFTON RD & TALBOT RD eb,localbus,40.1,Infrequent
+12027,CLIFTON AVE & MONDAWMIN AVE eb,localbus,40.1,Infrequent
+2602,CLIFTON AVE & MONTICELLO RD fs eb,localbus,40.0,Infrequent
+2985,CLIFTON AVE & MT HOLLY ST eb,localbus,40.0,Infrequent
+2986,CLIFTON AVE & ELSINORE AVE eb,localbus,40.0,Infrequent
+2988,DENISON ST & WALBROOK AVE sb,localbus,11.5,Moderate Frequency
+14144,NORTH AVE & DENISON ST eb fs,localbus,6.2,High Frequency
+2994,NORTH AVE & BLOOMINGDALE RD eb,localbus,6.2,High Frequency
+4719,EDMONDSON AVE & CHAPEL GATE LN wb,localbus,27.3,Low Frequency
+4720,EDMONDSON AVE & DRURY LN wb,localbus,27.3,Low Frequency
+4722,EDMONDSON AVE & STAMFORD RD wb,localbus,27.3,Low Frequency
+4723,EDMONDSON AVE & CHARING CROSS RD wb,localbus,27.3,Low Frequency
+4724,EDMONDSON AVE & ALDERSHOT RD wb,localbus,27.3,Low Frequency
+4396,EDMONDSON AVE & ROCK GLEN RD eb,localbus,1.0,High Frequency
+4397,EDMONDSON AVE & STAMFORD RD eb,localbus,28.2,Low Frequency
+4398,EDMONDSON AVE & WOODSIDE RD eb,localbus,1.0,High Frequency
+4399,EDMONDSON AVE & DRURY LN eb,localbus,28.2,Low Frequency
+4400,EDMONDSON AVE & CHAPEL GATE LN eb,localbus,28.2,Low Frequency
+7538,EDMONDSON AVE & WESTSIDE SKILL CENTER mb eb,localbus,2.0,High Frequency
+3247,POPLAR GROVE ST & MOSHER ST nb,localbus,1.0,High Frequency
+12500,BLOOMINGDALE RD & WALBROOK AVE nb,localbus,6.3,High Frequency
+3258,CLIFTON AVE & GARRISON BLVD wb,localbus,1.0,High Frequency
+3259,CLIFTON AVE & GARRISON BLVD fs wb,localbus,9.8,High Frequency
+12630,CLIFTON AVE & ELSINORE AVE wb,localbus,38.9,Infrequent
+2531,CLIFTON AVE & ALLENDALE RD wb,localbus,1.0,High Frequency
+2532,CLIFTON AVE & CHELSEA TER wb,localbus,38.9,Infrequent
+3260,CLIFTON AVE & MOUNT HOLLY ST wb,localbus,38.5,Infrequent
+12028,CLIFTON AVE & HOLLY AVE wb,localbus,38.5,Infrequent
+2536,CLIFTON RD & MONDAWMIN AVE wb,localbus,38.5,Infrequent
+10729,CLIFTON RD & QUEEN ANNE RD wb,localbus,38.5,Infrequent
+2539,CLIFTON RD & PROSPECT CIR wb,localbus,1.0,High Frequency
+2540,CLIFTON RD & WESTCHESTER RD wb,localbus,38.5,Infrequent
+2541,WESTCHESTER RD & TALBOT RD nb,localbus,38.5,Infrequent
+2542,LAWINA RD & WAKEFIELD RD nb,localbus,38.5,Infrequent
+2543,WAKEFIELD RD & BONNER RD fs nb,localbus,1.0,High Frequency
+2544,FAIRVIEW AVE & WINDSOR APARTMENTS opp nb,localbus,38.5,Infrequent
+2545,GRANADA AVE & NORFOLK AVE nb,localbus,38.5,Infrequent
+2546,GRANADA AVE & FOREST PARK AVE wb,localbus,38.5,Infrequent
+5169,LIBERTY HEIGHTS & AYRDALE AVE fs sb,localbus,14.1,Moderate Frequency
+5170,LIBERTY HEIGHTS & CALLAWAY AVE sb,localbus,14.1,Moderate Frequency
+5171,LIBERTY HTS & GRANTLEY RD sb,localbus,1.0,High Frequency
+5172,LIBERTY HEIGHTS AVE & EDGEWOOD ST sb,localbus,14.1,Moderate Frequency
+5173,LIBERTY HTS & DENISON ST sb,localbus,1.0,High Frequency
+7272,LIBERTY HEIGHTS AVE & HILTON ST fs sb,localbus,14.1,Moderate Frequency
+252,LIBERTY HTS & ELLAMONT opp sb,localbus,1.0,High Frequency
+253,LIBERTY HEIGHTS AVE & DUKELAND ST sb,localbus,13.8,Moderate Frequency
+12669,GREENSPRING AVE & DRUID PARK DR fs nb,localbus,28.8,Low Frequency
+170,Greenspring Ave & Park Hill Ave,localbus,1.0,High Frequency
+172,Greenspring Ave & Foxwell Apartments,localbus,28.8,Low Frequency
+12650,GREENSPRING AVE & KENNEDY KRIEGER INSTITUTE nb,localbus,28.8,Low Frequency
+175,Greenspring Ave & Shirley Ave,localbus,28.8,Low Frequency
+177,Greenspring Ave & Cold Spring Ln,localbus,28.8,Low Frequency
+12160,Eastern Ave & Kane St,localbus,9.2,High Frequency
+2022,Eastern Ave & Anglesea St,localbus,7.1,High Frequency
+4635,Lombard St & Eaton St,localbus,7.8,High Frequency
+4639,Fayette St & Highland Ave,localbus,6.3,High Frequency
+4645,Fayette St & Lakewood Ave,localbus,6.3,High Frequency
+4650,Fayette St & Washington St,localbus,6.4,High Frequency
+6326,Fayette St & Broadway,localbus,6.4,High Frequency
+283,FAYETTE ST & GAY ST wb,localbus,3.2,High Frequency
+285,FAYETTE ST & SAINT PAUL ST wb,localbus,3.0,High Frequency
+126,Fayette St & Eutaw St,localbus,3.4,High Frequency
+10545,PACA ST & SARATOGA ST fs nb,localbus,16.9,Moderate Frequency
+14108,WEST BALTIMORE MARC STATION BAY 2,localbus,5.6,High Frequency
+4686,FRANKLIN ST & EDMONDSON AVE wb,localbus,8.3,High Frequency
+4429,FRANKLIN ST & EDMONDSON AVE fs eb,localbus,8.4,High Frequency
+1258,GREENE ST & LEXINGTON ST fs sb,localbus,16.8,Moderate Frequency
+2323,BALTIMORE ST & EUTAW ST fs eb,localbus,3.5,High Frequency
+66,Baltimore St & Charles St,localbus,3.0,High Frequency
+815,Baltimore St & Frederick St,localbus,6.4,High Frequency
+4467,Fayette St & Broadway,localbus,6.4,High Frequency
+4471,Fayette St & Washington St,localbus,6.5,High Frequency
+4477,FAYETTE ST & GLOVER ST eb,localbus,6.3,High Frequency
+4483,FAYETTE ST & HIGHLAND AVE eb,localbus,6.8,High Frequency
+8589,LOMBARD ST & EATON ST eb,localbus,7.8,High Frequency
+10536,BAYVIEW BLVD & HOPKINS-BAYVIEW DR sb,localbus,5.2,High Frequency
+1919,EASTERN AVE & ANGLESEA ST eb,localbus,7.5,High Frequency
+4494,EASTERN AVE & KANE ST eb,localbus,8.5,High Frequency
+2117,BELLONA AVE & LAKE AVE sb,localbus,38.3,Infrequent
+2118,BELLONA AVE & MELROSE AVE sb,localbus,38.3,Infrequent
+2121,CHARLES ST & NORTHERN PKY fs sb,localbus,38.3,Infrequent
+12329,CHARLES ST & WYNDHURST AVE sb,localbus,38.3,Infrequent
+2136,CHARLES ST & HOMELAND AVE sb,localbus,38.3,Infrequent
+2140,CHARLES ST & COLDSPRING LN sb,localbus,38.3,Infrequent
+2145,CHARLES ST & WARRENTON RD sb,localbus,38.3,Infrequent
+2146,CHARLES ST & MILLBROOK RD opp sb,localbus,38.3,Infrequent
+2147,CHARLES ST & HIGHFIELD RD fs sb,localbus,38.3,Infrequent
+2150,CHARLES ST & 39TH ST sb,localbus,38.3,Infrequent
+2152,CHARLES ST & UNIVERSITY PKWY sb,localbus,38.3,Infrequent
+2155,CHARLES ST & 33RD ST sb,localbus,38.3,Infrequent
+2156,CHARLES ST & 31ST ST opp sb,localbus,38.3,Infrequent
+2157,CHARLES ST & WYMAN PARK sb,localbus,38.3,Infrequent
+12576,MARYLAND AVE & 29TH ST fs sb,localbus,38.3,Infrequent
+2160,MARYLAND AVE & 27TH ST sb,localbus,38.2,Infrequent
+2162,MARYLAND AVE & 25TH ST sb,localbus,38.2,Infrequent
+2165,MARYLAND AVE & 23RD ST sb,localbus,38.2,Infrequent
+2167,MARYLAND AVE & 21ST ST sb,localbus,38.2,Infrequent
+2169,MARYLAND AVE & NORTH AVE sb,localbus,38.2,Infrequent
+12714,MARYLAND AVE & LANVALE & FALLS fs,localbus,38.2,Infrequent
+2172,MARYLAND AVE & OLIVER ST sb,localbus,38.2,Infrequent
+2174,MARYLAND AVE & PRESTON ST sb,localbus,38.2,Infrequent
+2175,MARYLAND AVE & BIDDLE ST sb,localbus,38.2,Infrequent
+497,CATHEDRAL ST & EAGER ST sb,localbus,38.2,Infrequent
+499,CATHEDRAL ST & MADISON sb,localbus,38.2,Infrequent
+500,CATHEDRAL ST & CENTRE opp sb,localbus,38.2,Infrequent
+501,CATHEDRAL ST & MULBERRY sb,localbus,38.2,Infrequent
+502,CATHEDRAL ST & SARATOGA ST sb,localbus,38.2,Infrequent
+503,LIBERTY ST & LEXINGTON ST sb,localbus,38.2,Infrequent
+504,HOPKINS PL & BALTIMORE ARENA mb sb,localbus,19.5,Moderate Frequency
+13723,HOPKINS PL & PRATT ST,localbus,18.5,Moderate Frequency
+518,CHARLES ST & HYATT nb,localbus,6.5,High Frequency
+13722,CHARLES ST & CAMDEN,localbus,4.1,High Frequency
+121,Charles St & Pratt St,localbus,5.8,High Frequency
+122,Charles St & Lombard St,localbus,7.9,High Frequency
+506,CHARLES ST & REDWOOD ST nb,localbus,5.4,High Frequency
+519,CHARLES ST & FAYETTE ST nb,localbus,6.4,High Frequency
+520,CHARLES ST & LEXINGTON ST fs nb,localbus,6.4,High Frequency
+521,CHARLES ST & PLEASANT ST nb,localbus,6.4,High Frequency
+523,CHARLES ST & HAMILTON ST nb,localbus,6.3,High Frequency
+524,CHARLES ST & MT VERNON PL nb,localbus,6.4,High Frequency
+525,CHARLES ST & READ ST nb,localbus,6.4,High Frequency
+2329,CHARLES ST & EAGER ST nb,localbus,6.4,High Frequency
+528,CHARLES ST & BIDDLE ST nb,localbus,6.5,High Frequency
+529,CHARLES ST & PRESTON ST nb,localbus,6.5,High Frequency
+533,CHARLES ST & NORTH AVE nb,localbus,6.4,High Frequency
+536,CHARLES ST & 22ND ST nb,localbus,9.9,High Frequency
+539,CHARLES ST & 25TH ST nb,localbus,9.7,High Frequency
+541,CHARLES ST & 27TH ST nb,localbus,9.9,High Frequency
+542,CHARLES ST & 29TH ST nb,localbus,9.8,High Frequency
+543,CHARLES ST & 31ST ST nb,localbus,9.7,High Frequency
+12295,CHARLES ST & 33RD ST fs nb,localbus,14.1,Moderate Frequency
+2339,CHARLES ST & UNIVERSITY PKWY nb,localbus,12.0,Moderate Frequency
+2340,CHARLES ST & BISHOP'S RD nb,localbus,38.8,Infrequent
+2343,CHARLES ST & 39TH ST nb,localbus,38.8,Infrequent
+2345,CHARLES ST & HIGHFIELD RD nb,localbus,38.8,Infrequent
+2346,SAINT PAUL ST & CHARLCOTE RD nb,localbus,38.8,Infrequent
+2349,CHARLES ST & COLD SPRING LN fs nb,localbus,38.8,Infrequent
+2353,CHARLES ST & NOTRE DAME UNIVERSITY nb,localbus,38.8,Infrequent
+2356,CHARLES ST & GOODALE RD nb,localbus,38.8,Infrequent
+2357,CHARLES ST & TUNBRIDGE RD fs nb,localbus,38.7,Infrequent
+2365,CHARLES ST & NORTHERN PKWY nb,localbus,38.7,Infrequent
+2371,BELLONA AVE & MELROSE AVE nb,localbus,38.7,Infrequent
+2372,BELLONA AVE & LAKE AVE nb,localbus,38.7,Infrequent
+1536,YORK RD & GITTINGS AVE sb,localbus,11.8,Moderate Frequency
+11427,YORK RD & LAKE AVE sb,localbus,11.8,Moderate Frequency
+1539,YORK RD & NORTHERN PKWY sb,localbus,11.8,Moderate Frequency
+10693,YORK RD & BELVEDERE AVE sb,localbus,11.8,Moderate Frequency
+1552,YORK RD & ORKNEY RD fs sb,localbus,11.7,Moderate Frequency
+1553,YORK RD & LORTZ LN sb,localbus,11.6,Moderate Frequency
+1554,YORK RD & BELLONA AVE sb,localbus,11.5,Moderate Frequency
+1556,YORK RD & WOODBOURNE AVE sb,localbus,11.5,Moderate Frequency
+1557,YORK RD & GLENWOOD AVE fs sb,localbus,11.7,Moderate Frequency
+1558,YORK RD & NOTRE DAME LN sb,localbus,11.5,Moderate Frequency
+1559,YORK RD & WINSTON AVE sb,localbus,11.7,Moderate Frequency
+1561,YORK RD & RADNOR RD sb,localbus,11.5,Moderate Frequency
+1563,YORK RD & COLDSPRING LANE sb,localbus,11.5,Moderate Frequency
+1565,YORK RD & 43RD ST opp sb,localbus,11.5,Moderate Frequency
+1566,GREENMOUNT AVE & ROSE HILL TER opp sb,localbus,11.6,Moderate Frequency
+1567,GREENMOUNT AVE & 39TH ST sb,localbus,11.5,Moderate Frequency
+1570,GREENMOUNT AVE & 36TH ST opp sb,localbus,11.5,Moderate Frequency
+1573,GREENMOUNT AVE & 33RD ST sb,localbus,11.3,Moderate Frequency
+1574,GREENMOUNT AVE & 32ND ST sb,localbus,11.3,Moderate Frequency
+1576,GREENMOUNT AVE & 30TH ST sb,localbus,11.2,Moderate Frequency
+1578,GREENMOUNT AVE & 29TH ST sb,localbus,11.2,Moderate Frequency
+1579,GREENMOUNT AVE & WHITRIDGE AVE fs sb,localbus,11.2,Moderate Frequency
+10698,GREENMOUNT AVE & 25TH ST sb,localbus,11.2,Moderate Frequency
+1582,GREENMOUNT AVE & 22ND ST sb,localbus,11.2,Moderate Frequency
+1584,GREENMOUNT AVE & NORTH AVE sb,localbus,11.2,Moderate Frequency
+5847,HOMEWOOD AVE & NORTH AVE nb,localbus,10.0,High Frequency
+5872,KIRK AVE & 22ND ST nb,localbus,9.7,High Frequency
+5873,KIRK AVE & CURTAIN ST nb,localbus,10.0,High Frequency
+14254,KIRK AVE opp CURTAIN ST sb,localbus,9.1,High Frequency
+5845,KIRK AVE & 22ND ST sb,localbus,9.2,High Frequency
+12711,HOMEWOOD AVE & NORTH AVE ns sb,localbus,9.3,High Frequency
+1620,GREENMOUNT AVE & 22ND ST nb,localbus,11.3,Moderate Frequency
+10704,GREENMOUNT AVE & 25TH ST nb,localbus,11.3,Moderate Frequency
+1624,GREENMOUNT AVE & 27TH ST nb,localbus,11.3,Moderate Frequency
+1626,GREENMOUNT AVE & EXETER HALL AVE nb,localbus,11.3,Moderate Frequency
+1627,GREENMOUNT AVE & 30TH ST opp nb,localbus,11.3,Moderate Frequency
+1629,GREENMOUNT AVE & 32ND ST nb,localbus,11.3,Moderate Frequency
+1631,GREENMOUNT AVE & GORSUCH AVE nb,localbus,11.3,Moderate Frequency
+12850,GREENMOUNT AVE & 35TH ST nb,localbus,11.3,Moderate Frequency
+1634,GREENMOUNT AVE & 36TH ST nb,localbus,11.3,Moderate Frequency
+1638,GREENMOUNT AVE & 39TH ST nb,localbus,11.3,Moderate Frequency
+1640,GREENMOUNT AVE & ROSE HILL TER nb,localbus,11.3,Moderate Frequency
+1643,YORK RD & 43RD ST nb,localbus,11.6,Moderate Frequency
+1644,YORK RD & NORTHWAY opp nb,localbus,11.3,Moderate Frequency
+1645,YORK RD & COLD SPRING LN nb,localbus,11.3,Moderate Frequency
+1646,YORK RD & RADNOR AVE opp nb,localbus,11.6,Moderate Frequency
+1648,YORK RD & WINSTON AVE fs nb,localbus,11.6,Moderate Frequency
+14042,YORK RD & BEAUMONT AVE nb ns,localbus,11.6,Moderate Frequency
+1651,YORK RD & GLENWOOD AVE nb,localbus,11.5,Moderate Frequency
+1652,YORK RD & WOODBOURNE AVE nb,localbus,11.6,Moderate Frequency
+1654,YORK RD & BENNINGHAUS RD nb,localbus,11.5,Moderate Frequency
+1655,YORK RD & LORTZ LN opp nb,localbus,11.5,Moderate Frequency
+1656,YORK RD & ORKNEY RD nb,localbus,47.0,Infrequent
+10708,YORK RD & BELVEDERE AVE nb,localbus,11.5,Moderate Frequency
+1658,YORK RD & NORTHERN PKWY fs nb,localbus,11.7,Moderate Frequency
+8687,YORK RD & LAKE AVE nb,localbus,11.7,Moderate Frequency
+10710,YORK RD & WALKER AVE nb,localbus,11.7,Moderate Frequency
+10381,THE ALAMEDA & SHERWOOD AVE sb,localbus,20.5,Low Frequency
+5815,THE ALAMEDA & GLENEAGLE RD sb,localbus,20.5,Low Frequency
+5816,THE ALAMEDA & RAMBLEWOOD RD sb,localbus,20.5,Low Frequency
+5817,THE ALAMEDA & WALTERS AVE sb,localbus,20.5,Low Frequency
+12338,5600 THE ALAMEDA sb,localbus,20.5,Low Frequency
+5818,THE ALAMEDA & NORTHWOOD DR sb,localbus,20.5,Low Frequency
+5810,THE ALAMEDA & WOODBOURNE AVE sb,localbus,20.5,Low Frequency
+5821,THE ALAMEDA & GLENWOOD AVE sb,localbus,20.5,Low Frequency
+5820,THE ALAMEDA & BEAUMONT AVE sb,localbus,20.5,Low Frequency
+5822,THE ALAMEDA & RADNOR AVE sb,localbus,20.5,Low Frequency
+5823,THE ALAMEDA & COLDSPRING LN fs sb,localbus,20.1,Low Frequency
+5824,THE ALAMEDA & 43RD ST fs sb,localbus,20.1,Low Frequency
+10382,THE ALAMEDA & ARGONNE AVE sb,localbus,20.1,Low Frequency
+5827,ARGONNE DR & 41ST ST wb,localbus,20.1,Low Frequency
+5828,ARGONNE DR & ELKADER RD wb,localbus,20.1,Low Frequency
+5829,ARGONNE DR & LOWNDES AVE wb,localbus,20.1,Low Frequency
+5830,ELLERSLIE AVE & PARKWYRTH AVE sb,localbus,20.1,Low Frequency
+5831,ELLERSLIE AVE & CHESTNUT HILL AVE sb,localbus,20.1,Low Frequency
+5832,ELLERSLIE AVE & MCKEWIN AVE sb,localbus,20.1,Low Frequency
+11331,36TH ST & ELLERSLIE AVE fs eb,localbus,20.1,Low Frequency
+11333,36TH ST & EDNOR RD eb,localbus,20.1,Low Frequency
+11334,36TH ST & LOCH RAVEN BLVD eb,localbus,20.5,Low Frequency
+11335,36TH ST & THE ALAMEDA,localbus,20.1,Low Frequency
+470,THE ALAMEDA & 33RD ST sb,localbus,7.3,High Frequency
+5835,KIRK AVE & 29TH ST sb,localbus,9.5,High Frequency
+5836,KIRK AVE & ABBOTSON ST opp sb,localbus,9.6,High Frequency
+5837,KIRK AVE & GORSUCH AVE fs sb,localbus,9.6,High Frequency
+5838,KIRK AVE & MONTPELIER ST sb,localbus,9.7,High Frequency
+5840,KIRK AVE & EXETER HALL AVE sb,localbus,19.8,Moderate Frequency
+5841,KIRK AVE & 25TH ST sb,localbus,9.6,High Frequency
+12332,GUILFORD AVE & NORTH AVE fs sb,localbus,19.8,Moderate Frequency
+5848,GUILFORD AVE & FEDERAL ST sb,localbus,19.8,Moderate Frequency
+5851,GUILFORD AVE & PRESTON ST sb,localbus,19.8,Moderate Frequency
+4064,PRESTON ST & SAINT PAUL ST wb,localbus,7.4,High Frequency
+4065,PRESTON ST & CHARLES ST wb,localbus,7.3,High Frequency
+11511,PRESTON ST & MARYLAND AVE wb,localbus,7.4,High Frequency
+4902,HOWARD ST & PRESTON ST sb,localbus,4.7,High Frequency
+1864,EUTAW ST & PRESTON ST fs sb,localbus,3.2,High Frequency
+11340,36TH ST & LOCH RAVEN BLVD wb,localbus,21.3,Low Frequency
+11341,36TH ST & EDNOR RD wb,localbus,20.9,Low Frequency
+11343,36TH ST & ELKADER RD wb,localbus,20.9,Low Frequency
+5884,ELLERSLIE AVE & MCKEWIN AVE nb,localbus,20.9,Low Frequency
+5885,ELLERSLIE AVE & CHESTNUT HILL AVE mid nb,localbus,20.9,Low Frequency
+5886,ELLERSLIE & FRANCISCAN SISTERS ENTRANCE nb,localbus,20.9,Low Frequency
+5887,ARGONNE DR & LOWNDES AVE opp eb,localbus,20.9,Low Frequency
+5888,ARGONNE DR & WILSBY AVE eb,localbus,20.9,Low Frequency
+5889,ARGONNE DR & N HILL RD eb,localbus,20.9,Low Frequency
+5891,THE ALAMEDA & ARGONNE DR fs nb,localbus,20.9,Low Frequency
+5893,THE ALAMEDA & 43RD ST nb,localbus,20.9,Low Frequency
+5894,THE ALAMEDA & COLDSPRING LN nb,localbus,20.9,Low Frequency
+5896,THE ALAMEDA & LINWORTH AVE nb,localbus,20.9,Low Frequency
+5898,THE ALAMEDA & WINSTON AVE nb,localbus,20.9,Low Frequency
+5899,THE ALAMEDA & BEAUMONT AVE nb,localbus,20.9,Low Frequency
+5900,THE ALAMEDA & GLENWOOD AVE nb,localbus,20.9,Low Frequency
+5902,THE ALAMEDA & WOODBOURE AVE nb,localbus,20.9,Low Frequency
+5903,THE ALAMEDA & NORTHWOOD DR fs nb,localbus,20.9,Low Frequency
+5904,THE ALAMEDA & MESSIAH CHURCH nb,localbus,20.9,Low Frequency
+5908,THE ALAMEDA & BELVEDERE AVE nb,localbus,20.9,Low Frequency
+5909,THE ALAMEDA & RAMBLEWOOD RD nb,localbus,21.3,Low Frequency
+5910,THE ALAMEDA & GLENEAGLE RD nb,localbus,21.3,Low Frequency
+5814,THE ALAMEDA & SHERWOOD AVE nb,localbus,21.3,Low Frequency
+593,LOCH RAVEN BLVD & MERIDENE DR nb,localbus,9.4,High Frequency
+8997,LOCH RAVEN BLVD & WALKER AVE nb,localbus,9.4,High Frequency
+595,LOCH RAVEN BLVD & KIRKWOOD APARTMENTS nb,localbus,9.8,High Frequency
+4013,MLK BLVD & LINDEN AVE ns,localbus,6.5,High Frequency
+4014,MLK BLVD & CHASE ST nb fs,localbus,7.6,High Frequency
+11837,BIDDLE ST & MARYLAND AVE eb,localbus,7.6,High Frequency
+4016,BIDDLE ST & CHARLES ST eb,localbus,7.5,High Frequency
+4017,BIDDLE ST & SAINT PAUL ST eb,localbus,7.6,High Frequency
+5866,GUILFORD AVE & PRESTON STnb,localbus,21.7,Low Frequency
+5867,GUILFORD AVE & OLIVER ST nb,localbus,21.7,Low Frequency
+5868,GUILFORD AVE & FEDERAL ST nb,localbus,21.7,Low Frequency
+2637,NORTH AVE & GUILFORD AVE fs eb,localbus,5.7,High Frequency
+5875,KIRK AVE & 25TH ST nb,localbus,10.1,Moderate Frequency
+5876,KIRK AVE & EXETER HALL AVE nb,localbus,10.1,Moderate Frequency
+5878,KIRK AVE & MONTPELIER ST nb,localbus,10.1,Moderate Frequency
+5879,KIRK AVE & GORSUCH AVE nb,localbus,10.1,Moderate Frequency
+5881,KIRK AVE & 29TH ST nb,localbus,10.1,Moderate Frequency
+558,THE ALAMEDA & 33RD ST fs nb,localbus,7.7,High Frequency
+561,THE ALAMEDA & 35TH ST nb,localbus,7.6,High Frequency
+6281,PLYMOUTH & PINEWOOD,localbus,1.5,High Frequency
+3625,HARFORD RD & HOMESTEAD ST sb,localbus,15.7,Moderate Frequency
+3627,HARFORD RD & 25TH ST sb,localbus,15.7,Moderate Frequency
+3630,20TH ST & CURTAIN AVE fs wb,localbus,15.9,Moderate Frequency
+3633,AISQUITH ST & NORTH AVE sb,localbus,16.6,Moderate Frequency
+3636,AISQUITH ST & FEDERAL ST fs sb,localbus,16.2,Moderate Frequency
+3638,AISQUITH ST & PRESTON ST sb,localbus,16.2,Moderate Frequency
+12286,AISQUITH ST & BIDDLE ST,localbus,16.6,Moderate Frequency
+3204,ENSOR ST & EAGER ST fs sb,localbus,16.6,Moderate Frequency
+3205,ENSOR ST & MADISON ST sb,localbus,16.4,Moderate Frequency
+1003,ENSOR ST & MONUMENT ST sb,localbus,14.7,Moderate Frequency
+1004,HILLEN ST & COLVIN ST sb,localbus,6.9,High Frequency
+1006,HILLEN ST & HIGH ST sb,localbus,6.9,High Frequency
+13624,HILLEN ST & THE FALLSWAY sb,localbus,7.2,High Frequency
+3641,GUILFORD AVE & SARATOGA ST fs sb,localbus,2.7,High Frequency
+8420,GUILFORD AVE & FAYETTE ST fs sb,localbus,5.7,High Frequency
+3645,SOUTH ST & WATER ST sb,localbus,5.6,High Frequency
+1338,Lombard St & Calvert St,localbus,3.6,High Frequency
+1339,Lombard St & Light St,localbus,3.6,High Frequency
+3661,Lombard St & Charles St,localbus,3.1,High Frequency
+1341,Lombard St & Hopkins Pl,localbus,3.1,High Frequency
+1342,Lombard St & Howard St,localbus,3.0,High Frequency
+14162,EUTAW ST & REDWOOD nb - Nearside at LR Shuttle Stop,localbus,10.9,Moderate Frequency
+7198,EUTAW ST & LEXINGTON ST fs nb,localbus,8.2,High Frequency
+1013,EUTAW ST & SARATOGA ST fs nb,localbus,7.8,High Frequency
+7200,EUTAW ST & FRANKLIN ST fs nb,localbus,11.2,Moderate Frequency
+1017,EUTAW ST & CENTRE ST nb,localbus,11.2,Moderate Frequency
+7201,EUTAW ST & MADISON ST nb,localbus,11.4,Moderate Frequency
+12651,EUTAW ST & MLK BLVD nb,localbus,11.4,Moderate Frequency
+5232,EUTAW ST & PRESTON ST nb,localbus,15.7,Moderate Frequency
+5233,EUTAW ST & 29TH DIVISION ST nb,localbus,6.8,High Frequency
+5234,EUTAW ST & DOLPHIN ST nb,localbus,8.2,High Frequency
+3598,HARFORD RD & AILSA AVE sb,localbus,16.0,Moderate Frequency
+3602,HARFORD & MORAVIA sb,localbus,14.2,Moderate Frequency
+6284,DUE PLYMOUTH,localbus,2.0,High Frequency
+3576,HARFORD RD & WESTFIELD AVE sb,localbus,14.6,Moderate Frequency
+3578,HARFORD & CHRISTOPHER sb,localbus,16.0,Moderate Frequency
+3590,HARFORD RD & OLD HARFORD RD sb,localbus,14.4,Moderate Frequency
+3591,HARFORD & WHITE sb,localbus,16.2,Moderate Frequency
+3593,HARFORD RD & HAMILTON AVE sb,localbus,14.4,Moderate Frequency
+3595,HARFORD RD & ECHODALE AVE sb,localbus,14.0,Moderate Frequency
+3554,HARFORD RD & NORTHERN PKY sb,localbus,31.9,Infrequent
+3610,HARFORD RD & CHESTERFIELD AVE sb,localbus,16.4,Moderate Frequency
+3549,HARFORD RD & ALVARADO SQ sb,localbus,32.0,Infrequent
+3552,HARFORD RD & KILDAIRE DR sb,localbus,37.1,Infrequent
+14266,DUNBAR HIGH SCHOOL,localbus,3.1,High Frequency
+3444,HARFORD RD & ECHODALE AVE nb,localbus,14.5,Moderate Frequency
+12313,HARFORD RD & NORTHERN PKWY nb,localbus,20.0,Moderate Frequency
+3439,HARFORD RD & AILSA AVE nb,localbus,16.6,Moderate Frequency
+3446,HARFORD RD & HAMILTON AVE fs nb,localbus,14.5,Moderate Frequency
+3448,HARFORD RD & WHITE AVE nb,localbus,16.6,Moderate Frequency
+3450,HARFORD RD & GLENMORE AVE nb,localbus,15.1,Moderate Frequency
+10472,HARFORD & CHRISTOPHER nb,localbus,16.8,Moderate Frequency
+3467,HARFORD RD & WESTFIELD AVE nb,localbus,14.5,Moderate Frequency
+5193,EUTAW ST & MADISON AVE sb,localbus,14.9,Moderate Frequency
+805,EUTAW ST & DRUID HILL AVE fs sb,localbus,11.2,Moderate Frequency
+806,EUTAW ST & GEORGE ST mid sb,localbus,11.2,Moderate Frequency
+1870,EUTAW ST & MULBERRY ST sb,localbus,11.2,Moderate Frequency
+809,EUTAW ST & SARATOGA ST sb,localbus,11.1,Moderate Frequency
+1872,EUTAW & LEXINGTON op sb,localbus,8.6,High Frequency
+1873,EUTAW ST & FAYETTE ST sb,localbus,14.9,Moderate Frequency
+1876,EUTAW ST & REDWOOD ST sb,localbus,11.3,Moderate Frequency
+1265,Pratt St & Howard St,localbus,3.1,High Frequency
+1266,Pratt St & Sharp St,localbus,3.3,High Frequency
+1267,Pratt St & Light St,localbus,3.3,High Frequency
+1268,Pratt St & Calvert St,localbus,4.0,High Frequency
+3393,GAY ST & LOMBARD ST nb,localbus,5.9,High Frequency
+3395,GAY ST & FAYETTE ST nb,localbus,3.0,High Frequency
+816,GAY ST & LEXINGTON ST fs nb,localbus,2.6,High Frequency
+820,GAY ST & EXETER ST eb,localbus,6.9,High Frequency
+821,ENSOR ST & FORREST ST fs nb,localbus,13.9,Moderate Frequency
+10818,ENSOR ST & MONUMENT ST fs nb,localbus,15.5,Moderate Frequency
+3052,ENSOR ST & MADISON ST fs nb,localbus,17.1,Moderate Frequency
+3053,ENSOR ST & EAGER ST mb nb,localbus,17.3,Moderate Frequency
+3399,HARFORD AVE & BIDDLE ST fs nb,localbus,17.3,Moderate Frequency
+3400,HARFORD AVE & PRESTON ST fs nb,localbus,17.1,Moderate Frequency
+3402,HARFORD AVE & FEDERAL ST fs nb,localbus,17.3,Moderate Frequency
+14037,HARFORD AVE & NORTH AVE nb ns,localbus,17.1,Moderate Frequency
+3406,HARFORD RD & NORTH AVE fs nb,localbus,16.8,Moderate Frequency
+3411,HARFORD RD & 25TH ST nb,localbus,16.8,Moderate Frequency
+3413,HARFORD RD & HOMESTEAD ST nb,localbus,16.8,Moderate Frequency
+3425,HARFORD & KENTUCKY nb,localbus,17.1,Moderate Frequency
+3485,HARFORD RD & CHESLEY AVE nb,localbus,36.9,Infrequent
+3488,HARFORD RD & HARVIEW AVE nb,localbus,30.9,Infrequent
+14267,DUE DUNBAR,localbus,1.3,High Frequency
+5723,PULASKI HWY & I-95 ENTRANCE wb,localbus,19.6,Moderate Frequency
+5724,6700 PULASKI HWY,localbus,19.6,Moderate Frequency
+5725,PULASKI HWY & NORTH POINT BLVD opp wb,localbus,19.6,Moderate Frequency
+5726,PULASKI HWY & HARBOR TUNNEL wb,localbus,19.6,Moderate Frequency
+5727,PULASKI HWY & MAPLETON AVE opp wb,localbus,14.9,Moderate Frequency
+10979,MONUMENT ST & NEWKIRK ST opp fs wb,localbus,19.6,Moderate Frequency
+10980,MONUMENT ST & KRESSON ST wb,localbus,19.6,Moderate Frequency
+10983,MONUMENT ST & DEAN ST wb,localbus,19.6,Moderate Frequency
+10984,MONUMENT ST & HIGHLAND AVE wb,localbus,19.6,Moderate Frequency
+10985,MADISON ST & ELLWOOD AVE wb,localbus,19.6,Moderate Frequency
+5729,MADISON ST & LINWOOD AVE fs wb,localbus,19.6,Moderate Frequency
+10986,MADISON ST & LAKEWOOD AVE wb,localbus,19.6,Moderate Frequency
+10988,MADISON ST & MILTON AVE wb,localbus,19.6,Moderate Frequency
+5732,MADISON ST & WOLFE ST wb,localbus,8.5,High Frequency
+8408,MADISON ST & BROADWAY fs wb,localbus,8.3,High Frequency
+973,MADISON ST & CAROLINE ST fs wb,localbus,8.5,High Frequency
+1002,MADISON ST & AISQUITH ST wb,localbus,8.8,High Frequency
+1609,MADISON ST & ENSOR ST fs wb,localbus,8.8,High Frequency
+1610,MADISON ST & GREENMOUNT AVE wb,localbus,8.7,High Frequency
+5854,GUILFORD AVE & MADISON ST fs sb,localbus,8.3,High Frequency
+5855,GUILFORD AVE & CENTRE ST fs sb,localbus,4.8,High Frequency
+5856,GUILFORD AVE & PLEASANT ST sb,localbus,6.1,High Frequency
+1009,FAYETTE ST & CALVERT ST wb,localbus,3.5,High Frequency
+10567,FAYETTE ST PLAZA wb,localbus,2.9,High Frequency
+3366,CALVERT ST & BALTIMORE ST fs nb,localbus,16.5,Moderate Frequency
+6759,CALVERT ST & SARATOGA ST nb,localbus,16.8,Moderate Frequency
+3368,CALVERT ST & PLEASANT ST nb,localbus,16.5,Moderate Frequency
+3369,CALVERT ST & CENTRE ST nb,localbus,16.5,Moderate Frequency
+11472,CENTRE ST & GUILFORD AVE eb,localbus,8.7,High Frequency
+11127,MONUMENT ST & GREENMOUNT AVE eb,localbus,8.6,High Frequency
+11128,MONUMENT ST & ENSOR ST eb,localbus,8.5,High Frequency
+8562,MONUMENT ST & AISQUITH ST fs eb,localbus,8.7,High Frequency
+827,MONUMENT ST & CAROLINE ST eb,localbus,8.2,High Frequency
+8422,MONUMENT ST & BROADWAY eb,localbus,7.9,High Frequency
+12177,MONUMENT ST & WOLFE ST eb,localbus,7.9,High Frequency
+5743,MONUMENT ST & LAKEWOOD AVE eb,localbus,19.3,Moderate Frequency
+11133,MONUMENT ST & LINWOOD AVE eb,localbus,19.3,Moderate Frequency
+5744,MONUMENT ST & HIGHLAND AVE fs eb,localbus,18.6,Moderate Frequency
+11139,MONUMENT ST & DEAN ST eb,localbus,18.6,Moderate Frequency
+11141,MONUMENT ST & HAVEN ST eb,localbus,18.6,Moderate Frequency
+11142,MONUMENT ST & KRESSON ST eb,localbus,18.6,Moderate Frequency
+11143,4601 MONUMENT ST eb,localbus,18.6,Moderate Frequency
+11145,MONUMENT ST & PULASKI HWY eb,localbus,18.6,Moderate Frequency
+11146,PULASKI HWY & ERDMAN AVE eb,localbus,18.6,Moderate Frequency
+5745,PULASKI HWY & MAPLETON AVE fs eb,localbus,18.6,Moderate Frequency
+5746,6301 PULASKI HWY eb,localbus,18.6,Moderate Frequency
+12619,PULASKI HWY & NORTH POINT RD eb,localbus,18.6,Moderate Frequency
+11148,6700 PULASKI HWY,localbus,18.6,Moderate Frequency
+5748,PULASKI HWY & MORAVIA PARK DR eb,localbus,18.6,Moderate Frequency
+6342,MANNASOTA AVE & LAKE AVE eb,localbus,28.1,Low Frequency
+13708,MANNASOTA AVE & CHESTERFIELD AVE eb,localbus,28.1,Low Frequency
+6347,MANNASOTA AVE & RAMONA AVE eb,localbus,28.1,Low Frequency
+6350,MANNASOTA AVE & SHELDON AVE,localbus,28.1,Low Frequency
+6352,BOWLEYS LN & PLAINFIELD AVE sb,localbus,28.1,Low Frequency
+13707,BOWLEYS LN & GUNTHER AVE,localbus,28.2,Low Frequency
+6353,BOWLEYS LN & HOMESDALE AVE sb,localbus,28.2,Low Frequency
+10557,BOWLEYS LN & SINCLAIR LN sb,localbus,28.2,Low Frequency
+10559,SINCLAIR LA & PARKSIDE DR wb,localbus,8.0,High Frequency
+6354,SINCLAIR LN & ARBOR VIEW wb,localbus,8.2,High Frequency
+6355,SINCLAIR LN & DUDLEY AVE fs wb,localbus,8.0,High Frequency
+6357,CHESTERFIELD AVE & RAVENWOOD AVE nb,localbus,28.2,Low Frequency
+6359,CHESTERFIELD AVE & JUNEWAY nb,localbus,28.2,Low Frequency
+12082,BREHMS LN & PELHAM AVE fs wb,localbus,28.2,Low Frequency
+12083,BREHMS LN & MAYFIELD AVE wb,localbus,28.2,Low Frequency
+12085,ERDMAN AVE & EDISON HWY sb,localbus,28.2,Low Frequency
+12716,SINCLAIR LN & MORAVIA RD ns eb,localbus,10.9,Moderate Frequency
+12715,MORAVIA RD & TRUESDALE AVE sb,localbus,29.1,Low Frequency
+12689,6050 MORAVIA PARK DR & SENIOR APARTMENTS eb,localbus,18.6,Moderate Frequency
+929,SINCLAIR LN & FRANKFORD AVE fs wb,localbus,10.9,Moderate Frequency
+930,SINCLAIR LN & GOODNOW RD wb,localbus,11.0,Moderate Frequency
+931,SINCLAIR LN & PARKSIDE PLAZA mb wb,localbus,10.9,Moderate Frequency
+10558,PARKSIDE SHOPPING CENTER,localbus,37.0,Infrequent
+932,SINCLAIR LN & MORAVIA RD fs wb,localbus,10.9,Moderate Frequency
+934,SINCLAIR LN & BOWLEYS LN wb,localbus,10.4,Moderate Frequency
+12849,ERDMAN AVE & ENOCH PRATT LIBRARY CENTER,localbus,37.2,Infrequent
+10561,ERDMAN SHOPPING CENTER,localbus,37.2,Infrequent
+4617,EASTERN AVE & 45TH ST wb,localbus,11.6,Moderate Frequency
+4623,Eastern Ave & Hornel St,localbus,11.5,Moderate Frequency
+6320,Eastern Ave & Dundalk Ave,localbus,11.5,Moderate Frequency
+12653,ARMISTEAD WAY & PULASKI HWY fs nb,localbus,47.5,Infrequent
+6729,ARMISTEAD WAY & RODMAN WAY fs nb,localbus,47.5,Infrequent
+6731,HARPER WY & HORNERS LN,localbus,47.5,Infrequent
+6733,5122 WRIGHT AVE nb,localbus,47.5,Infrequent
+6735,WRIGHT AVE & HOFFMAN ST nb,localbus,47.5,Infrequent
+6736,WRIGHT AVE & ORVILLE AVE nb,localbus,47.5,Infrequent
+12654,FEDERAL ST & ORVILLE ST fs wb,localbus,47.5,Infrequent
+12655,FEDERAL ST & WILBUR ST wb,localbus,47.5,Infrequent
+11376,ERDMAN AVE & FEDERAL ST nb,localbus,47.5,Infrequent
+11377,ERDMAN AVE & SINCLAIR LANE nb,localbus,47.5,Infrequent
+11363,SINCLAIR LN & COLEMAN AVE fs eb,localbus,9.9,High Frequency
+13611,SINCLAIR LN & FRIAR FIELD RUN fs eb,localbus,9.7,High Frequency
+13612,4017 SINCLAIR LN eb,localbus,10.0,High Frequency
+8565,SINCLAIR LN & PARKSIDE DR fs eb,localbus,9.6,High Frequency
+13654,SINCLAIR LN & COLEMAN AVE wb,localbus,9.8,High Frequency
+11361,ERDMAN AVE & SINCLAIR LA fs sb,localbus,51.4,Infrequent
+6301,FEDERAL ST & WILBUR AVE eb,localbus,49.1,Infrequent
+10719,FEDERAL ST & ORVILLE AVE eb,localbus,49.1,Infrequent
+12606,WRIGHT AVE & ORVILLE AVE fs sb,localbus,49.1,Infrequent
+12607,WRIGHT AVE & PRESTON ST sb,localbus,49.1,Infrequent
+12608,WRIGHT AVE & CHASE ST fs sb,localbus,49.1,Infrequent
+13520,HARPERS WAY & HORNERS LN eb,localbus,49.1,Infrequent
+6791,ARMISTEAD WAY & HARPER WAY sb,localbus,49.1,Infrequent
+10720,ARMISTEAD WAY & FOWLER WAY sb,localbus,49.1,Infrequent
+4492,EASTERN AVE & ELRINO ST eb,localbus,11.6,Moderate Frequency
+4493,EASTERN AVE & GUSRYAN ST eb,localbus,11.4,Moderate Frequency
+7596,EASTERN AVE & 45TH ST eb,localbus,8.9,High Frequency
+10768,Dundalk Ave & Holabird Ave,localbus,11.3,Moderate Frequency
+2014,Dundalk Ave & Roberts Ave,localbus,11.5,Moderate Frequency
+2015,Dundalk Ave & Youngstown Ave,localbus,11.3,Moderate Frequency
+12236,DUNDALK & BOSTON ST nb,localbus,39.6,Infrequent
+2017,DUNDALK AVE & O'DONNELL ST nb,localbus,39.5,Infrequent
+2019,DUNDALK AVE & GUSRYAN ST fs nb,localbus,39.6,Infrequent
+2020,DUNDALK AVE & EASTERN AVE nb,localbus,39.6,Infrequent
+10543,Lombard St & Ponca St,localbus,10.3,Moderate Frequency
+10689,Lombard St & Grundy St,localbus,10.3,Moderate Frequency
+13829,SINCLAIR LN & ERDMAN AVE fs eb,localbus,11.8,Moderate Frequency
+896,SINCLAIR LN & BOWLEYS LN eb,localbus,11.5,Moderate Frequency
+3086,BELAIR RD & MORAVIA RD nb,localbus,11.0,Moderate Frequency
+3088,BELAIR RD & SOUTHERN AVE nb,localbus,12.1,Moderate Frequency
+3089,BELAIR RD & WOODLEA AVE nb,localbus,11.8,Moderate Frequency
+3091,BELAIR RD & CHESMONT AVE fs nb,localbus,11.8,Moderate Frequency
+3092,BELAIR RD & FRANKFORD AVE nb,localbus,11.6,Moderate Frequency
+10457,BELAIR RD & LASALLE AVE opp nb,localbus,12.0,Moderate Frequency
+3158,GARDENVILLE LOOP AT BELAIR RD,localbus,10.2,Moderate Frequency
+3160,BELAIR RD & LASALLE AVE sb,localbus,11.9,Moderate Frequency
+3162,BELAIR RD & FRANKFORD AVE sb,localbus,12.0,Moderate Frequency
+3164,BELAIR RD & BELWOOD AVE sb,localbus,12.0,Moderate Frequency
+3165,BELAIR RD & PARKWOOD AVE sb,localbus,12.2,Moderate Frequency
+3166,BELAIR RD & WOODLEA AVE sb,localbus,11.3,Moderate Frequency
+3167,BELAIR RD & SOUTHERN AVE sb,localbus,12.3,Moderate Frequency
+3168,BELAIR RD & WILKE AVE sb,localbus,12.3,Moderate Frequency
+11370,SINCLAIR LA & ERDMAN AVE fs wb,localbus,11.3,Moderate Frequency
+10900,LOMBARD ST & HAVEN ST eb,localbus,10.3,Moderate Frequency
+10535,LOMBARD ST & PONCA ST fs eb,localbus,10.5,Moderate Frequency
+1920,EASTERN AVE & BONSAL ST fs eb,localbus,38.4,Infrequent
+1922,DUNDALK AVE & FOLCROFT ST mb sb,localbus,38.4,Infrequent
+12223,DUNDALK AVE & GUSRYAN ST sb,localbus,38.4,Infrequent
+1924,DUNDALK AVE & O'DONNELL ST sb,localbus,38.4,Infrequent
+1925,DUNDALK AVE & BOSTON ST sb,localbus,38.4,Infrequent
+1926,Dundalk Ave & Youngstown Ave,localbus,11.5,Moderate Frequency
+12224,Dundalk Ave & Hartwait St,localbus,11.6,Moderate Frequency
+1949,Dundalk Ave & Holabird Ave,localbus,11.5,Moderate Frequency
+1973,Dundalk Ave & Chandlery St,localbus,11.5,Moderate Frequency
+1879,Pratt St & South St,localbus,8.0,High Frequency
+1270,Pratt St & Gay St,localbus,7.1,High Frequency
+1271,Pratt St & Market Pl,localbus,7.5,High Frequency
+1272,PRATT & ALBEMARLE eb,localbus,34.3,Infrequent
+1276,PRATT ST & LLOYD fs eb,localbus,12.1,Moderate Frequency
+1277,PRATT ST & CAROLINE ST eb,localbus,12.0,Moderate Frequency
+1278,PRATT ST & BROADWAY eb,localbus,34.3,Infrequent
+1280,PRATT ST & WOLFE ST eb,localbus,34.3,Infrequent
+1281,PRATT ST & WASHINGTON ST eb,localbus,34.3,Infrequent
+1282,PRATT ST & CHESTER ST eb,localbus,34.3,Infrequent
+1284,PRATT ST & PATTERSON PARK AVE eb,localbus,34.3,Infrequent
+1287,PATTERSON PARK & EASTERN fs sb,localbus,34.3,Infrequent
+1289,ESSEX & MONTFORD eb,localbus,34.3,Infrequent
+1291,FAIT & LUZERNE eb,localbus,34.3,Infrequent
+1292,FAIT & LAKEWOOD eb,localbus,34.3,Infrequent
+12579,FAIT ST & LINWOOD AVE eb,localbus,34.3,Infrequent
+1295,HUDSON & POTOMAC eb,localbus,34.3,Infrequent
+1297,HUDSON & EAST eb,localbus,34.3,Infrequent
+13733,O'Donnell St & Dean St,localbus,11.3,Moderate Frequency
+13716,O'Donnell St & Newkirk St,localbus,11.3,Moderate Frequency
+3779,PONCA ST & BOSTONST fs sb,localbus,33.6,Infrequent
+3782,5501 HOLABIRD AVE eb,localbus,16.1,Moderate Frequency
+3854,2010 BROENING HWY - AMAZON FULFILLMENT CENTER nb,localbus,16.3,Moderate Frequency
+10085,2200 BROENING HWY sb,localbus,15.9,Moderate Frequency
+8379,2310 BROENING HWY,localbus,16.3,Moderate Frequency
+3788,2500 BROENING HWY sb,localbus,15.9,Moderate Frequency
+3789,2700 BROENING HWY sb,localbus,15.9,Moderate Frequency
+3787,DUNDALK MARINE TERMINAL,localbus,8.8,High Frequency
+3850,2501 BROENING HWY nb,localbus,17.1,Moderate Frequency
+3851,2400 BROENING HWY nb,localbus,16.8,Moderate Frequency
+9579,2200 BROENING HWY nb,localbus,16.8,Moderate Frequency
+3784,2010 BROENING HWY & AMAZON FULFILLMENT CENTER sb,localbus,16.8,Moderate Frequency
+3855,HOLABIRD AVE & BROENING HWY fs wb,localbus,16.8,Moderate Frequency
+13717,O'Donnell St & Macon St,localbus,11.5,Moderate Frequency
+13732,O'Donnell St & Dean St,localbus,11.4,Moderate Frequency
+1309,HUDSON & HIGHLAND wb,localbus,36.6,Infrequent
+1311,HUDSON & EAST wb,localbus,36.6,Infrequent
+1313,HUDSON & POTOMAC wb,localbus,36.6,Infrequent
+1315,HUDSON & KENWOOD wb,localbus,36.6,Infrequent
+1316,FAIT & KENWOOD fs wb,localbus,36.6,Infrequent
+1317,FAIT & LUZERNE wb,localbus,36.6,Infrequent
+1319,FAIT & MONTFORD wb,localbus,36.6,Infrequent
+1322,PATTERSON PARK & EASTERN nb,localbus,36.6,Infrequent
+1325,PATTERSON PARK AVE & PRATT ST nb,localbus,36.6,Infrequent
+1326,LOMBARD ST & COLLINGTON AVE wb,localbus,36.6,Infrequent
+1328,Lombard St & Washington St,localbus,36.6,Infrequent
+1329,LOMBARD ST & WOLFE ST wb,localbus,36.6,Infrequent
+1331,LOMBARD ST & BROADWAY fs wb,localbus,12.4,Moderate Frequency
+1332,LOMBARD ST & CAROLINE ST fs wb,localbus,12.4,Moderate Frequency
+1333,LOMBARD ST & CENTRAL AVE wb,localbus,12.2,Moderate Frequency
+1335,LOMBARD ST & ALBEMARLE ST wb,localbus,12.3,Moderate Frequency
+1336,Lombard St & Market Pl,localbus,7.1,High Frequency
+1337,Lombard St & Commerce St,localbus,7.1,High Frequency
+7192,SARATOGA ST & LEXINGTON ST,localbus,3.4,High Frequency
+8928,FAYETTE ST & HOLLIDAY ST wb,localbus,4.3,High Frequency
+516,SAINT PAUL ST & FAYETTE ST fs sb,localbus,5.3,High Frequency
+68,Light St & Redwood St,localbus,4.8,High Frequency
+70,LIGHT ST & PRATT ST,localbus,6.2,High Frequency
+6811,LIGHT ST & CONWAY ST mb sb,localbus,7.6,High Frequency
+10966,LIGHT ST & LEE ST fs sb,localbus,9.2,High Frequency
+6813,LIGHT ST & MONGOMERY ST sb,localbus,12.2,Moderate Frequency
+10887,LIGHT ST & CROSS ST sb,localbus,12.2,Moderate Frequency
+6817,LIGHT ST & OSTEND ST fs sb,localbus,12.0,Moderate Frequency
+6818,LIGHT ST & FORT AVE sb,localbus,11.9,Moderate Frequency
+6820,LIGHT ST & HEATH ST sb,localbus,11.7,Moderate Frequency
+6824,WELLS ST & CHARLES ST wb,localbus,12.1,Moderate Frequency
+2732,HANOVER & CROMWELL,localbus,11.6,Moderate Frequency
+2736,HANOVER ST & SOUTH BALTIMORE PARK & RIDE fs sb,localbus,11.7,Moderate Frequency
+6913,PENNINGTON AVE & OLMSTEAD ST sb,localbus,12.3,Moderate Frequency
+6915,PENNINGTON AVE & CYPRESS ST fs sb,localbus,11.9,Moderate Frequency
+12709,PENNINGTON AVE & BENHILL AVE sb,localbus,49.6,Infrequent
+13693,PENNINGTON AVE & OPEN ST sb,localbus,49.6,Infrequent
+12710,PENNINGTON AVE & ORDNANCE RD sb,localbus,49.6,Infrequent
+6870,HAWKINS POINT RD & CHEMICAL RD eb,localbus,49.6,Infrequent
+6871,HAWKINS POINT RD & US COAST GUARD FACILITY eb,localbus,49.6,Infrequent
+10967,HAWKINS POINT RD & EFFICIENCY WY fs eb,localbus,49.6,Infrequent
+10968,FORT SMALLWOOD RD & FORT ARMISTEAD RD sb,localbus,49.6,Infrequent
+10969,FORT SMALLWOOD RD & FORT ARMISTEAD RD fs nb,localbus,49.1,Infrequent
+6891,HAWKINS POINT RD & QUARANTINE RD fs,localbus,49.1,Infrequent
+6893,HAWKINS POINT RD & COAST GUARD FACILITY wb,localbus,49.1,Infrequent
+6894,HAWKINS POINT RD & CHEMICAL RD wb,localbus,49.1,Infrequent
+6895,PENNINGTON AVE & ORDNANCE RD nb,localbus,49.1,Infrequent
+13694,PENNINGTON AVE & OPEN ST nb,localbus,49.1,Infrequent
+6896,BIRCH ST & CURTIS AVE eb,localbus,49.1,Infrequent
+6856,CURTIS AVE & FILBERT ST mb,localbus,11.9,Moderate Frequency
+6857,CURTIS AVE & OLMSTEAD ST mb,localbus,12.1,Moderate Frequency
+2923,HANOVER ST & HARBOR HOSPITAL mid nb,localbus,11.6,Moderate Frequency
+6933,HANOVER ST & WATERVIEW AVE nb,localbus,9.3,High Frequency
+6935,HANOVER ST & CROMWELL ST nb,localbus,11.7,Moderate Frequency
+2928,WELLS ST & CHARLES ST eb,localbus,11.7,Moderate Frequency
+12728,LIGHT ST & HEATH ST fs nb,localbus,11.7,Moderate Frequency
+113,Fort Ave & Charles St,localbus,9.1,High Frequency
+114,Charles St & Ostend St,localbus,9.2,High Frequency
+116,Charles St & Cross St,localbus,9.2,High Frequency
+117,Charles St & Henrietta St,localbus,9.1,High Frequency
+119,Charles St & Lee St,localbus,9.2,High Frequency
+120,Charles St & Conway St,localbus,9.2,High Frequency
+814,Baltimore St & Calvert St,localbus,3.9,High Frequency
+2918,HANOVER ST & JACK ST fs nb,localbus,27.1,Low Frequency
+2919,PATAPSCO AVE & POTEE ST mid wb,localbus,27.1,Low Frequency
+2743,HANOVER ST & JACK ST sb,localbus,54.0,Infrequent
+10923,HANOVER ST & PATAPSCO AVE nb,localbus,55.7,Infrequent
+3029,SARATOGA ST & GREENE ST eb,localbus,8.9,High Frequency
+3031,SARATOGA ST & PACA ST eb,localbus,7.1,High Frequency
+7540,SARATOGA ST & EUTAW ST eb,localbus,7.3,High Frequency
+14075,KEY HWY & LIGHT ST fs eb,localbus,34.2,Infrequent
+14076,KEY HWY & COVINGTON ns eb,localbus,34.1,Infrequent
+14077,KEY HWY & CROSS ST ns sb,localbus,34.1,Infrequent
+14078,KEY HWY & JACKSON ST sb ns,localbus,37.7,Infrequent
+14079,KEY HWY & BOYLE ST sb fs,localbus,37.7,Infrequent
+14164,KEY HWY & KEY HWY E sb fs,localbus,37.7,Infrequent
+10893,MISSION BLVD & RYE ST fs sb,localbus,37.6,Infrequent
+12388,CROMWELL ST & PENINSULA wb ns,localbus,37.6,Infrequent
+489,SAINT PAUL ST & NORTH AVE fs sb,localbus,8.3,High Frequency
+6246,COVINGTON ST & CROSS ST mid sb,localbus,3.2,High Frequency
+6827,CROMWELL ST &PENINSULA eb fs,localbus,37.6,Infrequent
+13761,MISSION BLVD & RYE ST fs nb,localbus,37.6,Infrequent
+13949,KEY HWY & MCHENRY ROW ns nb,localbus,37.6,Infrequent
+14070,KEY HWY & BOYLE ST opp fs wb,localbus,37.6,Infrequent
+14071,KEY HWY & HARBORVIEW wb fs,localbus,37.6,Infrequent
+14072,KEY HWY & PIERSIDE DR wb fs,localbus,37.6,Infrequent
+14073,KEY HWY & BATTERY AVE wb opp,localbus,37.6,Infrequent
+14074,LIGHT ST & BARRE ST fs opp,localbus,37.6,Infrequent
+1604,CALVERT ST between PRATT ST & LOMBARD ST nb,localbus,37.6,Infrequent
+1605,CALVERT ST & REDWOOD ST nb,localbus,37.5,Infrequent
+125,Fayette St & Howard St,localbus,3.7,High Frequency
+127,Fayette St & Paca St,localbus,3.8,High Frequency
+128,Fayette St & Greene St,localbus,3.9,High Frequency
+13735,MLK BLVD & FAYETTE ST nb,localbus,37.5,Infrequent
+3027,SARATOGA ST between PINE ST & ARCH ST mid eb,localbus,11.4,Moderate Frequency
+13724,MLK BLVD & MCCULLOH ST sb,localbus,39.0,Infrequent
+1021,MCCULLOH ST & PRESTON ST nb,localbus,11.7,Moderate Frequency
+4075,DOLPHIN ST & DRUID HILL AVE sb,localbus,8.9,High Frequency
+1250,PENNSYLVANIA & HOFFMAN opp sb,localbus,39.0,Infrequent
+1251,PENNSYLVANIA & PRESTON sb,localbus,39.0,Infrequent
+1252,PENNSYLVANIA & MLK BLVD sb,localbus,39.0,Infrequent
+1253,PENNSYLVANIA & SAINT MARY,localbus,39.0,Infrequent
+1256,GREENE & MULBERRY sb,localbus,39.0,Infrequent
+1259,GREENE ST & FAYETTE ST sb,localbus,33.1,Infrequent
+1260,GREENE & BALTIMORE sb,localbus,39.0,Infrequent
+1261,GREENE ST & LOMBARD ST ns sb,localbus,40.1,Infrequent
+12397,GREENE ST & PRATT ST sb,localbus,40.1,Infrequent
+4909,GREENE ST & WASHINGTON BLVD fs sb,localbus,40.1,Infrequent
+12592,RUSSELL ST & LEE ST sb,localbus,40.1,Infrequent
+13686,HAINES ST & WARNER ST wb,localbus,40.1,Infrequent
+12671,RUSSELL ST & BUSH ST sb,localbus,40.1,Infrequent
+12618,WATERVIEW AVE & WESTPORT ST fs wb,localbus,39.1,Infrequent
+11381,WATERVIEW AVE & NEVEDA ST wb,localbus,39.0,Infrequent
+11382,WATERVIEW AVE & NORFOLK ST wb,localbus,39.1,Infrequent
+10926,HOLLINS FERRY RD & HARMAN AVE sb,localbus,39.1,Infrequent
+10928,HOLLINS FERRY RD & BANGER ST sb,localbus,39.1,Infrequent
+10929,HOLLINS FERRY RD & BROHAWN AVE sb,localbus,39.1,Infrequent
+10930,HOLLINS FERRY RD & MARBOURNE AVE sb,localbus,39.1,Infrequent
+4967,HOLLINS FERRY RD & PATAPSCO AVE sb,localbus,39.1,Infrequent
+4951,HOLLINS FERRY RD & GEHB AVE sb,localbus,39.1,Infrequent
+3356,ANNAPOLIS RD & PATAPSCO AVE nb,localbus,12.1,Moderate Frequency
+14285,PATAPSCO AVE & 1600 E PATAPSCO AVE EB ns,localbus,38.9,Infrequent
+14244,WAGNER'S POINT,localbus,20.5,Low Frequency
+14284,PATAPSCO AVE & 1600 E PATAPSCO AVE WB ns,localbus,41.3,Infrequent
+10952,HOLLINS FERRY RD & HOLLINSWOOD SHOPPING CENTER nb,localbus,41.3,Infrequent
+4950,HOLLINS FERRY RD & PATAPSCO AVE fs nb,localbus,41.3,Infrequent
+10955,HOLLINS FERRY RD & MARBOURNE AVE nb,localbus,41.3,Infrequent
+10957,HOLLINS FERRY RD & RITTENHOUSE AVE fs nb,localbus,41.3,Infrequent
+10958,HOLLINS FERRY RD & NORTHSHIRE DR nb,localbus,41.3,Infrequent
+10959,HOLLINS FERRY RD & HARMAN AVE OP nb,localbus,41.3,Infrequent
+5403,HOLLINS FERRY RD & WATERVIEW AVE nb,localbus,41.3,Infrequent
+10962,WATERVIEW AVE & WESTPORT ST opp eb,localbus,41.3,Infrequent
+12064,RUSSELL ST & HAMBURG ST fs nb,localbus,41.2,Infrequent
+5000,RUSSELL ST & CAMDEN ST nb,localbus,41.2,Infrequent
+14167,PACA ST & LOMBARD ST nb fs,localbus,41.2,Infrequent
+1344,PACA ST & BALTIMORE nb,localbus,41.2,Infrequent
+1345,PACA ST & FAYETTE ST fs nb,localbus,41.2,Infrequent
+14155,PENNSYLVANIA & SAINT MARY ST,localbus,41.2,Infrequent
+1351,PENNSYLVANIA AVE & MLK BLVD fs nb,localbus,41.2,Infrequent
+1352,PENNSYLVANIA AVE & HOFFMAN mb nb,localbus,41.2,Infrequent
+4006,DOLPHIN ST & PENNSYLVANIA AVE fs eb,localbus,9.5,High Frequency
+4007,DOLPHIN ST & DRUID HILL AVE eb,localbus,9.7,High Frequency
+14086,BALTIMORE & ARCH,localbus,6.5,High Frequency
+1601,BALTIMORE ST & UNIVERSITY OF MD TRANSIT CENTER mid,localbus,25.0,Low Frequency
+1343,Lombard St & Eutaw St,localbus,4.7,High Frequency
+5196,Lombard St & Greene St,localbus,4.6,High Frequency
+2185,Lombard St & MLK Blvd,localbus,9.0,High Frequency
+5416,Lombard St & Poppleton St,localbus,9.0,High Frequency
+5417,Lombard St & Schroeder St,localbus,9.0,High Frequency
+5419,LOMBARD ST & CAREY ST wb,localbus,23.7,Low Frequency
+5421,LOMBARD ST & STRICKER ST fs wb,localbus,23.7,Low Frequency
+10994,GILMOR ST & PRATT ST sb,localbus,23.7,Low Frequency
+10996,WILKENS AVE & GILMOR ST fs wb,localbus,23.7,Low Frequency
+12503,WILKENS AVE & FULTON AVE wb,localbus,23.7,Low Frequency
+10998,WILKENS AVE & MONROE ST wb,localbus,23.7,Low Frequency
+10999,WILKENS AVE & PAYSON ST wb,localbus,23.7,Low Frequency
+11000,WILKENS AVE & PULASKI ST wb,localbus,23.7,Low Frequency
+11002,WILKENS AVE & CATHERINE ST wb,localbus,23.7,Low Frequency
+11003,WILKENS AVE & MILLINGTON AVE wb,localbus,23.7,Low Frequency
+11005,WILKENS AVE & BRUNSWICK ST wb,localbus,23.7,Low Frequency
+11014,WILKENS AVE & HURLEY AVE wb,localbus,23.7,Low Frequency
+11017,WILKENS AVE & DESOTO RD wb,localbus,23.8,Low Frequency
+11018,WILKENS AVE & CATON AVE fs wb,localbus,23.8,Low Frequency
+11020,WILKENS AVE & PINE HEIGHTS AVE wb,localbus,23.7,Low Frequency
+11024,WILKENS AVE & JOH AVE opp wb,localbus,23.7,Low Frequency
+5459,WILKENS AVE & LEEDS AVE wb,localbus,23.7,Low Frequency
+11008,DUKELAND ST & WILKENS AVE fs sb,localbus,65.7,Infrequent
+11009,1221 BERNARD DR sb,localbus,65.8,Infrequent
+11010,GEORGETOWN RD & WILMINGTON AVE wb,localbus,65.7,Infrequent
+5446,DESOTO RD & WILMARCO AVE nb,localbus,65.7,Infrequent
+11013,DESOTO RD & BENSON AVE nb,localbus,65.7,Infrequent
+11087,WILKENS AVE & JOH AVE eb,localbus,24.4,Low Frequency
+11090,WILKENS AVE & PINE HEIGHTS AVE eb,localbus,24.3,Low Frequency
+11091,WILKENS AVE & PRIMSON AVE opp eb,localbus,24.3,Low Frequency
+5543,WILKENS AVE & CATON AVE eb,localbus,24.3,Low Frequency
+11093,WILKENS AVE & DESOTO RD eb,localbus,24.1,Low Frequency
+11094,DESOTO RD & BENSON AVE sb,localbus,58.4,Infrequent
+5550,DESOTO RD & WILMARCO AVE fs sb,localbus,58.4,Infrequent
+11097,GEORGETOWN RD & WILMINGTON AVE eb,localbus,58.4,Infrequent
+11098,1221 BERNARD DR nb,localbus,58.3,Infrequent
+11100,WILKENS AVE & DUKELAND ST fs eb,localbus,24.2,Low Frequency
+11104,WILKENS AVE & BRUNSWICK ST eb,localbus,24.2,Low Frequency
+11106,WILKENS AVE & MILLINGTON AVE eb,localbus,24.2,Low Frequency
+11107,WILKENS AVE & CATHERINE ST eb,localbus,24.2,Low Frequency
+11110,WILKENS AVE & PULASKI ST eb,localbus,24.2,Low Frequency
+12504,WILKENS AVE & FULTON AVE eb,localbus,24.2,Low Frequency
+11114,GILMOR ST & McHENRY ST nb,localbus,24.2,Low Frequency
+11115,PRATT ST & STRICKER ST eb,localbus,24.2,Low Frequency
+5571,PRATT ST & CAREY ST fs eb,localbus,24.2,Low Frequency
+11117,Pratt St & Arlington Ave,localbus,9.0,High Frequency
+11119,Pratt St & Poppleton St,localbus,9.0,High Frequency
+12670,Pratt St & Parkin St,localbus,9.0,High Frequency
+11121,Pratt St & MLK Blvd,localbus,9.0,High Frequency
+11123,Pratt St & Greene St,localbus,2.9,High Frequency
+14107,WEST BALTIMORE MARC STATION BAY 1,localbus,8.2,High Frequency
+4685,FRANKLIN ST & FRANKLINTOWN RD wb,localbus,10.9,Moderate Frequency
+4696,WOODINGTON RD & GELSTON DR nb,localbus,15.6,Moderate Frequency
+4698,WOODINGTON RD & COLBORNE RD nb,localbus,15.4,Moderate Frequency
+4700,WOODINGTON RD & ROKEBY RD fs nb,localbus,15.6,Moderate Frequency
+14047,WOODINGTON RD & 1215 N nb mid,localbus,15.6,Moderate Frequency
+4702,1305 WOODINGTON RD mb nb,localbus,15.6,Moderate Frequency
+4414,STOKES DR & WILDWOOD PKWY,localbus,15.6,Moderate Frequency
+4415,WILDWOOD PKWY & MOUNTWOOD RD sb,localbus,15.6,Moderate Frequency
+4416,WILDWOOD PKWY & ROKEBY RD sb,localbus,15.6,Moderate Frequency
+4419,WILDWOOD PKWY & GELSTON DR sb,localbus,15.6,Moderate Frequency
+3719,EDMONDSON AVE & ROSEDALE ST opp fs,localbus,10.7,Moderate Frequency
+4430,FRANKLIN ST & FRANKLINTOWN RD fs eb,localbus,10.7,Moderate Frequency
+3903,MLK BLVD & FAYETTE ST fs wb,localbus,8.8,High Frequency
+3904,BALTIMORE ST & FREMONT AVE fs wb,localbus,8.7,High Frequency
+3905,BALTIMORE ST & POPPLETON ST wb,localbus,8.8,High Frequency
+12320,BALTIMORE ST & ARLINGTON AVE wb,localbus,8.8,High Frequency
+55,Baltimore St & Carey St,localbus,8.7,High Frequency
+3910,BALTIMORE ST & CALHOUN ST wb,localbus,8.6,High Frequency
+3912,BALTIMORE ST & GILMOR ST wb,localbus,19.4,Moderate Frequency
+12273,BALTIMORE ST & FULTON AVE wb,localbus,19.4,Moderate Frequency
+3918,BALTIMORE & PULASKIwb,localbus,19.4,Moderate Frequency
+3919,BALTIMORE ST & SMALLWOOD ST wb,localbus,19.4,Moderate Frequency
+3921,BALTIMORE ST & GORMAN AVE wb,localbus,19.4,Moderate Frequency
+3922,BALTIMORE ST & CATHERINE ST wb,localbus,19.4,Moderate Frequency
+3923,BALTIMORE ST & FRANKLINTOWN RD wb,localbus,19.4,Moderate Frequency
+10407,BALTIMORE ST & BERNICE AVEwb,localbus,19.4,Moderate Frequency
+3929,BALTIMORE ST & HILTON ST wb,localbus,19.4,Moderate Frequency
+3930,CATON AVE & MORLEY ST wb,localbus,19.4,Moderate Frequency
+3932,CATON AVE & CULVER ST fs wb,localbus,19.4,Moderate Frequency
+3933,MONASTERY AVE & ST JOSPEH ST sb,localbus,19.4,Moderate Frequency
+3935,MONASTERY AVE & OLD FREDERICK RD sb,localbus,19.4,Moderate Frequency
+3937,OLD FREDERICK RD & COLLINSAVE,localbus,19.4,Moderate Frequency
+3939,OLD FREDERICK RD & WOODINGTON RD,localbus,19.4,Moderate Frequency
+12411,ATHOL AVE & OLD FREDERICK RD fs nb,localbus,19.4,Moderate Frequency
+12412,ATHOL AVE & CHERRY WY opp nb,localbus,19.4,Moderate Frequency
+3949,BALTIMORE NATIONAL PIKE & GREENWICH AVE wb,localbus,18.1,Moderate Frequency
+12418,BALTIMORE NATIONAL PIKE & GREENWICH AVE eb,localbus,18.7,Moderate Frequency
+11170,ATHOL AVE & EDMONDSON AVE fs sb,localbus,20.0,Moderate Frequency
+3705,ATHOL AVE & CHERRY WY sb,localbus,20.0,Moderate Frequency
+8930,OLD FREDERICK & ATHOL AVE fs eb,localbus,20.0,Moderate Frequency
+3708,OLD FREDERICK RD & WOODINGTON RD fs eb,localbus,20.0,Moderate Frequency
+3710,OLD FREDERICK RD & COLLINS AVE eb,localbus,20.0,Moderate Frequency
+3712,OLD FREDERICK RD & MONASTERY AVE eb,localbus,20.0,Moderate Frequency
+3713,41 CULVER ST mb,localbus,20.0,Moderate Frequency
+3714,CULVER ST & ST JOSEPH ST mid eb,localbus,20.0,Moderate Frequency
+3715,CULVER ST & CATON AVE eb,localbus,20.0,Moderate Frequency
+342,CATON AVE & MORLEY ST eb,localbus,20.0,Moderate Frequency
+3717,BALTIMORE ST & HILTON ST fs eb,localbus,20.0,Moderate Frequency
+12321,BALTIMORE ST & ROSEDALE ST eb,localbus,20.0,Moderate Frequency
+10403,BALTIMORE ST & FRANKLINTOWN RD eb,localbus,20.0,Moderate Frequency
+3724,BALTIMORE ST & CATHERINE ST eb,localbus,20.0,Moderate Frequency
+3725,BALTIMORE ST & CALVERTON RD eb,localbus,20.0,Moderate Frequency
+3726,BALTIMORE ST & SMALLWOOD ST eb,localbus,20.0,Moderate Frequency
+3728,BALTIMORE ST & PULASKI ST eb,localbus,20.0,Moderate Frequency
+3731,BALTIMORE ST & FULTON AVE eb,localbus,20.0,Moderate Frequency
+3733,BALTIMORE ST & GILMOR ST fs eb,localbus,8.5,High Frequency
+3734,BALTIMORE ST & CALHOUN ST eb,localbus,8.5,High Frequency
+277,BALTIMORE ST & CAREYST eb,localbus,8.5,High Frequency
+56,Baltimore St & Arlington Ave,localbus,8.5,High Frequency
+58,Baltimore St & Poppleton St,localbus,6.0,High Frequency
+59,Baltimore St & MLK Blvd,localbus,5.8,High Frequency
+14087,UM MEDICAL CENTER BAY 1,localbus,5.7,High Frequency
+62,Baltimore St & Paca St,localbus,4.2,High Frequency
+10568,BALTIMORE ST & BALTIMORE ARENA,localbus,8.0,High Frequency
+13524,MONDAWMIN METRO STATION BAY 4,localbus,22.5,Low Frequency
+2583,DICKEY HILL RD & FOREST PARK AVE wb,localbus,41.5,Infrequent
+2555,DICKEY HILL RD & SEKOTS RD opp eb,localbus,41.5,Infrequent
+2556,DICKEY HILL RD & CRIMEA RD wb,localbus,41.5,Infrequent
+2558,TUCKER LN & WINDSOR MILL RD sb,localbus,41.5,Infrequent
+2975,WINDSOR GARDENS LN & BERNARD E MASON APARTMENTS eb,localbus,21.0,Low Frequency
+12034,WINDSOR MILL RD & CRIMEA RD fs mb wb,localbus,41.5,Infrequent
+2562,WINDSOR MILL RD & KERNAN HOSPITAL fs wb,localbus,41.5,Infrequent
+2578,WINDSOR MILL RD & OAK DR eb,localbus,41.9,Infrequent
+12033,WINDSOR MILL RD & CRIMEA RD fs eb,localbus,42.0,Infrequent
+2976,TUCKER LN & WINDSOR MILL RD fs nb,localbus,41.9,Infrequent
+2557,DICKEY HILL RD & TUCKER LN eb,localbus,41.7,Infrequent
+3262,DICKEY HILL RD & FOREST PARK AVE eb,localbus,41.7,Infrequent
+2597,CLIFTON AV & PROSPECT 1 2011,localbus,41.6,Infrequent
+10724,CLIFTON AVE & HOLLY AVE opp eb,localbus,41.6,Infrequent
+2987,CLIFTON AVE & GARRISON BLVD eb,localbus,38.6,Infrequent
+14192,CLIFTON AVE & EDGEWOOD ST,localbus,7.5,High Frequency
+3208,SARATOGA ST & GUILFORD AVE wb,localbus,7.9,High Frequency
+3210,SARATOGA ST & CALVERT ST wb,localbus,7.6,High Frequency
+3211,SARATOGA ST & SAINT PAUL ST mb wb,localbus,8.0,High Frequency
+3213,SARATOGA ST & CATHEDRAL ST wb,localbus,8.1,High Frequency
+3215,SARATOGA ST & HOWARD ST wb,localbus,7.9,High Frequency
+8444,SARATOGA ST & EUTAW ST wb,localbus,7.9,High Frequency
+3218,SARATOGA ST & PACA ST wb,localbus,7.9,High Frequency
+3220,SARATOGA ST & GREENE ST wb,localbus,15.7,Moderate Frequency
+3222,SARATOGA ST & MLK BLVD fs wb,localbus,15.7,Moderate Frequency
+3223,SARATOGA ST & FREMONT AVE wb,localbus,15.7,Moderate Frequency
+3224,SARATOGA ST & SCHRODER ST wb,localbus,15.7,Moderate Frequency
+3225,ARLINGTON AVE & MULBERRY ST nb,localbus,15.7,Moderate Frequency
+3226,ARLINGTON AVE & FRANKLIN ST nb,localbus,15.7,Moderate Frequency
+3227,EDMONDSON AVE & ARLINGTON AVE fs nb,localbus,15.7,Moderate Frequency
+10467,EDMONDSON AVE & CAREY ST wb,localbus,15.7,Moderate Frequency
+3229,EDMONDSON AVE & STRICKER ST wb,localbus,15.5,Moderate Frequency
+3231,EDMONDSON AVE & FULTON AVE wb,localbus,15.5,Moderate Frequency
+3233,EDMONDSON AVE & MONROE ST wb,localbus,15.0,Moderate Frequency
+3238,EDMONDSON AVE & WARWICK AVE wb,localbus,15.0,Moderate Frequency
+3240,EDMONDSON AVE & BRADDISH AVE fs wb,localbus,15.0,Moderate Frequency
+3243,EDMONDSON AVE & POPLAR GROVE ns wb,localbus,15.0,Moderate Frequency
+7214,GARRISON BLVD & WINDSOR AVE nb,localbus,15.0,Moderate Frequency
+7217,GARRISON BLVD & GWYNNS FALLS PKWY nb,localbus,15.0,Moderate Frequency
+7218,GARRISON BLVD & MONDAWMIN AVE nb,localbus,15.0,Moderate Frequency
+7220,GARRISON BLVD & ALTO RD nb,localbus,15.0,Moderate Frequency
+7221,GARRISON BLVD & BATEMAN AVE nb,localbus,15.0,Moderate Frequency
+7224,GARRISON BLVD & EDGEWOOD ST nb,localbus,15.0,Moderate Frequency
+7226,GARRISON BLVD & WOODHAVEN AVE nb,localbus,15.0,Moderate Frequency
+7227,GARRISON BLVD & CALLAWAY AVE fs nb,localbus,15.0,Moderate Frequency
+7229,GARRISON BLVD & FOREST PARK AVE nb,localbus,15.0,Moderate Frequency
+6226,GARRISON BLVD & LIBERTY HEIGHTS AVE fs nb,localbus,15.0,Moderate Frequency
+7232,GARRISON BLVD & DORCHESTER RD nb,localbus,15.0,Moderate Frequency
+7234,GARRISON BLVD & BARRINGTON RD nb,localbus,15.2,Moderate Frequency
+7235,GARRISON BLVD & BELLE AVE fs nb,localbus,15.0,Moderate Frequency
+6227,GARRISON BLVD & BOARMAN AVE nb,localbus,15.2,Moderate Frequency
+7237,GARRISON BLVD & RIDGEWOOD AVE nb,localbus,15.0,Moderate Frequency
+7238,GARRISON BLVD & FERNHILL AVE nb,localbus,15.2,Moderate Frequency
+7239,GARRISON BLVD & PENHURST AVE fs nb,localbus,15.2,Moderate Frequency
+7240,GARRISON BLVD & BELVIEU AVE fs nb,localbus,15.2,Moderate Frequency
+14093,ROGERS AVE METRO STATION BAY 1,localbus,7.9,High Frequency
+50,Calhoun St & Harlem Ave,localbus,13.0,Moderate Frequency
+5579,GARRISON BLVD & GROVELAND AVE sb,localbus,15.4,Moderate Frequency
+7151,GARRISON BLVD & PENHURST AVE sb,localbus,15.4,Moderate Frequency
+7152,GARRISON BLVD & FERNHILL AVE sb,localbus,15.4,Moderate Frequency
+7153,GARRISON BLVD & RIDGEWOOD AVE sb,localbus,15.4,Moderate Frequency
+6232,GARRISON BLVD & COLD SPRING LN sb,localbus,15.4,Moderate Frequency
+7156,GARRISON BLVD & BELLE AVE sb,localbus,15.4,Moderate Frequency
+9008,GARRISON BLVD & BARRINGTON RD,localbus,15.4,Moderate Frequency
+7159,GARRISON BLVD & DORCHESTER RD sb,localbus,15.4,Moderate Frequency
+6233,GARRISON BLVD & LIBERTY HEIGHTS AVE sb,localbus,15.4,Moderate Frequency
+7162,GARRISON BLVD & NORFOLK AVE sb,localbus,15.4,Moderate Frequency
+7164,GARRISON BLVD & BONNER RD fs,localbus,15.4,Moderate Frequency
+7165,GARRISON BLVD & WOODHAVEN AVE sb,localbus,15.4,Moderate Frequency
+7167,GARRISON BLVD & DUVALL ST sb,localbus,15.4,Moderate Frequency
+7170,GARRISON BLVD & BATEMAN AVE sb,localbus,15.4,Moderate Frequency
+7171,GARRISON BLVD & ALTO RD sb,localbus,15.4,Moderate Frequency
+7175,GARRISON BLVD & GWYNNS FALLS PKWY sb,localbus,15.4,Moderate Frequency
+7177,GARRISON BLVD & OVAL DR sb,localbus,15.4,Moderate Frequency
+3005,EDMONDSON & POPLAR GROVE eb,localbus,15.0,Moderate Frequency
+3007,EDMONDSON AVE & ASHBURTON ST fs eb,localbus,15.0,Moderate Frequency
+3008,EDMONDSON AVE & DOSWELL AVE eb,localbus,15.0,Moderate Frequency
+3009,EDMONDSON AVE & WARWICK AVE eb,localbus,15.0,Moderate Frequency
+3010,EDMONDSON AVE & BENTALOU ST eb,localbus,15.0,Moderate Frequency
+3014,EDMONDSON AVE & MONROE ST eb,localbus,15.0,Moderate Frequency
+3016,EDMONDSON AVE & FULTON AVE eb,localbus,15.0,Moderate Frequency
+3019,EDMONDSON AVE & STRICKER ST fs eb,localbus,15.0,Moderate Frequency
+3020,EDMONDSON AVE & CAREY ST eb,localbus,15.2,Moderate Frequency
+3021,EDMONDSON AVE & ARLINGTON AVE eb,localbus,15.2,Moderate Frequency
+3022,ARLINGTON AVE & FRANKLIN ST sb,localbus,15.2,Moderate Frequency
+3023,ARLINGTON AVE & MULBERRY ST fs sb,localbus,15.2,Moderate Frequency
+11355,SARATOGA ST & SCHROEDER ST eb,localbus,15.2,Moderate Frequency
+11356,SARATOGA ST & FREMONT ST eb,localbus,15.2,Moderate Frequency
+12570,SARATOGA ST & MLK BLVD eb,localbus,15.2,Moderate Frequency
+3034,SARATOGA ST & HOWARD ST eb,localbus,8.4,High Frequency
+3035,SARATOGA ST & PARK AVE eb,localbus,8.7,High Frequency
+3036,SARATOGA ST & LIBERTYST eb,localbus,8.7,High Frequency
+3038,SARATOGA ST & CHARLES ST eb,localbus,8.8,High Frequency
+12571,SARATOGA ST & SAINT PAUL PL eb,localbus,8.7,High Frequency
+3040,LEXINGTON ST & CALVERT ST eb,localbus,14.5,Moderate Frequency
+3048,LEXINGTON ST & HOLLIDAY ST eb,localbus,14.5,Moderate Frequency
+10309,REISTERSTOWN PLAZA STAT nb,localbus,17.8,Moderate Frequency
+10809,MOUNT HOPE DR & VERTIS PARK DR eb,localbus,17.7,Moderate Frequency
+4821,MOUNT HOPE DR & METRO DR wb,localbus,34.8,Infrequent
+13674,METRO DR & MARIAN DR nb,localbus,34.8,Infrequent
+10881,5601 METRO DR,localbus,34.8,Infrequent
+10882,NORTHERN PKWY & NORTHWEST PLAZA eb,localbus,34.8,Infrequent
+4823,WABASH AVE & NORTHERN PKWY fs sb,localbus,34.8,Infrequent
+4824,WABASH AVE & ROGERS AVE sb,localbus,34.8,Infrequent
+14097,ROGERS AVE METRO STATION BAY 5,localbus,17.8,Moderate Frequency
+14111,COLD SPRING METRO STATION BAY 1,localbus,18.6,Moderate Frequency
+6373,BELLE AVE & DOLFIELD AVE wb,localbus,34.8,Infrequent
+6374,DOLFIELD AVE & GRANTLEY RD sb,localbus,34.8,Infrequent
+6376,DOLFIELD AVE & EDGEWOOD RD sb,localbus,34.8,Infrequent
+6234,DOLFIELD AVE & HILTON RD sb,localbus,34.8,Infrequent
+6379,HILTON RD & BARRINGTON RD sb,localbus,34.8,Infrequent
+6235,HILTON RD & LIBERTY HEIGHTS AVE sb,localbus,34.8,Infrequent
+12248,HILTON ST & FAIRVIEW AVE,localbus,34.8,Infrequent
+335,HILTON ST & POWHATAN AVE sb,localbus,34.8,Infrequent
+336,HILTON ST & CARLISLE AVE sb,localbus,34.8,Infrequent
+338,HILTON ST & PIEDMONT AVE sb,localbus,34.8,Infrequent
+6382,GWYNNS FALLS PKWY & ELLAMONT ST,localbus,34.8,Infrequent
+6384,GWYNNS FALLS PKWY & LONGWOOD ST eb,localbus,34.8,Infrequent
+6389,GWYNNS FALLS PKWY & DUKELAND ST eb,localbus,34.8,Infrequent
+14200,GWYNNS FALLS PKWY & TIOGA PKWY eb fs,localbus,34.8,Infrequent
+758,FREDERICK DOUGLASS HIGH SCHOOL,localbus,34.8,Infrequent
+13568,ELGIN AVE & MONROE ST fs,localbus,17.9,Moderate Frequency
+13525,MONDAWMIN METRO STATION BAY 5,localbus,17.8,Moderate Frequency
+7308,MCCULLOH ST & GREENSPRING AVE nb,localbus,10.4,Moderate Frequency
+167,Reisterstown Rd & Chowan Ave,localbus,6.9,High Frequency
+168,Reisterstown Rd & Druid Park Dr,localbus,9.1,High Frequency
+10028,PARK HEIGHTS AVE & DRUID PARK DR fs nb,localbus,12.1,Moderate Frequency
+1064,PARK HEIGHTS AVE & HILLDALE AVE fs nb,localbus,12.1,Moderate Frequency
+1066,PARK HEIGHTS AVE & VIOLET AVE nb,localbus,12.0,Moderate Frequency
+748,MONTE VERDE APARTMENTS,localbus,17.9,Moderate Frequency
+750,PARK HEIGHTS AVE & HILLDALE AVE sb,localbus,12.6,Moderate Frequency
+10858,TOWANDA AVE & 1ST LIBERTY VILLAGE ENTRANCE sb,localbus,35.5,Infrequent
+10859,TOWANDA AVE & 2ND LIBERTY VILLAGE ENTRANCE sb,localbus,35.5,Infrequent
+10860,TOWANDA AVE & ANOKA AVE opp sb,localbus,35.5,Infrequent
+6493,GWYNNS FALLS PKWY & DUKELAND ST wb,localbus,35.5,Infrequent
+6495,GWYNNS FALLS PKWY & LONGWOOD ST wb,localbus,35.5,Infrequent
+6497,GWYNNS FALLS PKWY & ELLAMONT ST wb,localbus,35.5,Infrequent
+244,HILTON ST & TROY ST opp nb,localbus,35.5,Infrequent
+246,HILTON ST & CARLISLE AVE nb,localbus,35.5,Infrequent
+247,HILTON ST & POWHATAN AVE fs nb,localbus,35.5,Infrequent
+248,HILTON ST & FAIRVIEW AVE nb,localbus,35.5,Infrequent
+251,HILTON ST & LIBERTY HEIGHTS AVE nb,localbus,35.5,Infrequent
+6501,HILTON RD & BARRINGTON RD nb,localbus,35.5,Infrequent
+6502,DOLFIELD AVE & HILTON RD fs nb,localbus,35.5,Infrequent
+6504,DOLFIELD AVE & EDGEWOOD RD nb,localbus,35.5,Infrequent
+6505,DOLFIELD AVE & GRANTLEY RD nb,localbus,35.5,Infrequent
+6506,DOLFIELD AVE & BELLE AVE nb,localbus,35.5,Infrequent
+11390,NORTHERN PKWY & NORTHWEST PLAZA ENTRANCE wb,localbus,35.5,Infrequent
+11391,NORTHERN PKWY & METRO DR wb,localbus,35.5,Infrequent
+5076,METRO DR & SETON DR,localbus,35.5,Infrequent
+1196,REISTERSTOWN RD & LABYRINTH RD opp sb,localbus,15.7,Moderate Frequency
+7470,REISTERSTOWN RD & CLARKS LN fs sb,localbus,15.7,Moderate Frequency
+7469,REISTERSTOWN RD & REISTERSTOWN PLAZA ENTRANCE,localbus,15.7,Moderate Frequency
+1201,REISTERSTOWN RD & FORDS LA sb,localbus,24.2,Low Frequency
+7301,REISTERSTOWN RD & FORDLEIGH RD sb,localbus,24.2,Low Frequency
+1204,REISTERSTOWN RD & PINKNEY RD sb,localbus,24.2,Low Frequency
+1206,REISTERSTOWN RD & GLEN AVE opp sb,localbus,24.2,Low Frequency
+1211,REISTERSTOWN RD & NEWBERN AVE sb,localbus,24.2,Low Frequency
+1212,REISTERSTOWN RD & HAYWARD AVE fs sb,localbus,24.2,Low Frequency
+1214,REISTERSTOWN RD & BELVEDERE AVE fs sb,localbus,24.1,Low Frequency
+1215,REISTERSTOWN RD & GARRISON AVE fs sb,localbus,24.2,Low Frequency
+1216,REISTERSTOWN RD & LEWIN AVE sb,localbus,24.2,Low Frequency
+1217,REISTERSTOWN RD & LUCILLE mid sb,localbus,24.1,Low Frequency
+1218,REISTERSTOWN RD & VIRGINIA AVE sb,localbus,24.1,Low Frequency
+1221,REISTERSTOWN RD & COLD SPRING LN sb,localbus,24.1,Low Frequency
+1223,REISTERSTOWN RD & GRANTLY AVE fs sb,localbus,24.1,Low Frequency
+1225,REISTERSTOWN RD & OSWEGO AVE opp sb,localbus,24.1,Low Frequency
+1226,REISTERSTOWN RD & SHIRLEY AVE sb,localbus,24.1,Low Frequency
+1227,REISTERSTOWN RD & KEYWORTH AVE sb,localbus,24.1,Low Frequency
+1228,REISTERSTOWN RD & SPRINGHILL AVE sb,localbus,24.1,Low Frequency
+1230,REISTERSTOWN RD & ULMAN AVE sb,localbus,24.1,Low Frequency
+1231,REISTERSTOWN RD & HILLDALE AVE sb,localbus,24.1,Low Frequency
+23,Reisterstown Rd & Druid Park Dr,localbus,8.1,High Frequency
+12634,REISTERSTOWN RD & CHOWAN AVE sb,localbus,8.1,High Frequency
+24,Reisterstown Rd & Wichita Ave,localbus,7.9,High Frequency
+25,Reisterstown Rd & Ocala Ave,localbus,7.9,High Frequency
+13526,MONDAWMIN METRO STATION BAY 6,localbus,12.3,Moderate Frequency
+1372,REISTERSTOWN RD & PARK HEIGHTS AVE fs nb,localbus,24.9,Low Frequency
+1374,REISTERSTOWN RD & ULMAN AVE nb,localbus,24.9,Low Frequency
+1375,REISTERSTOWN RD & VIOLET AVE,localbus,24.9,Low Frequency
+1377,REISTERSTOWN RD & KEYWORTH AVE nb,localbus,24.9,Low Frequency
+1378,REISTERSTOWN RD & SHIRLEY AVE nb,localbus,24.9,Low Frequency
+1381,REISTERSTOWN RD & CLASSEN AVE nb,localbus,24.9,Low Frequency
+1382,REISTERSTOWN RD & COLDSPRING LN nb,localbus,24.2,Low Frequency
+1383,REISTERSTOWN RD & WYLIE AVE nb,localbus,24.2,Low Frequency
+1385,REISTERSTOWN RD & VIRGINIA AVE nb,localbus,24.2,Low Frequency
+1387,REISTERSTOWN RD & LUCILLE AVE nb,localbus,24.2,Low Frequency
+12635,REISTERSTOWN RD & MANCHESTER AVE nb,localbus,24.2,Low Frequency
+1389,REISTERSTOWN RD & OAKMONT AVE nb,localbus,24.2,Low Frequency
+1390,REISTERSTOWN RD & GARRISON AVE nb,localbus,24.2,Low Frequency
+1393,REISTERSTOWN RD & BELVEDERE AVE nb,localbus,24.2,Low Frequency
+1394,REISTERSTOWN RD & HAYWARD AVE nb,localbus,24.2,Low Frequency
+1395,REISTERSTOWN RD & LEWISTON AVE nb,localbus,24.2,Low Frequency
+1396,REISTERSTOWN RD & ROGERS AVE nb,localbus,24.2,Low Frequency
+1401,REISTERSTOWN RD & PRIMROSE AVE fs,localbus,16.1,Moderate Frequency
+1404,REISTERSTOWN RD & PINKNEY RD nb,localbus,16.1,Moderate Frequency
+1407,REISTERSTOWN RD & FORDLEIGH RD nb,localbus,16.1,Moderate Frequency
+1409,REISTERSTOWN RD & BANCROFT RD nb,localbus,15.7,Moderate Frequency
+7473,REISTERSTOWN RD & CLARKS LN nb,localbus,15.7,Moderate Frequency
+1412,REISTERSTOWN RD & LABYRINTH RD nb,localbus,15.6,Moderate Frequency
+6122,REISTERSTOWN RD & FALLSTAFF RD nb,localbus,15.6,Moderate Frequency
+12643,PARK HEIGHTS AVE & SHELBURNE RD sb,localbus,19.0,Moderate Frequency
+706,PARK HEIGHTS AVE & SEVEN MILE LN sb,localbus,19.0,Moderate Frequency
+709,PARK HEIGHTS AVE & LABYRINTH RD sb,localbus,16.8,Moderate Frequency
+710,PARK HEIGHTS AVE & CLARINTH RD sb,localbus,18.1,Moderate Frequency
+10320,PARK HEIGHTS AVE & CLARKS LN sb,localbus,16.9,Moderate Frequency
+718,PARK HEIGHTS AVE & GLEN AVE sb,localbus,17.7,Moderate Frequency
+723,PARK HEIGHTS AVE & NORTHERN PKWY sb,localbus,17.7,Moderate Frequency
+7327,PARK HEIGHTS AVE & INGLESIDE AVE fs sb,localbus,17.7,Moderate Frequency
+728,PARK HEIGHTS AVE & HAYWARD AVE sb,localbus,17.7,Moderate Frequency
+730,PARK HEIGHTS AVE & BELVEDERE AVE sb,localbus,17.9,Moderate Frequency
+731,PARK HEIGHTS AVE & SPAULDING AVE sb,localbus,18.2,Moderate Frequency
+732,PARK HEIGHTS & GARRISON AVE sb,localbus,18.2,Moderate Frequency
+733,PARK HEIGHTS AVE & WOODLAND AVE sb,localbus,18.2,Moderate Frequency
+734,PARK HEIGHTS AVE & VIRGINIA AVE sb,localbus,18.2,Moderate Frequency
+737,PARK HEIGHTS AVE & WYLIE AVE sb,localbus,18.2,Moderate Frequency
+739,PARK HEIGHTS AVE & COLD SPRING LN sb,localbus,18.2,Moderate Frequency
+742,PARK HEIGHTS AVE & QUANTICO AVE sb,localbus,18.2,Moderate Frequency
+744,PARK HEIGHTS AVE & SHIRLEY AVE sb,localbus,18.2,Moderate Frequency
+7331,PARK HEIGHTS AVE & KEYWORTH AVE sb,localbus,18.2,Moderate Frequency
+746,PARK HEIGHTS AVE & SPRINGHILL AVE sb,localbus,18.2,Moderate Frequency
+747,PARK HEIGHTS AVE & VIOLET AVE sb,localbus,18.2,Moderate Frequency
+755,REISTERSTOWN RD & LIBERTY HEIGHTS AVE fs sb,localbus,8.2,High Frequency
+8553,Reisterstown Rd & Gwynns Falls Pkwy,localbus,5.7,High Frequency
+31,Reisterstown Rd & Elgin Ave,localbus,5.4,High Frequency
+2625,NORTH AVE & DRUID HILL AVE eb,localbus,7.9,High Frequency
+8576,NORTH AVE & MADISON AVE fs eb,localbus,5.8,High Frequency
+1040,NORTH AVE & LINDEN AVE eb,localbus,8.0,High Frequency
+2627,NORTH AVE & PARK AVE eb,localbus,7.9,High Frequency
+7648,NORTH AVE LIGHT RAIL STATION nb,localbus,9.2,High Frequency
+14248,CROSS COUNTRY,localbus,3.0,High Frequency
+10563,FALLSTAFF & PARK HEIGHTS sb,localbus,32.5,Infrequent
+2500,NORTH AVE & MT ROYAL AVE wb,localbus,7.7,High Frequency
+2501,NORTH AVE & PARK AVE ns wb,localbus,7.7,High Frequency
+781,NORTH AVE & LINDEN wb,localbus,7.5,High Frequency
+783,NORTH AVE & MADISON AVE wb,localbus,5.8,High Frequency
+2503,NORTH AVE & DRUID HILL AVE wb,localbus,7.6,High Frequency
+1366,PENNSYLVANIA AVE & RETREAT ST nb,localbus,11.9,Moderate Frequency
+1369,PENNSYLVANIA AVE & FULTON AVE nb,localbus,8.3,High Frequency
+156,Reisterstown Rd & Ruskin Ave,localbus,5.5,High Frequency
+1058,REISTERSTOWN RD & GWYNNS FALLS PKWY fs nb,localbus,8.6,High Frequency
+164,Reisterstown Rd & Liberty Heights Ave,localbus,17.5,Moderate Frequency
+165,Reisterstown Rd & Ocala Ave,localbus,18.0,Moderate Frequency
+1067,PARK HEIGHTS AVE & SPRINGHILL AVE nb,localbus,18.0,Moderate Frequency
+8578,PARK HEIGHTS AVE & KEYWORTH AVE fs nb,localbus,18.0,Moderate Frequency
+1069,PARK HEIGHTS AVE & SHIRLEY AVE nb,localbus,18.0,Moderate Frequency
+1071,PARK HEIGHTS AVE & QUANTICO AVE nb,localbus,18.0,Moderate Frequency
+1074,PARK HEIGHTS AVE & COLD SPRING LN nb,localbus,17.7,Moderate Frequency
+1075,PARK HEIGHTS AVE & WYLIE AVE nb,localbus,18.0,Moderate Frequency
+1076,PARK HEIGHTS AVE & SUMTER AVE nb,localbus,17.7,Moderate Frequency
+8579,PARK HEIGHTS AVE & VIRGINIA AVE nb,localbus,17.7,Moderate Frequency
+1079,PARK HEIGHTS AVE & WOODLAND AVE nb,localbus,17.7,Moderate Frequency
+1081,PARK HEIGHTS AVE & GARRISON AVE nb,localbus,17.7,Moderate Frequency
+1083,PARK HEIGHTS AVE & BELVEDERE AVE fs nb,localbus,17.4,Moderate Frequency
+1085,PARK HEIGHTS AVE & HAYWARD AVE nb,localbus,17.4,Moderate Frequency
+1086,PARK HEIGHTS AVE & ROGERS AVE nb,localbus,17.4,Moderate Frequency
+7355,PARK HEIGHTS AVE & CLARKS LN fs nb,localbus,17.1,Moderate Frequency
+1098,PARK HEIGHTS AVE & LABYRINTH RD nb,localbus,17.1,Moderate Frequency
+7358,7111 PARK HEIGHTS AVE mid nb,localbus,18.2,Moderate Frequency
+9289,PARK HEIGHTS AVE & SEVEN MILE LN nb,localbus,18.2,Moderate Frequency
+1104,PARK HEIGHTS AVE & SHELBURNE RD nb,localbus,18.2,Moderate Frequency
+10807,DUE PRESSTMAN ST nb,localbus,5.0,High Frequency
+6128,CROSS COUNTRY BLVD & CLARKS LN eb,localbus,18.1,Moderate Frequency
+6129,CROSS COUNTRY BLVD & BANCROFT RD opp,localbus,18.3,Moderate Frequency
+6131,CROSS COUNTRY BLVD & STRATHMORE AVE,localbus,18.3,Moderate Frequency
+14098,ROGERS AVE METRO STATION BAY 6,localbus,21.5,Low Frequency
+14103,SINAI HOSPITAL LOOP ON-STREET STOP,localbus,15.3,Moderate Frequency
+8,Yellowood Ave & Flax Terr,localbus,15.4,Moderate Frequency
+10,Tamarind Rd & Springarden Dr,localbus,15.4,Moderate Frequency
+11,Greenspring Ave & Oakley Ave,localbus,30.4,Infrequent
+12,Greenspring Ave & Woodland Ave,localbus,30.4,Infrequent
+13,Due Dupont,localbus,30.4,Infrequent
+15,Greenspring Ave & Dupont Ave,localbus,30.4,Infrequent
+13527,MONDAWMIN METRO STATION BAY 7,localbus,8.1,High Frequency
+764,CLOVERDALE RD & MCCULLOH ST,localbus,15.8,Moderate Frequency
+767,WHITELOCK ST & MADISON AVE fs eb,localbus,15.8,Moderate Frequency
+768,WHITELOCK ST & EUTAW PL fs eb,localbus,9.0,High Frequency
+5182,WHITELOCK ST & BROOKFIELD AVE eb,localbus,8.8,High Frequency
+13615,2419 LAKEVIEW AVE nb,localbus,9.0,High Frequency
+1046,WHITELOCK ST & PARK AVE fs wb,localbus,8.4,High Frequency
+1048,WHITELOCK ST & CALLOW AVE fs wb,localbus,8.9,High Frequency
+1051,WHITELOCK ST & BROOKFIELD AVE wb,localbus,8.4,High Frequency
+1052,WHITELOCK ST & EUTAW PL wb,localbus,8.6,High Frequency
+5184,EUTAW PL & PRESSTMAN ST sb,localbus,15.8,Moderate Frequency
+5186,EUTAW PL & MCMECHEN ST sb,localbus,15.8,Moderate Frequency
+5188,EUTAW PL & LAFAYETTE AVE sb,localbus,15.8,Moderate Frequency
+5190,EUTAW PL & DOLPHIN ST sb,localbus,15.8,Moderate Frequency
+5191,EUTAW ST & 29TH DIVISION ST opp sb,localbus,11.2,Moderate Frequency
+5853,GUILFORD AVE & EAGER ST sb,localbus,15.3,Moderate Frequency
+12357,FALLSWAY & GAY ST fs nb,localbus,8.6,High Frequency
+5861,FALLSWAY & HIGH ST nb,localbus,8.2,High Frequency
+5862,FALLSWAY & MADISON ST nb,localbus,16.1,Moderate Frequency
+5863,FALLSWAY & EAGER ST fs nb,localbus,16.1,Moderate Frequency
+5864,FALLSWAY & CHASE ST fs nb,localbus,16.1,Moderate Frequency
+5235,EUTAW PL & LANVALE nb,localbus,16.1,Moderate Frequency
+5238,EUTAW PL & MCMECHEN ST nb,localbus,16.1,Moderate Frequency
+5239,EUTAW PL & WILSON ST nb,localbus,16.1,Moderate Frequency
+7206,EUTAW PL & PRESSTMAN ST nb,localbus,16.1,Moderate Frequency
+12693,EUTAW PL & BROOKS LA,localbus,16.1,Moderate Frequency
+1053,CLOVERDALE RD & MADISON AVE wb,localbus,16.1,Moderate Frequency
+12851,GREENSPRING AVE & OSWEGO AVE nb,localbus,30.5,Infrequent
+10292,GREENSPRING AVE & DUPONT AVE nb fs,localbus,30.5,Infrequent
+178,Greenspring Ave & Woodland Ave,localbus,30.5,Infrequent
+179,Greenspring Ave & Springarden Dr,localbus,30.5,Infrequent
+6127,CROSS COUNTRY BLVD & LABYRINTH RD eb,localbus,15.2,Moderate Frequency
+12747,TANEY RD & BAYWOOD AVE,localbus,15.2,Moderate Frequency
+12744,WILLOW GLEN DR & PIMLICO RD eb,localbus,15.2,Moderate Frequency
+12757,TANEY RD & BARTOL AVE sb,localbus,25.4,Low Frequency
+12758,TANEY RD & BAYWOOD AVE sb,localbus,25.4,Low Frequency
+6009,CROSS COUNTRY BLVD & TANEY RD fs,localbus,25.4,Low Frequency
+6011,CROSS COUNTRY BLVD & BANCROFT RD fs,localbus,25.2,Low Frequency
+6012,CROSS COUNTRY BLVD & CLARKS LN,localbus,25.2,Low Frequency
+4844,PIMLICO RD & KEN OAK RD fs sb,localbus,37.6,Infrequent
+4845,KEN OAK RD & GREENSPRING AVE eb,localbus,37.5,Infrequent
+10910,CROSS COUNTRY BLVD & SULGRAVE AVE nb,localbus,37.6,Infrequent
+10883,CROSS COUNTRY BLVD & CHILHAM RD nb,localbus,37.5,Infrequent
+14033,CROSS COUNTRY BLVD & KELLY AV nb ns,localbus,37.5,Infrequent
+4850,2021 KELLY AVE eb,localbus,37.5,Infrequent
+4853,KELLY AVE & SULGRAVE AVE eb,localbus,37.5,Infrequent
+4857,FALLS RD & NORTHERN PKWYsb,localbus,37.5,Infrequent
+4859,FALLS RD & EDGEVALE RD MB sb,localbus,37.5,Infrequent
+4860,FALLS RD & CROSS KEYS BLVD fs sb,localbus,37.5,Infrequent
+4861,FALLS RD & HARVEST RD sb,localbus,37.5,Infrequent
+12732,FALLS RD & HAMILL RD sb,localbus,37.5,Infrequent
+10911,FALLS RD & HILLSIDE RD fs sb,localbus,37.5,Infrequent
+315,FALLS RD & COLD SPRING LN sb,localbus,36.4,Infrequent
+317,FALLS RD & ROLAND HEIGHTS AVE sb,localbus,38.8,Infrequent
+319,FALLS RD & 41ST ST sb,localbus,38.8,Infrequent
+10912,FALLS RD & COX ST sb,localbus,38.8,Infrequent
+4872,FALLS RD & UNION AVE sb,localbus,38.8,Infrequent
+12708,36TH ST & FALLS RD fs eb,localbus,38.8,Infrequent
+4896,HOWARD ST & 23RD ST sb,localbus,38.8,Infrequent
+4898,HOWARD ST & 21ST ST sb,localbus,38.8,Infrequent
+4899,HOWARD ST & NORTH AVE sb,localbus,38.8,Infrequent
+4900,HOWARD ST & JOHN ST sb,localbus,38.9,Infrequent
+4903,HOWARD ST & READ ST fs sb,localbus,38.8,Infrequent
+4904,HOWARD ST & MADISON ST sb,localbus,38.9,Infrequent
+74,Charles St & Hill St,localbus,40.2,Infrequent
+77,Hanover St & Cross St,localbus,40.2,Infrequent
+79,Hanover St & Ostend St,localbus,40.2,Infrequent
+80,Hanover St & Clement St,localbus,40.2,Infrequent
+81,Fort Ave & Charles St,localbus,40.2,Infrequent
+82,Fort Ave & Light St,localbus,40.2,Infrequent
+84,Fort Ave & Riverside Ave,localbus,40.2,Infrequent
+86,Fort Ave & Jackson St,localbus,40.2,Infrequent
+89,Fort Ave & Lawrence St,localbus,40.2,Infrequent
+91,Fort Ave & Woodall St,localbus,40.2,Infrequent
+93,Fort Ave & Decatur St,localbus,37.6,Infrequent
+95,Fort Ave & Andre St,localbus,40.2,Infrequent
+97,Fort McHenry,localbus,20.4,Low Frequency
+99,Fort Ave & Andre St,localbus,40.2,Infrequent
+102,Fort Ave & Decatur St,localbus,37.6,Infrequent
+104,Fort Ave & Woodall St,localbus,37.6,Infrequent
+105,Fort Ave & Lawrence St,localbus,37.6,Infrequent
+108,Fort Ave & Jackson St,localbus,37.6,Infrequent
+110,Fort Ave & Riverside Ave,localbus,37.6,Infrequent
+112,Fort Ave & Light St,localbus,37.6,Infrequent
+5003,HOWARD ST & PRESTON ST fs nb,localbus,40.2,Infrequent
+4070,DOLPHIN ST & HOWARD ST fs wb,localbus,38.9,Infrequent
+5005,HOWARD ST & NORTH AVE nb,localbus,37.6,Infrequent
+5006,HOWARD ST & 20TH ST nb,localbus,40.2,Infrequent
+5009,HOWARD ST & 23RD ST nb,localbus,40.2,Infrequent
+5011,HOWARD ST & 25TH ST,localbus,40.2,Infrequent
+5012,HOWARD ST & 26TH ST nb,localbus,40.2,Infrequent
+5031,36TH ST & FALLS RD wb,localbus,40.2,Infrequent
+5032,FALLS RD & 37TH ST nb,localbus,40.2,Infrequent
+4871,FALLS RD & MORLING AVE opp nb,localbus,40.2,Infrequent
+5034,FALLS RD & 41ST ST nb,localbus,40.2,Infrequent
+5035,FALLS RD & 42ND ST nb,localbus,40.2,Infrequent
+5037,FALLS RD & WOOD HEIGHTS AVE nb,localbus,40.2,Infrequent
+5038,FALLS RD & COLDSPRING LAnb,localbus,40.2,Infrequent
+5040,FALLS RD & SPATHS LAnb,localbus,40.2,Infrequent
+4863,FALLS RD & HILLSIDE RD fs nb,localbus,40.2,Infrequent
+5041,FALLS RD & CROSS KEYS opp nb,localbus,40.2,Infrequent
+10908,FALLS RD & HARVEST RD nb,localbus,40.2,Infrequent
+5042,FALLS RD & ELMWOOD RD fs nb,localbus,40.2,Infrequent
+5043,FALLS RD & ENGLEWOOD RD nb,localbus,40.2,Infrequent
+5044,FALLS RD & FALLS ROAD TERR nb,localbus,40.2,Infrequent
+5052,KELLY AVE & POPLIN AVE wb,localbus,38.9,Infrequent
+5054,CROSS COUNTRY BLVD & CHILHAM RD sb,localbus,38.9,Infrequent
+4847,CROSS COUNTRY BLVD & SULGRAVE AVE sb,localbus,38.9,Infrequent
+5057,KEN OAK RD & GREENSPRING AVE wb,localbus,38.9,Infrequent
+12665,PIMLICO RD & ROGERS AVE sb,localbus,38.9,Infrequent
+12459,DUE FORT AVE & DECATUR ST eb,localbus,5.0,High Frequency
+6654,ROLAND AVE & BELLMORE RD fs sb,localbus,16.5,Moderate Frequency
+6655,ROLAND AVE & MELROSE AVE sb,localbus,30.0,Low Frequency
+6656,ROLAND AVE & ST GEORGE RD fs sb,localbus,30.0,Low Frequency
+6657,ROLAND AVE & NORTHERN PKWY fs sb,localbus,30.0,Low Frequency
+6658,ROLAND AVE & ST MARY'S SEMINARY sb,localbus,30.0,Low Frequency
+6660,ROLAND AVE & DEEPDENE RD sb,localbus,29.9,Low Frequency
+10953,ROLAND AVE & BEECHDALE RD sb,localbus,29.9,Low Frequency
+6663,ROLAND AVE & UPLAND RD sb,localbus,28.1,Low Frequency
+6665,ROLAND AVE & OAKDALE RD sb,localbus,28.1,Low Frequency
+6667,ROLAND AVE & COLDSPRING LN sb,localbus,28.1,Low Frequency
+6674,ROLAND AVE & SOMERSET RD opp sb,localbus,28.1,Low Frequency
+482,SAINT PAUL ST & 31ST ST sb,localbus,12.3,Moderate Frequency
+483,SAINT PAUL ST & 29TH ST sb,localbus,12.3,Moderate Frequency
+484,SAINT PAUL ST & 27TH ST sb,localbus,12.2,Moderate Frequency
+486,SAINT PAUL ST & 25TH ST sb,localbus,12.3,Moderate Frequency
+488,SAINT PAUL ST & 22ND ST sb,localbus,12.9,Moderate Frequency
+493,SAINT PAUL ST & PENN STATION fs sb,localbus,8.1,High Frequency
+494,SAINT PAUL ST & PRESTON ST sb,localbus,7.8,High Frequency
+495,SAINT PAUL ST & BIDDLE ST fs sb,localbus,7.8,High Frequency
+507,SAINT PAUL ST between CHASE ST & EAGER ST sb,localbus,8.0,High Frequency
+509,SAINT PAUL ST & MADISON ST sb,localbus,7.5,High Frequency
+511,SAINT PAUL ST between MONUMENT ST & CENTRE ST sb,localbus,7.9,High Frequency
+512,SAINT PAUL PL & MULBERRY ST mb sb,localbus,7.9,High Frequency
+514,SAINT PAUL PL & SARATOGA ST sb,localbus,7.9,High Frequency
+515,SAINT PAUL PL & LEXINGTON ST sb,localbus,7.5,High Frequency
+6709,UNIVERSITY PKWY & SOMERSET RD nb,localbus,28.6,Low Frequency
+5029,ROLAND AVE & COLD SPRING LN fs nb,localbus,28.5,Low Frequency
+6711,ROLAND AVE & OAKDALE RD nb,localbus,28.6,Low Frequency
+6713,ROLAND AVE & UPLAND RD nb,localbus,28.6,Low Frequency
+6715,ROLAND AVE & WYNDHURST AVE nb,localbus,28.6,Low Frequency
+6717,ROLAND AVE & COLORADO AVE nb,localbus,28.5,Low Frequency
+1544,ROLAND AVE & GILMAN SCHOOL nb,localbus,30.6,Infrequent
+6649,ROLAND AVE & NORTHERN PKWY nb,localbus,30.5,Infrequent
+6650,ROLAND AVE & ST GEORGE RD nb,localbus,30.6,Infrequent
+6651,ROLAND AVE & MELROSE AVE nb,localbus,30.5,Infrequent
+8995,LOCH RAVEN BLVD & WALKER AVE fs sb,localbus,9.5,High Frequency
+440,LOCH RAVEN BLVD & MERIDENE DR sb,localbus,9.5,High Frequency
+449,LOCH RAVEN BLVD & NORTHERN PKWY sb,localbus,9.4,High Frequency
+453,LOCH RAVEN BLVD & BELVEDERE AVE sb,localbus,16.9,Moderate Frequency
+455,LOCH RAVEN BLVD & WOODBOURNE AVE sb,localbus,16.9,Moderate Frequency
+456,LOCH RAVEN BLVD & HARTSDALE RD sb,localbus,16.9,Moderate Frequency
+458,LOCH RAVEN BLVD & KITMORE RD sb,localbus,16.9,Moderate Frequency
+5811,LOCH RAVEN BLVD & COLDSPRING LN sb,localbus,16.9,Moderate Frequency
+464,LOCH RAVEN BLVD & MARBLE HALL RD sb,localbus,16.9,Moderate Frequency
+465,LOCH RAVEN BLVD & HAVENWOOD RD sb,localbus,16.9,Moderate Frequency
+467,LOCH RAVEN BLVD & GREENDALE RD fs sb,localbus,10.8,Moderate Frequency
+564,LOCH RAVEN BLVD & GREENDALE RD nb,localbus,10.3,Moderate Frequency
+566,LOCH RAVEN BLVD & HAVENWOOD RD nb,localbus,10.2,Moderate Frequency
+567,LOCH RAVEN BLVD & NORTHWICK RD nb,localbus,10.4,Moderate Frequency
+572,LOCH RAVEN BLVD & KITMORE RD nb,localbus,16.0,Moderate Frequency
+573,LOCH RAVEN BLVD & WINFORD RD nb,localbus,16.0,Moderate Frequency
+577,LOCH RAVEN BLVD & WOODBOURNE AVE nb,localbus,16.0,Moderate Frequency
+579,LOCH RAVEN BLVD & BELVEDERE AVE nb,localbus,15.7,Moderate Frequency
+583,LOCH RAVEN BLVD & NORTHERN PKWY nb,localbus,16.2,Moderate Frequency
+919,CEDONIA AVE & BAYONNE AVE opp,localbus,8.1,High Frequency
+12334,CEDONIA AVE & HAZELWOOD SWIM CLUB wb,localbus,15.5,Moderate Frequency
+921,CEDONIA AVE & WHITBY RD mid sb,localbus,15.3,Moderate Frequency
+923,CEDONIA AVE & RADECKE AVE fs sb,localbus,15.3,Moderate Frequency
+925,SINCLAIR LN & CEDGATE RD wb,localbus,15.3,Moderate Frequency
+911,SINCLAIR LN & GARDENVILLAGE APARTMENTS wb,localbus,15.3,Moderate Frequency
+926,SINCLAIR LN & SINCLAIR PLAZA wb,localbus,15.3,Moderate Frequency
+14132,BALTIMORE ARENA BAY 1,localbus,12.4,Moderate Frequency
+907,SINCLAIR LN & PARKSIDE PLAZA eb,localbus,16.0,Moderate Frequency
+908,SINCLAIR LN & GOODNOW fs eb,localbus,17.5,Moderate Frequency
+909,SINCLAIR LN & FRANKFORD AVE eb,localbus,15.8,Moderate Frequency
+12672,SINCLAIR LA & SINCLAIR PLAZA,localbus,15.8,Moderate Frequency
+12331,SINCLAIR LN & CEDGATE RD,localbus,15.8,Moderate Frequency
+912,CEDONIA & DAYWALT fs nb,localbus,15.8,Moderate Frequency
+913,CEDONIA AVE & RADECKE AVE fs nb,localbus,15.8,Moderate Frequency
+915,CEDONIA AVE & WHITBY RD nb,localbus,15.8,Moderate Frequency
+12306,CEDONIA AVE & HAZELWOOD CIR opp,localbus,15.8,Moderate Frequency
+3146,BELAIR RD & FLEETWOOD AVE sb,localbus,15.0,Moderate Frequency
+3150,BELAIR RD & GLENMORE AVE sb,localbus,14.8,Moderate Frequency
+3153,BELAIR RD & CENTURY RD sb,localbus,14.8,Moderate Frequency
+12460,BELAIR RD & GARDENVILLE LOOP sb,localbus,25.8,Low Frequency
+3170,BELAIR RD & MORAVIA RD sb,localbus,15.0,Moderate Frequency
+3179,BELAIR RD & ERDMAN AVE sb,localbus,15.2,Moderate Frequency
+3188,BELAIR RD & NORTH AVE sb,localbus,15.2,Moderate Frequency
+13748,GAY ST & MONTFORD AVE nb,localbus,15.0,Moderate Frequency
+3078,BELAIR RD & ERDMAN AVE nb,localbus,14.7,Moderate Frequency
+3100,BELAIR RD & CENTURY RD opp nb,localbus,14.9,Moderate Frequency
+3101,BELAIR RD & PARKMONT AVE nb,localbus,15.3,Moderate Frequency
+3107,BELAIR RD & FLEETWOOD AVE opp nb,localbus,14.8,Moderate Frequency
+7524,HOWARD ST & PRATT ST fs nb,localbus,15.0,Moderate Frequency
+2067,HOWARD ST & REDWOOD ST opp nb,localbus,15.0,Moderate Frequency
+2069,HOWARD ST & FAYETTE ST nb,localbus,26.5,Low Frequency
+2936,HOWARD ST & LEXINGTON ST nb,localbus,26.5,Low Frequency
+2072,HOWARD ST & SARATOGA ST mid nb,localbus,26.5,Low Frequency
+2073,HOWARD ST & FRANKLIN ST nb,localbus,26.5,Low Frequency
+2074,HOWARD ST & CENTRE ST nb,localbus,26.5,Low Frequency
+2664,WOLFE ST & MCELDERRY ST fs,localbus,11.5,Moderate Frequency
+972,MADISON ST & BOND ST wb,localbus,20.1,Low Frequency
+1001,MADISON ST & CENTRAL AVE wb,localbus,20.1,Low Frequency
+7529,HOWARD ST & CAMDEN ST sb,localbus,23.6,Low Frequency
+14133,BALTIMORE ARENA BAY 2,localbus,13.7,Moderate Frequency
+11408,PRESIDENT ST & EASTERN AVE sb,localbus,31.0,Infrequent
+11411,FLEET ST & EXETER ST eb,localbus,31.0,Infrequent
+11409,FLEET ST & CAROLINE ST eb,localbus,31.0,Infrequent
+9486,CAROLINE ST & EASTERN AVE fs sb,localbus,15.3,Moderate Frequency
+12377,FLEET ST & ALBEMARLE ST wb,localbus,27.3,Low Frequency
+11420,President St & Fawn St,localbus,27.3,Low Frequency
+10544,FRANKLIN ST & PULASKI ns wb,localbus,27.3,Low Frequency
+1014,EUTAW ST & MULBERRY ST fs nb,localbus,9.4,High Frequency
+13664,HOWARD ST & PRATT ST ns (CONVENTION CENTER),localbus,28.8,Low Frequency
+10534,Baltimore St & President St,localbus,7.9,High Frequency
+12624,Baltimore St & Exeter St,localbus,7.7,High Frequency
+3740,Baltimore St & Aisquith St,localbus,7.7,High Frequency
+4463,Central Ave & Fayette St,localbus,8.0,High Frequency
+4655,Fayette St & Caroline St,localbus,8.0,High Frequency
+4470,Fayette St & Wolfe St,localbus,7.8,High Frequency
+4472,FAYETTE ST & CHESTER eb,localbus,7.7,High Frequency
+4474,Fayette St & Patterson Park Ave,localbus,7.7,High Frequency
+4475,Fayette St & Montford Ave,localbus,7.8,High Frequency
+4476,Fayette St & Milton Ave,localbus,7.7,High Frequency
+10899,FAYETTE ST & LINWOOD AVE eb,localbus,7.8,High Frequency
+4481,FAYETTE ST & ELLWOOD AVE fs eb,localbus,8.6,High Frequency
+10765,MASON LORD DR & BAYVIEW MED OFFICES,localbus,14.6,Moderate Frequency
+13783,LOMBARD ST & BIOSCIENCE DR fs wb,localbus,8.0,High Frequency
+2026,EASTERN AVE & BAYVIEW BLVD fs wb,localbus,15.5,Moderate Frequency
+4641,Fayette St & Ellwood Ave,localbus,7.6,High Frequency
+4643,Fayette St & Linwood Ave,localbus,7.6,High Frequency
+4646,Fayette St & Rose St,localbus,7.7,High Frequency
+4647,Fayette St & Montford Ave,localbus,7.6,High Frequency
+4648,Fayette St & Patterson Park Ave,localbus,7.6,High Frequency
+4649,Fayette St & Chester St,localbus,7.7,High Frequency
+4652,Fayette St & Wolfe St,localbus,7.7,High Frequency
+998,Fayette St & Caroline St,localbus,7.6,High Frequency
+4657,Fayette St & Central Ave,localbus,7.7,High Frequency
+3894,Fayette St & Aisquith St,localbus,7.5,High Frequency
+3897,Fayette St & Front St,localbus,7.4,High Frequency
+4681,FRANKLIN ST & WARWICK AVE wb,localbus,15.8,Moderate Frequency
+6245,DUE COVINGTON,localbus,2.5,High Frequency
+2173,MARYLAND AVE & MT. ROYAL,localbus,5.0,High Frequency
+3147,BELAIR RD & KENWOOD AVE sb,localbus,16.2,Moderate Frequency
+3151,BELAIR RD & SPRINGWOOD AVE opp sb,localbus,16.2,Moderate Frequency
+3152,BELAIR RD & PARKMONT AVE sb,localbus,16.2,Moderate Frequency
+3154,BELAIR RD & GLENARM AVE sb,localbus,16.2,Moderate Frequency
+3155,BELAIR RD & KINSWAY sb,localbus,16.2,Moderate Frequency
+3157,BELAIR RD & HAMILTON AVE sb,localbus,16.5,Moderate Frequency
+3172,BELAIR RD & NICHOLAS AVE sb,localbus,16.5,Moderate Frequency
+3173,BELAIR RD & PARKSIDE DR fs sb,localbus,16.5,Moderate Frequency
+3175,BELAIR RD & CHESTERFIELD AVE sb,localbus,16.5,Moderate Frequency
+3176,BELAIR RD & BRENDAN AVE sb,localbus,16.5,Moderate Frequency
+10463,BELAIR RD & CLIFTMONT AVE opp sb,localbus,16.5,Moderate Frequency
+3181,BELAIR RD & SHOPPING CENTER opp sb,localbus,16.2,Moderate Frequency
+3182,BELAIR & ELMLEY opp sb,localbus,16.5,Moderate Frequency
+3186,BELAIR RD & SINCLAIR LN sb,localbus,16.5,Moderate Frequency
+3189,GAY ST & PATTERSON PARK AVE sb,localbus,16.9,Moderate Frequency
+3190,GAY & COLLINGTON sb,localbus,16.9,Moderate Frequency
+3191,GAY ST & CHESTER ST sb,localbus,16.7,Moderate Frequency
+3192,GAY ST & OLIVER ST sb,localbus,16.9,Moderate Frequency
+3194,GAY ST & N WOLFE ST sb,localbus,16.9,Moderate Frequency
+3196,BROADWAY & BIDDLE ST fs sb,localbus,16.7,Moderate Frequency
+3197,BROADWAY & CHASE fs sb,localbus,16.7,Moderate Frequency
+13340,BROADWAY & ASHLAND sb,localbus,16.9,Moderate Frequency
+14028,N BROADWAY SB & MONUMENT STns,localbus,16.6,Moderate Frequency
+13803,BROADWAY & FAYETTE ST sb,localbus,16.9,Moderate Frequency
+14160,BROADWAY & BALTIMORE ST sb ns,localbus,16.9,Moderate Frequency
+14159,BROADWAY & LOMBARD ST nb ns,localbus,17.0,Moderate Frequency
+13800,BROADWAY & FAYETTE fs nb,localbus,17.0,Moderate Frequency
+13797,BROADWAY & MONUMENT ST nb,localbus,16.7,Moderate Frequency
+13798,BROADWAY & MADISON ST fs nb,localbus,16.7,Moderate Frequency
+3059,BROADWAY & EAGER ST eb,localbus,16.7,Moderate Frequency
+3061,GAY & BIDDLE nb,localbus,16.8,Moderate Frequency
+14193,GAY ST & N WOLFE ST,localbus,16.8,Moderate Frequency
+3063,GAY ST & WASHINGTON ST nb,localbus,16.7,Moderate Frequency
+3064,GAY ST & CHESTER ST nb,localbus,16.8,Moderate Frequency
+3065,GAY ST & LANVALE ST nb,localbus,16.8,Moderate Frequency
+3066,GAY ST & PATTERSON PARK AVE nb,localbus,16.8,Moderate Frequency
+3069,BELAIR RD & SINCLAIR LN nb,localbus,16.5,Moderate Frequency
+3071,BELAIR RD & RAVENWOOD AVE nb,localbus,16.3,Moderate Frequency
+3073,BELAIR RD & ELMLEY AVE nb,localbus,16.3,Moderate Frequency
+3074,BELAIR RD & BELAIR-EDISON CROSSING nb,localbus,16.3,Moderate Frequency
+3075,BELAIR RD & CLIFTMONT AVE nb,localbus,16.3,Moderate Frequency
+3080,BELAIR RD & BRENDAN AVE nb,localbus,16.3,Moderate Frequency
+3081,BELAIR RD & CHESTERFIELD AVE nb,localbus,16.4,Moderate Frequency
+3083,BELAIR RD & PARKSIDE DR nb,localbus,16.4,Moderate Frequency
+3084,BELAIR RD & NICHOLAS AVE fs nb,localbus,16.3,Moderate Frequency
+8915,BELAIR RD & STANWOOD AVE nb,localbus,16.4,Moderate Frequency
+3096,BELAIR RD & ARIZONA AVE nb,localbus,16.6,Moderate Frequency
+3097,BELAIR RD & HAMILTON AVE nb,localbus,16.6,Moderate Frequency
+3098,BELAIR RD & WHITE AVE fs nb,localbus,16.6,Moderate Frequency
+3099,BELAIR RD & GLENARM AVE nb,localbus,16.6,Moderate Frequency
+3102,BELAIR RD & RASPE AVE nb,localbus,16.6,Moderate Frequency
+3103,BELAIR RD & GLENMORE AVE nb,localbus,16.6,Moderate Frequency
+7129,BELAIR RD & KENWOOD AVE nb,localbus,16.3,Moderate Frequency
+10446,BOSTON ST & ELLWOOD AVE wb,localbus,35.6,Infrequent
+10447,BOSTON ST & KENWOOD AVE wb,localbus,35.6,Infrequent
+10448,BOSTON ST & O'DONNELLST wb,localbus,35.6,Infrequent
+12309,BOSTON ST & THE CAN COwb,localbus,35.6,Infrequent
+12308,BOSTON ST & MONTFORD AVE wb,localbus,35.6,Infrequent
+11415,FLEET ST & CHESTER ST fs wb,localbus,35.6,Infrequent
+2435,WASHINGTON ST & EASTERN AVE nb,localbus,35.6,Infrequent
+2464,WASHINGTON ST & GOUGH nb,localbus,35.6,Infrequent
+2465,WASHINGTON ST & PRATT ST nb,localbus,35.6,Infrequent
+10571,WASHINGTON ST & FAYETTE ST nb,localbus,35.6,Infrequent
+2468,WASHINGTON ST & ORLEANS ST nb,localbus,35.6,Infrequent
+12310,WASHINGTON ST & MONUMENT ST nb,localbus,35.6,Infrequent
+2470,WASHINGTON ST & MADISON ST nb,localbus,35.6,Infrequent
+12501,NORTH AVE & HARFORD RD wb,localbus,12.6,Moderate Frequency
+2485,NORTH AVE & AISQUITH ST fs wb,localbus,12.7,Moderate Frequency
+2488,NORTH AVE & HOMEWOOD AVE wb,localbus,12.7,Moderate Frequency
+2639,NORTH AVE & GREENMOUNT AVE fs wb,localbus,7.9,High Frequency
+2492,NORTH AVE & GUILFORD AVE wb,localbus,7.6,High Frequency
+2494,NORTH AVE & SAINT PAUL ST fs wb,localbus,12.7,Moderate Frequency
+2496,NORTH AVE & MARYLAND AVE wb,localbus,12.7,Moderate Frequency
+12557,NORTH AVE & HOWARD ST wb,localbus,12.7,Moderate Frequency
+2499,NORTH AVE & NORTH AVE LIGHT RAIL STATION wb,localbus,12.9,Moderate Frequency
+2509,NORTH AVE & FULTON AVE wb,localbus,12.2,Moderate Frequency
+2511,NORTH AVE & PAYSON ST wb,localbus,12.2,Moderate Frequency
+2513,NORTH AVE & SMALLWOOD wb,localbus,12.3,Moderate Frequency
+2514,NORTH AVE & BENTALOU ST wb,localbus,12.3,Moderate Frequency
+2527,EDGEWOOD ST & WALBROOK AVE opp wb,localbus,12.6,Moderate Frequency
+14145,NORTH AVE & DENISON ST layover eb ns,localbus,12.6,Moderate Frequency
+9576,PATTERSON PARK AVE & LANVALE sb,localbus,9.5,High Frequency
+866,FEDERAL & MONTFORD eb,localbus,18.7,Moderate Frequency
+2457,MILTON & FEDERAL fs nb,localbus,18.8,Moderate Frequency
+2459,MILTON AVE & NORTH AVE nb ns,localbus,18.8,Moderate Frequency
+8602,NORTH AVE & BELAIR fs wb,localbus,18.8,Moderate Frequency
+2461,NORTH AVE & PATTERSON PARK wb,localbus,19.1,Moderate Frequency
+2462,NORTH AVE & COLLINGTON wb,localbus,18.8,Moderate Frequency
+8603,NORTH AVE & WASHINGTON ST wb,localbus,19.1,Moderate Frequency
+2615,NORTH AVE & BENTALOU ST eb,localbus,12.7,Moderate Frequency
+2618,NORTH AVE & PAYSON ST eb,localbus,12.6,Moderate Frequency
+2620,NORTH AVE & FULTON AVE eb,localbus,12.3,Moderate Frequency
+2623,NORTH AVE & PENNSYLVANIA AVE eb,localbus,12.0,Moderate Frequency
+2628,NORTH AVE & MOUNT ROYAL AVE eb,localbus,12.0,Moderate Frequency
+2629,NORTH AVE & NORTH AVE LIGHT RAIL STATION opp eb,localbus,12.0,Moderate Frequency
+12302,NORTH AVE & HOWARD ST fs eb,localbus,12.0,Moderate Frequency
+2633,NORTH AVE & CHARLES ST eb,localbus,12.0,Moderate Frequency
+12301,NORTH AVE & SAINT PAUL ST eb,localbus,7.6,High Frequency
+2489,NORTH AVE & GREENMOUNT AVE eb,localbus,12.0,Moderate Frequency
+2641,NORTH AVE & HOMEWOOD AVE opp eb,localbus,11.9,Moderate Frequency
+2643,NORTH AVE & AISQUITH ST eb,localbus,11.9,Moderate Frequency
+8625,NORTH AVE & WASHINGTON ST eb,localbus,18.9,Moderate Frequency
+2676,NORTH AVE & CHESTER eb,localbus,18.9,Moderate Frequency
+2678,NORTH AVE & PATTERSON PARK eb,localbus,18.9,Moderate Frequency
+2662,WOLFE ST & MONUMENT ST fs sb,localbus,30.8,Infrequent
+2666,WOLFE ST & ORLEANS sb,localbus,30.8,Infrequent
+10577,WOLFE ST & FAYETTE ST sb,localbus,30.8,Infrequent
+2669,WOLFE ST & BALTIMORE sb,localbus,30.8,Infrequent
+2670,WOLFE ST & LOMBARD ST sb,localbus,30.8,Infrequent
+2671,WOLFE ST & PRATT ST sb,localbus,30.8,Infrequent
+2672,WOLFE ST & GOUGH sb,localbus,30.8,Infrequent
+2674,WOLFE ST & EASTERN AVE sb,localbus,30.8,Infrequent
+11418,FLEET ST & WOLFE ST eb,localbus,30.8,Infrequent
+11414,BOSTON ST & ALICEANNA ST eb,localbus,30.8,Infrequent
+10431,BOSTON ST & MONTFORD AVE eb,localbus,30.8,Infrequent
+10432,BOSTON ST & O'DONNELL ST eb,localbus,30.8,Infrequent
+10433,BOSTON ST & KENWOOD AVE eb,localbus,30.9,Infrequent
+10434,BOSTON ST & ELLWOOD AVE eb,localbus,30.9,Infrequent
+12697,BOSTON ST & CLINTON ST eb,localbus,30.9,Infrequent
+450,LOCH RAVEN BLVD & SHERWOOD AVE sb,localbus,18.0,Moderate Frequency
+451,LOCH RAVEN BLVD & GLENEAGLE RD fs sb,localbus,18.0,Moderate Frequency
+454,LOCH RAVEN BLVD & LOCHNER RD sb,localbus,18.0,Moderate Frequency
+461,LOCH RAVEN BLVD & PENTRIDGE RD fs sb,localbus,18.0,Moderate Frequency
+466,LOCH RAVEN & ARGONNE sb,localbus,18.0,Moderate Frequency
+468,THE ALAMEDA & 36TH ST sb,localbus,11.4,Moderate Frequency
+565,LOCH RAVEN & ARGONNE nb,localbus,10.8,Moderate Frequency
+8996,LOCH RAVEN BLVD & COLD SPRING LA nb,localbus,10.8,Moderate Frequency
+571,LOCH RAVEN BLVD & PENTRIDGE RD fs nb,localbus,17.4,Moderate Frequency
+578,LOCH RAVEN BLVD & LOCHNER RD fs nb,localbus,17.2,Moderate Frequency
+581,LOCH RAVEN & GLENEAGLE nb,localbus,17.2,Moderate Frequency
+582,LOCH RAVEN BLVD & SHERWOOD AVE nb,localbus,17.2,Moderate Frequency
+9255,LIBERTY HEIGHTS AVE & ROGERS AVE sb,localbus,14.4,Moderate Frequency
+5127,LIBERTY HEIGHTS AVE & MILFORD AVE sb,localbus,14.4,Moderate Frequency
+5129,LIBERTY HTS & HOWARD PARK AVE sb,localbus,14.5,Moderate Frequency
+5168,LIBERTY HEIGHTS AVE & GARRISON BLVD sb,localbus,14.5,Moderate Frequency
+32,Reisterstown Rd & Windsor Ave,localbus,33.2,Infrequent
+1236,PENNSYLVANIA AVE & RETREAT ST sb,localbus,33.2,Infrequent
+1237,PENNSYLVANIA AVE & NORTH AVE sb,localbus,33.2,Infrequent
+1238,PENNSYLVANIA AVE & CUMBERLAND ST sb,localbus,33.2,Infrequent
+1244,PENNSYLVANIA AVE & PRESSTMAN ST sb,localbus,33.2,Infrequent
+1245,PENNSYLVANIA AVE & LAURENS ST fs sb,localbus,33.2,Infrequent
+10477,PENNSYLVANIA AVE & MOSHER ST sb,localbus,33.2,Infrequent
+13838,BIDDLE ST & GUILFORD AVE eb,localbus,34.2,Infrequent
+3757,BIDDLE ST & GREENMOUNT AVE eb,localbus,34.2,Infrequent
+4021,BIDDLE ST & VALLEY ST eb,localbus,34.2,Infrequent
+9480,BIDDLE ST & HARFORD RD eb,localbus,34.2,Infrequent
+8564,BIDDLE ST & CAROLINE AVE eb,localbus,34.2,Infrequent
+4028,CAROLINE ST & MADISON ST sb,localbus,34.2,Infrequent
+4029,CAROLINE ST & MONUMENT ST sb,localbus,34.2,Infrequent
+10548,CAROLINE ST & FAYETTE ST sb,localbus,34.2,Infrequent
+4034,CAROLINE ST & LOMBARD ST fs sb,localbus,34.2,Infrequent
+4035,CAROLINE ST & PRATT ST sb,localbus,34.2,Infrequent
+4036,CAROLINE ST & GOUGH ST fs sb,localbus,34.2,Infrequent
+8554,FULTON AVE & REISTERSTOWN RD fs nb,localbus,24.3,Low Frequency
+1367,PENNSYLVANIA AVE& CLIFTON AVE nb,localbus,13.0,Moderate Frequency
+4039,CAROLINE ST & GOUGH ST nb,localbus,33.7,Infrequent
+4040,CAROLINE ST & PRATT ST nb,localbus,33.8,Infrequent
+4044,CAROLINE ST & BALTIMORE ST nb,localbus,32.6,Infrequent
+10550,CAROLINE ST & FAYETTE ST fs nb,localbus,32.6,Infrequent
+4048,CAROLINE ST & MONUMENT ST fs nb,localbus,32.6,Infrequent
+4050,CAROLINE ST & MADISON ST nb,localbus,32.6,Infrequent
+4053,CAROLINE ST & BIDDLE ST nb,localbus,32.6,Infrequent
+10815,PRESTON ST & CAROLINE ST wb fs,localbus,32.6,Infrequent
+4057,PRESTON ST & HARFORD RD fs wb,localbus,32.6,Infrequent
+4060,PRESTON ST & VALLEY ST wb,localbus,32.6,Infrequent
+4062,PRESTON ST & GREENMOUNT AVE fs wb,localbus,32.6,Infrequent
+13834,PRESTON ST & GUILFORD ST ns wb,localbus,32.6,Infrequent
+4077,DOLPHIN ST & PENNSYLVANIA AVE sb,localbus,11.0,Moderate Frequency
+1247,PENNSYLVANIA AVE & MOSHER ST nb,localbus,31.7,Infrequent
+1357,PENNSYLVANIA AVE& LAURENS ST nb,localbus,31.7,Infrequent
+1359,PENNSYLVANIA AVE & PRESSTMAN ST nb,localbus,31.7,Infrequent
+1364,PENNSYLVANIA AVE & CUMBERLAND ST nb,localbus,31.7,Infrequent
+1365,PENNSYLVANIA AVE & NORTH AVE nb,localbus,31.7,Infrequent
+13833,LIBERTY HEIGHTS AVE & REISTERSTOWN RD fs wb,localbus,14.7,Moderate Frequency
+5252,LIBERTY HT & AYRDALE AVEwb,localbus,14.3,Moderate Frequency
+5253,LIBERTY HEIGHTS AVE & GARRISON BLVD nwb,localbus,14.3,Moderate Frequency
+5289,LIBERTY HTS & HOWARD PARK AVE nb,localbus,14.5,Moderate Frequency
+5291,LIBERTY HEIGHTS AVE & MILFORD AVE nb,localbus,14.3,Moderate Frequency
+7282,LIBERTY HEIGHTS AVE & ROGERS AVE nb,localbus,14.3,Moderate Frequency
+3838,Boston St & Dundalk Ave,localbus,15.4,Moderate Frequency
+3840,Boston St & Gusryan St,localbus,15.4,Moderate Frequency
+3859,Boston St & Anglesea St,localbus,15.4,Moderate Frequency
+3861,O'Donnell St Cutoff & Travel Center,localbus,15.4,Moderate Frequency
+1307,Conkling St & Dillon St,localbus,15.4,Moderate Frequency
+2037,Eastern Ave & Highland Ave,localbus,13.7,Moderate Frequency
+2039,Eastern Ave & East Ave,localbus,13.7,Moderate Frequency
+2042,Eastern Ave & Linwood Ave,localbus,13.7,Moderate Frequency
+2045,Eastern Ave & Luzerne Ave,localbus,13.7,Moderate Frequency
+2047,Eastern Ave & Patterson Park Ave,localbus,13.7,Moderate Frequency
+12237,Eastern Ave & Chester St,localbus,13.7,Moderate Frequency
+2049,Eastern Ave & Washington St,localbus,13.7,Moderate Frequency
+2050,Eastern Ave & Wolfe St,localbus,13.7,Moderate Frequency
+2053,Eastern Ave & Broadway,localbus,13.7,Moderate Frequency
+13815,Eastern Ave & Caroline St,localbus,13.7,Moderate Frequency
+14161,Eastern Ave & Albemarle St,localbus,13.7,Moderate Frequency
+14283,CAREY ST & HOLLINS SB ns,localbus,13.9,Moderate Frequency
+136,Carey St & Mulberry St,localbus,13.9,Moderate Frequency
+137,Carey St & Franklin St,localbus,13.9,Moderate Frequency
+138,Carey St & Edmondson Ave,localbus,13.9,Moderate Frequency
+140,Carey St & Lanvale St,localbus,13.9,Moderate Frequency
+141,Carey St & Lafayette Ave,localbus,13.9,Moderate Frequency
+12180,Riggs Ave & Carey St,localbus,13.9,Moderate Frequency
+145,Riggs Ave & Gilmor St,localbus,13.9,Moderate Frequency
+4093,Gilmor St & Winchester St,localbus,13.9,Moderate Frequency
+4094,Gilmor St & Lauren St,localbus,13.9,Moderate Frequency
+4096,Gilmor St & Presstman St,localbus,13.4,Moderate Frequency
+151,Fulton Ave & Baker St,localbus,13.4,Moderate Frequency
+152,Fulton Ave & Presbury St,localbus,13.4,Moderate Frequency
+153,Fulton Ave & North Ave,localbus,13.4,Moderate Frequency
+154,Fulton Ave & Clifton Ave,localbus,13.4,Moderate Frequency
+159,Gwynns Falls Pkwy & Reisterstown Rd,localbus,13.4,Moderate Frequency
+13528,Mondawmin Metro Station (Bus Bay 8),localbus,7.5,High Frequency
+35,Fulton Ave & Clifton Ave,localbus,14.0,Moderate Frequency
+36,Fulton Ave & North Ave,localbus,14.0,Moderate Frequency
+37,Fulton Ave & Presbury St,localbus,14.0,Moderate Frequency
+38,Fulton Ave & Baker St,localbus,14.0,Moderate Frequency
+14168,Presstman St & Mount St,localbus,14.0,Moderate Frequency
+3990,Gilmor St & Lorman Ct,localbus,14.0,Moderate Frequency
+3991,GILMOR ST & LAURENS ST sb,localbus,14.0,Moderate Frequency
+3992,GILMOR ST & WINCHESTER ST sb,localbus,14.0,Moderate Frequency
+3993,RIGGS AVE & N PARRISH ST,localbus,14.0,Moderate Frequency
+10024,RIGGS & CALHOUN eb,localbus,14.0,Moderate Frequency
+9326,Calhoun St & Lafayette Ave,localbus,15.3,Moderate Frequency
+48,Calhoun St & Lanvale St,localbus,14.0,Moderate Frequency
+11180,Calhoun St & Edmondson Ave,localbus,14.0,Moderate Frequency
+51,Calhoun St & Franklin St,localbus,14.0,Moderate Frequency
+52,Calhoun St & Saratoga St,localbus,15.3,Moderate Frequency
+13814,EASTERN AVE & PRESIDENT ST fs eb,localbus,13.8,Moderate Frequency
+13805,Eastern Ave & Caroline St,localbus,13.8,Moderate Frequency
+1888,Eastern Ave & Broadway,localbus,13.8,Moderate Frequency
+1891,Eastern Ave & Wolfe St,localbus,13.8,Moderate Frequency
+1892,Eastern Ave & Washington St,localbus,13.8,Moderate Frequency
+1893,Eastern Ave & Chester St,localbus,13.8,Moderate Frequency
+12220,Eastern Ave & Patterson Park Ave,localbus,13.8,Moderate Frequency
+1896,Eastern Ave & Milton Ave,localbus,13.8,Moderate Frequency
+1897,Eastern Ave & Lakewood Ave,localbus,13.8,Moderate Frequency
+12221,Eastern Ave & Linwood Ave,localbus,13.8,Moderate Frequency
+12222,Eastern Ave & East Ave,localbus,13.8,Moderate Frequency
+1904,Eastern Ave & Highland Ave,localbus,13.8,Moderate Frequency
+1905,Eastern Ave & Conkling St,localbus,13.8,Moderate Frequency
+1301,Conkling St & Dillon St,localbus,15.1,Moderate Frequency
+12420,O'Donnell St Cutoff & Travel Center,localbus,15.3,Moderate Frequency
+12421,Boston St & Anglesea St,localbus,15.1,Moderate Frequency
+3797,Boston St & Gusryan St,localbus,15.1,Moderate Frequency
+3800,Boston St & Dundalk Ave,localbus,15.1,Moderate Frequency
+54,Calhoun St & Fayette St,localbus,58.6,Infrequent
+3873,Lombard St & Kresson St,localbus,13.1,Moderate Frequency
+130,Fayette St & Fremont Ave,localbus,14.4,Moderate Frequency
+131,Fayette St & Poppleton St,localbus,14.4,Moderate Frequency
+132,Fayette St & Schroeder St,localbus,14.4,Moderate Frequency
+13795,SCHROEDER ST & SARATOGA ST nb,localbus,14.4,Moderate Frequency
+10867,FRANKLIN & ARLINGTON AVE wb,localbus,14.4,Moderate Frequency
+10868,FRANKLIN ST & CAREY ST wb,localbus,14.4,Moderate Frequency
+10869,FRANKLIN ST & CALHOUN ST wb,localbus,14.4,Moderate Frequency
+10675,FRANKLIN ST & FULTON AVE wb,localbus,14.4,Moderate Frequency
+14109,WEST BALTIMORE MARC STATION BAY 3,localbus,7.9,High Frequency
+10674,MULBERRY ST & MONROE ST eb,localbus,15.2,Moderate Frequency
+4442,MULBERRY ST & CALHOUN ST eb,localbus,14.4,Moderate Frequency
+4443,MULBERRY ST & CAREY ST eb,localbus,14.4,Moderate Frequency
+12623,MULBERRY & ARLINGTON fs eb,localbus,14.4,Moderate Frequency
+13794,SCHROEDER ST & FAYETTE ST fs sb,localbus,14.4,Moderate Frequency
+294,LOMBARD ST & MOUNT ST wb,localbus,14.7,Moderate Frequency
+295,LOMBARD ST & FULTON fs wb,localbus,14.7,Moderate Frequency
+297,LOMBARD ST & PAYSON ST wb,localbus,14.5,Moderate Frequency
+298,FREDERICK AVE & PULASKI ST wb,localbus,14.5,Moderate Frequency
+300,FREDERICK AVE & BENTALOU ST wb,localbus,14.5,Moderate Frequency
+302,FREDERICK AVE & CATHERINE ST wb,localbus,14.5,Moderate Frequency
+303,FREDERICK AVE & FRANKLINTOWN RD wb,localbus,14.5,Moderate Frequency
+8431,FREDERICK AVE & EASTLYNNE AVE wb,localbus,14.5,Moderate Frequency
+306,FREDERICK AVE & FONTHILL AVE wb,localbus,14.5,Moderate Frequency
+309,FREDERICK AVE & MOUNT OLIVET LN wb,localbus,14.5,Moderate Frequency
+235,FREDERICK AVE & HILTON ST eb,localbus,14.4,Moderate Frequency
+238,FREDERICK AVE & WELLESLEY ST eb,localbus,14.4,Moderate Frequency
+261,FREDERICK AVE & FONTHILL AVE fs eb,localbus,14.4,Moderate Frequency
+262,FREDERICK AVE & BRUNSWICK ST eb,localbus,14.4,Moderate Frequency
+264,FREDERICK AVE & FRANKLINTOWN RD opp eb,localbus,14.4,Moderate Frequency
+265,FREDERICK AVE & CATHERINE ST eb,localbus,14.4,Moderate Frequency
+267,FREDERICK AVE & BENTALOU ST eb,localbus,14.4,Moderate Frequency
+269,PRATT ST & PULASKI ST eb,localbus,14.4,Moderate Frequency
+272,PRATT ST & FULTON AVE eb,localbus,14.4,Moderate Frequency
+273,PRATT ST & MOUNT ST eb,localbus,14.6,Moderate Frequency
+10315,GILMOR ST & LOMBARD ST fs nb,localbus,14.6,Moderate Frequency
+1587,GREENMOUNT AVE & PITMAN PL fs,localbus,12.3,Moderate Frequency
+1589,GREENMOUNT AVE & PRESTON ST sb,localbus,12.3,Moderate Frequency
+1590,GREENMOUNT & BIDDLE sb,localbus,12.2,Moderate Frequency
+1592,GREENMOUNT AVE & EAGER ST sb,localbus,12.3,Moderate Frequency
+10700,GREENMOUNT AVE & MADISON ST sb,localbus,12.2,Moderate Frequency
+13811,FORREST ST & GREENMOUNT AVE fs sb,localbus,12.2,Moderate Frequency
+14134,BALTIMORE ARENA BAY 3,localbus,12.4,Moderate Frequency
+1607,FORREST ST & HILLEN ST nb,localbus,12.3,Moderate Frequency
+1608,GREENMOUNT AVE & MONUMENT ST nb,localbus,12.3,Moderate Frequency
+8685,GREENMOUNT AVE & MADISON ST nb,localbus,12.3,Moderate Frequency
+12207,GREENMOUNT AVE & EAGER ST nb,localbus,12.3,Moderate Frequency
+1612,GREENMOUNT AVE & BIDDLE ST nb,localbus,12.3,Moderate Frequency
+1613,GREENMOUNT AVE & PRESTON ST nb,localbus,12.3,Moderate Frequency
+1616,GREENMOUNT AVE & OLIVER ST opp nb,localbus,12.3,Moderate Frequency
+1618,GREENMOUNT AVE & NORTH AVE nb,localbus,12.2,Moderate Frequency
+14149,MORGAN STATE UNIVERSITY,localbus,14.8,Moderate Frequency
+480,33RD ST & GUILFORD AVE,localbus,28.2,Low Frequency
+6853,VIRGINIA AVE & FARRING CT opp sb,localbus,14.8,Moderate Frequency
+12530,CHURCH ST & PRUDENCE ST,localbus,14.8,Moderate Frequency
+6855,CHURCH ST & PENNINGTON AVE,localbus,14.8,Moderate Frequency
+6859,SPRUCE ST & PENNINGTON AVE wb,localbus,7.7,High Frequency
+12692,CHURCH ST & PRUDENCE ST fs wb,localbus,14.9,Moderate Frequency
+6918,VIRGINIA AVE & FARRING CT fs nb,localbus,14.9,Moderate Frequency
+545,33RD ST & SAINT PAUL ST eb,localbus,27.9,Low Frequency
+11337,MLK BLVD & LOMBARD ST fs sb,localbus,15.9,Moderate Frequency
+2186,MLK BLVD & PRATT ST fs sb,localbus,15.9,Moderate Frequency
+2187,WASHINGTON BLVD & BARRE ST wb,localbus,15.9,Moderate Frequency
+2191,WASHINGTON BLVD & CROSS ST sb,localbus,15.9,Moderate Frequency
+2193,WASHINGTON BLVD & CAREY ST sb,localbus,15.5,Moderate Frequency
+2198,WASHINGTON BLVD & BUSH ST sb,localbus,15.5,Moderate Frequency
+2202,WASHINGTON BLVD & ELK opp sb,localbus,15.1,Moderate Frequency
+2205,WASHINGTON BLVD & MONROE ST wb,localbus,15.1,Moderate Frequency
+2206,WASHINGTON BLVD & RR TRACKS wb,localbus,15.1,Moderate Frequency
+2209,WASHINGTON BLVD & HOLLINS FERRY RD wb,localbus,15.1,Moderate Frequency
+2211,WASHINGTON BLVD & SPENCE ST fs sb,localbus,15.1,Moderate Frequency
+2214,WASHINGTON BLVD & WHISTLER AVE opp wb,localbus,15.1,Moderate Frequency
+2217,WASHINGTON BLVD & DESOTO RD wb,localbus,15.1,Moderate Frequency
+2220,WASHINGTON & INVERNESS sb,localbus,15.1,Moderate Frequency
+2224,WASHINGTON BLVD & ATCO AVE sb,localbus,15.1,Moderate Frequency
+11467,WASHINGTON BLVD & DIGNAN RD eb,localbus,15.7,Moderate Frequency
+2286,WASHINGTON BLVD & INVERNESS AVE nb,localbus,15.7,Moderate Frequency
+2288,WASHINGTON BLVD & DESOTO RD opp nb,localbus,15.7,Moderate Frequency
+2291,WASHINGTON BLVD & WHISTLER AVE fs,localbus,15.7,Moderate Frequency
+2295,WASHINGTON BLVD & BREITWERT nb,localbus,15.7,Moderate Frequency
+2297,WASHINGTON BLVD & HOLLINS FERRY RD fs nb,localbus,15.7,Moderate Frequency
+2302,WASHINGTON BLVD & MONROE ST nb,localbus,15.7,Moderate Frequency
+2303,WASHINGTON BLVD & ELK fs nb,localbus,15.7,Moderate Frequency
+2307,WASHINGTON BLVD & BUSH ST nb,localbus,15.7,Moderate Frequency
+2311,WASHINGTON BLVD & CAREY ST nb,localbus,15.7,Moderate Frequency
+2312,WASHINGTON BLVD & CROSS ST fs eb,localbus,15.7,Moderate Frequency
+2315,WASHINGTON BLVD & BARRE ST fs eb,localbus,15.7,Moderate Frequency
+12307,CEDONIA AVE & HAMILTON AVE sb,localbus,16.3,Moderate Frequency
+928,SINCLAIR & FRANKFORD PLAZA wb,localbus,16.3,Moderate Frequency
+952,PRESTON & LINWOOD wb,localbus,16.3,Moderate Frequency
+955,PRESTON ST & LUZERNE AVE wb,localbus,16.3,Moderate Frequency
+977,PRESTON ST & MONTFORD AVE wb ns,localbus,16.3,Moderate Frequency
+962,PATTERSON PARK & CHASE sb,localbus,16.3,Moderate Frequency
+964,PATTERSON PARK & ASHLAND sb,localbus,16.1,Moderate Frequency
+13819,MADISON ST & GUILFORD AVE wb,localbus,16.1,Moderate Frequency
+14165,MADISON ST & CHARLES ST wb ns,localbus,16.1,Moderate Frequency
+13822,MADISON ST & EUTAW ST wb,localbus,16.1,Moderate Frequency
+4079,DOLPHIN ST & MYRTLE AVE sb,localbus,16.3,Moderate Frequency
+8395,LAFAYETTE AVE & MYRTLE AVE fs wb,localbus,16.3,Moderate Frequency
+4086,LAFAYETTE AVE & CAREY ST wb,localbus,16.3,Moderate Frequency
+4089,LAFAYETTE AVE & PARRISH ST wb,localbus,16.3,Moderate Frequency
+13823,LAFAYETTE AVE & FULTON AVE wb,localbus,16.3,Moderate Frequency
+13824,MONROE ST & EDMONDSON AVE sb,localbus,16.3,Moderate Frequency
+14110,WEST BALTIMORE MARC STATION BAY 4,localbus,8.5,High Frequency
+13809,FULTON AVE & EDMONDSON AVE fs nb,localbus,16.9,Moderate Frequency
+13810,FULTON AVE & LAFAYETTE AVE nb,localbus,16.9,Moderate Frequency
+3996,LAFAYETTE AVE & GILMOR ST fs eb,localbus,16.9,Moderate Frequency
+3998,LAFAYETTE AVE & CAREY ST ns eb,localbus,16.9,Moderate Frequency
+4000,LAFAYETTE AVE & ARLINGTON AVE eb,localbus,16.9,Moderate Frequency
+8801,LAFAYETTE AVE & MYRTLE AVE eb,localbus,16.6,Moderate Frequency
+4005,DOLPHIN ST & MYRTLE AVE fs eb,localbus,16.6,Moderate Frequency
+800,DRUID HILL & HOFFMAN sb,localbus,16.6,Moderate Frequency
+801,DRUID HILL AVE & PRESTON ST sb,localbus,16.6,Moderate Frequency
+803,DRUID HILL AVE & ORCHARD ST sb,localbus,16.6,Moderate Frequency
+13825,CENTRE ST & EUTAW ST eb,localbus,16.7,Moderate Frequency
+13826,CENTRE ST & HOWARD ST eb,localbus,16.7,Moderate Frequency
+13827,CENTRE ST & CHARLES ST eb ns,localbus,16.7,Moderate Frequency
+13828,CENTRE ST & ST PAUL ST fs eb,localbus,16.9,Moderate Frequency
+834,PATTERSON PARK & MADISON nb,localbus,16.7,Moderate Frequency
+836,PATTERSON PARK & EAGER nb,localbus,16.7,Moderate Frequency
+837,PATTERSON PARK & CHASE nb,localbus,16.7,Moderate Frequency
+839,PATTERSON PARK & PRESTON nb,localbus,16.7,Moderate Frequency
+873,PRESTON & MILTON eb,localbus,16.7,Moderate Frequency
+874,PRESTON ST & LAKEWOOD AVE eb,localbus,16.7,Moderate Frequency
+876,PRESTON & LINWOOD eb,localbus,16.7,Moderate Frequency
+903,SINCLAIR & MORAVIA fs eb,localbus,16.9,Moderate Frequency
+917,CEDONIA AVE & HAMILTON AVE nb,localbus,16.7,Moderate Frequency
+5890,ARGONNE DR & CATOR AVE opp eb,localbus,22.5,Low Frequency
+4825,ROGERS AVE STATION,localbus,5.0,High Frequency
+32498,WARNER ST (Greyhound Bus Station),commuterbus,65.6,Infrequent
+62,Baltimore St & Paca St,commuterbus,34.3,Infrequent
+64,BALTIMORE & HOWARD mid eb,commuterbus,58.8,Infrequent
+66,BALTIMORE ST & CHARLES ST eb,commuterbus,34.3,Infrequent
+67,BALTIMORE ST & LIGHT ST mb eb,commuterbus,34.3,Infrequent
+814,BALTIMORE ST & CALVERT ST fs eb,commuterbus,34.3,Infrequent
+3395,GAY ST & FAYETTE ST nb,commuterbus,30.0,Low Frequency
+12177,MONUMENT ST & WOLFE ST eb,commuterbus,31.4,Infrequent
+14195,WOLFE ST & ORLEANS ST,commuterbus,22.5,Low Frequency
+283,FAYETTE ST & GAY ST wb,commuterbus,28.8,Low Frequency
+516,SAINT PAUL ST & FAYETTE ST fs sb,commuterbus,26.5,Low Frequency
+68,LIGHT ST & REDWOOD ST sb,commuterbus,26.5,Low Frequency
+3661,LOMBARD ST & CHARLES ST mb wb,commuterbus,26.5,Low Frequency
+1341,LOMBARD ST & HOPKINS PL wb,commuterbus,44.1,Infrequent
+1342,LOMBARD ST & HOWARD ST wb,commuterbus,44.1,Infrequent
+14081,GREENE ST & LOMBARD ST sb fs,commuterbus,60.0,Infrequent
+3735,BALTIMORE ST & PINE ST fs eb,commuterbus,40.0,Infrequent
+2323,BALTIMORE ST & EUTAW ST fs eb,commuterbus,40.0,Infrequent
+10568,BALTIMORE ST & BALTIMORE ARENA,commuterbus,40.0,Infrequent
+816,GAY ST & LEXINGTON ST fs nb,commuterbus,40.0,Infrequent
+1343,LOMBARD ST & EUTAW ST fs wb,commuterbus,69.2,Infrequent
+5196,LOMBARD ST & GREENE ST wb,commuterbus,69.2,Infrequent
+501,CATHEDRAL ST & MULBERRY sb,commuterbus,50.0,Infrequent
+502,CATHEDRAL ST & SARATOGA ST sb,commuterbus,50.0,Infrequent
+503,LIBERTY ST & LEXINGTON ST sb,commuterbus,50.0,Infrequent
+504,HOPKINS PL & BALTIMORE ARENA mb sb,commuterbus,59.6,Infrequent
+7529,HOWARD ST & CAMDEN ST sb,commuterbus,33.4,Infrequent
+13664,HOWARD ST & PRATT ST ns (CONVENTION CENTER),commuterbus,34.6,Infrequent
+7524,HOWARD ST & PRATT ST fs nb,commuterbus,82.5,Infrequent
+2067,HOWARD ST & REDWOOD ST opp nb,commuterbus,82.5,Infrequent
+12036,HOWARD ST & BALT & FAIRMOUNT mis nb,commuterbus,82.5,Infrequent
+2069,HOWARD ST & FAYETTE ST nb,commuterbus,82.5,Infrequent
+2936,HOWARD ST & LEXINGTON ST nb,commuterbus,82.5,Infrequent
+2072,HOWARD ST & SARATOGA ST mid nb,commuterbus,82.5,Infrequent
+122,CHARLES ST & LOMBARD ST nb,commuterbus,13.4,Moderate Frequency
+506,CHARLES ST & REDWOOD ST nb,commuterbus,13.4,Moderate Frequency
+519,CHARLES ST & FAYETTE ST nb,commuterbus,13.4,Moderate Frequency
+520,CHARLES ST & LEXINGTON ST fs nb,commuterbus,13.4,Moderate Frequency
+521,CHARLES ST & PLEASANT ST nb,commuterbus,13.4,Moderate Frequency
+523,CHARLES ST & HAMILTON ST nb,commuterbus,24.2,Low Frequency
+524,CHARLES ST & MT VERNON PL nb,commuterbus,42.0,Infrequent
+13641,CHARLES ST & CHASE ST nb,commuterbus,42.0,Infrequent
+11511,PRESTON ST & MARYLAND AVE wb,commuterbus,42.0,Infrequent
+5233,EUTAW ST & 29TH DIVISION ST nb,commuterbus,42.0,Infrequent
+11487,DOLPHIN ST & HOWARD ST eb,commuterbus,43.5,Infrequent
+4017,BIDDLE ST & SAINT PAUL ST eb,commuterbus,45.0,Infrequent
+509,SAINT PAUL ST & MADISON ST sb,commuterbus,45.0,Infrequent
+511,SAINT PAUL ST between MONUMENT ST & CENTRE ST sb,commuterbus,45.0,Infrequent
+512,SAINT PAUL PL & MULBERRY ST mb sb,commuterbus,24.0,Low Frequency
+514,SAINT PAUL PL & SARATOGA ST sb,commuterbus,24.0,Low Frequency
+515,SAINT PAUL PL & LEXINGTON ST sb,commuterbus,24.0,Low Frequency
+11472,CENTRE ST & GUILFORD AVE eb,commuterbus,53.5,Infrequent
+7528,MONUMENT ST & RUTLAND AVE eb,commuterbus,19.5,Moderate Frequency
+285,FAYETTE ST & SAINT PAUL ST wb,commuterbus,66.2,Infrequent
+7640,Camden Station / Camden Yards (Northbound),lightrail,8.6,High Frequency
+7641,Convention Center (Northbound),lightrail,8.6,High Frequency
+7642,Baltimore Arena (University Center) (Northbound),lightrail,8.6,High Frequency
+7643,Lexington Market (Northbound),lightrail,8.6,High Frequency
+7644,Mt. Vernon (Centre Street) (Northbound),lightrail,8.6,High Frequency
+7645,Cultural Center / State Center (Northbound),lightrail,8.6,High Frequency
+7646,Mt. Royal / MICA (Northbound),lightrail,8.6,High Frequency
+7647,Penn Station (Northbound),lightrail,30.1,Infrequent
+7648,North Avenue (Northbound),lightrail,12.0,Moderate Frequency
+7649,MTA Light Rail Division,lightrail,6.5,High Frequency
+7650,Woodberry (Northbound),lightrail,12.7,Moderate Frequency
+7651,Cold Spring Lane (Northbound),lightrail,12.7,Moderate Frequency
+7652,Mt. Washington (Northbound),lightrail,12.7,Moderate Frequency
+7635,Patapsco (Northbound),lightrail,11.8,Moderate Frequency
+7637,Cherry Hill (Northbound),lightrail,11.8,Moderate Frequency
+7638,Westport (Northbound),lightrail,11.7,Moderate Frequency
+7639,Hamburg Street (Northbound),lightrail,11.7,Moderate Frequency
+7676,North Avenue (Southbound),lightrail,11.4,Moderate Frequency
+7678,Mt. Royal / MICA (Southbound),lightrail,8.5,High Frequency
+7679,Cultural Center / State Center (Southbound),lightrail,8.5,High Frequency
+7680,Mt. Vernon (Centre Street) (Southbound),lightrail,8.5,High Frequency
+7681,Lexington Market (Southbound),lightrail,8.6,High Frequency
+7682,Baltimore Arena (University Center) (Southbound),lightrail,8.6,High Frequency
+7683,Convention Center (Southbound),lightrail,8.6,High Frequency
+7684,Camden Station / Camden Yards (Southbound),lightrail,8.6,High Frequency
+7685,Hamburg Street (Southbound),lightrail,12.0,Moderate Frequency
+7686,Westport (Southbound),lightrail,12.0,Moderate Frequency
+7687,Cherry Hill (Southbound),lightrail,12.0,Moderate Frequency
+7673,Mt. Washington (Southbound),lightrail,12.8,Moderate Frequency
+7674,Cold Spring Lane (Southbound),lightrail,12.8,Moderate Frequency
+7675,Woodberry (Southbound),lightrail,12.8,Moderate Frequency
+7677,Penn Station (Southbound),lightrail,29.7,Low Frequency
+7519,REISTERSTOWN PLAZA STATION (METRO) nb,metro,9.6,High Frequency
+4819,REISTERSTOWN PLAZA STATION (METRO) sb,metro,10.3,Moderate Frequency
+10419,ROGERS AVE STATION (METRO) sb,metro,9.9,High Frequency
+5585,WEST COLD SPRING STATION (METRO),metro,9.9,High Frequency
+7503,MONDAWMIN STATION (METRO) sb,metro,9.9,High Frequency
+7504,PENN NORTH STATION (METRO) sb,metro,9.9,High Frequency
+7505,UPTON STATION (METRO) sb,metro,9.9,High Frequency
+7506,STATE CENTER (METRO) sb,metro,9.9,High Frequency
+7507,LEXINGTON MARKET (METRO) sb,metro,9.9,High Frequency
+7508,CHARLES CENTER (METRO) sb,metro,9.9,High Frequency
+7509,SHOT TOWER STATION (METRO) sb,metro,9.9,High Frequency
+7510,JOHNS HOPKINS STATION (METRO),metro,5.1,High Frequency
+7511,SHOT TOWER STATION (METRO) nb,metro,9.9,High Frequency
+7512,CHARLES CENTER (METRO) nb,metro,9.9,High Frequency
+7513,LEXINGTON MARKET (METRO) nb,metro,9.9,High Frequency
+7514,STATE CENTER (METRO) nb,metro,9.9,High Frequency
+7515,UPTON STATION (METRO) nb,metro,9.9,High Frequency
+7516,PENN NORTH STATION (METRO) nb,metro,9.9,High Frequency
+7517,MONDAWMIN STATION (METRO) nb,metro,9.9,High Frequency
+5584,WEST COLD SPRING STATION (METRO),metro,9.9,High Frequency
+10420,ROGERS AVE STATION (METRO) nb,metro,9.9,High Frequency
+12006,CAMDEN STATION MARC,marc,33.1,Infrequent
+11980,PENN STATION MARC sb,marc,33.5,Infrequent
+11981,WEST BALTIMORE MARC sb,marc,43.2,Infrequent
+11995,WEST BALTIMORE MARC nb,marc,49.1,Infrequent
+12002,PENN STATION MARC nb,marc,37.7,Infrequent
