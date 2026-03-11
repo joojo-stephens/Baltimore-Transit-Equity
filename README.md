@@ -3,7 +3,6 @@
 
 **Author:** Nathaniel K.A. Stephens  
 **Institution:** Morgan State University — MSc Urban Transportation  
-**Status:** 🔄 Active Development (March 2026)
 
 ---
 
