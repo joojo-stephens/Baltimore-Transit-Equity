@@ -112,7 +112,7 @@ Baltimore-Transit-Equity/
 │   ├── Charts_Report.docx
 │   └── Project_Outline.docx
 │
-├── index.html                  # Project showcase webpage
+├── transit_equity_showcase.html                  # Project showcase webpage
 └── README.md
 ```
 
